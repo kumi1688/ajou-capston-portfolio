@@ -1,0 +1,338 @@
+[
+  {
+    "Weight": 5.9,
+    "Length1": 7.5,
+    "Length2": 8.4,
+    "Length3": 8.8
+  },
+  {
+    "Weight": 32,
+    "Length1": 12.5,
+    "Length2": 13.7,
+    "Length3": 14.7
+  },
+  {
+    "Weight": 40,
+    "Length1": 13.8,
+    "Length2": 15,
+    "Length3": 16
+  },
+  {
+    "Weight": 51.5,
+    "Length1": 15,
+    "Length2": 16.2,
+    "Length3": 17.2
+  },
+  {
+    "Weight": 70,
+    "Length1": 15.7,
+    "Length2": 17.4,
+    "Length3": 18.5
+  },
+  {
+    "Weight": 100,
+    "Length1": 16.2,
+    "Length2": 18,
+    "Length3": 19.2
+  },
+  {
+    "Weight": 78,
+    "Length1": 16.8,
+    "Length2": 18.7,
+    "Length3": 19.4
+  },
+  {
+    "Weight": 80,
+    "Length1": 17.2,
+    "Length2": 19,
+    "Length3": 20.2
+  },
+  {
+    "Weight": 85,
+    "Length1": 17.8,
+    "Length2": 19.6,
+    "Length3": 20.8
+  },
+  {
+    "Weight": 85,
+    "Length1": 18.2,
+    "Length2": 20,
+    "Length3": 21
+  },
+  {
+    "Weight": 110,
+    "Length1": 19,
+    "Length2": 21,
+    "Length3": 22.5
+  },
+  {
+    "Weight": 115,
+    "Length1": 19,
+    "Length2": 21,
+    "Length3": 22.5
+  },
+  {
+    "Weight": 125,
+    "Length1": 19,
+    "Length2": 21,
+    "Length3": 22.5
+  },
+  {
+    "Weight": 130,
+    "Length1": 19.3,
+    "Length2": 21.3,
+    "Length3": 22.8
+  },
+  {
+    "Weight": 120,
+    "Length1": 20,
+    "Length2": 22,
+    "Length3": 23.5
+  },
+  {
+    "Weight": 120,
+    "Length1": 20,
+    "Length2": 22,
+    "Length3": 23.5
+  },
+  {
+    "Weight": 130,
+    "Length1": 20,
+    "Length2": 22,
+    "Length3": 23.5
+  },
+  {
+    "Weight": 135,
+    "Length1": 20,
+    "Length2": 22,
+    "Length3": 23.5
+  },
+  {
+    "Weight": 110,
+    "Length1": 20,
+    "Length2": 22,
+    "Length3": 23.5
+  },
+  {
+    "Weight": 130,
+    "Length1": 20.5,
+    "Length2": 22.5,
+    "Length3": 24
+  },
+  {
+    "Weight": 150,
+    "Length1": 20.5,
+    "Length2": 22.5,
+    "Length3": 24
+  },
+  {
+    "Weight": 145,
+    "Length1": 20.7,
+    "Length2": 22.7,
+    "Length3": 24.2
+  },
+  {
+    "Weight": 150,
+    "Length1": 21,
+    "Length2": 23,
+    "Length3": 24.5
+  },
+  {
+    "Weight": 170,
+    "Length1": 21.5,
+    "Length2": 23.5,
+    "Length3": 25
+  },
+  {
+    "Weight": 225,
+    "Length1": 22,
+    "Length2": 24,
+    "Length3": 25.5
+  },
+  {
+    "Weight": 145,
+    "Length1": 22,
+    "Length2": 24,
+    "Length3": 25.5
+  },
+  {
+    "Weight": 188,
+    "Length1": 22.6,
+    "Length2": 24.6,
+    "Length3": 26.2
+  },
+  {
+    "Weight": 180,
+    "Length1": 23,
+    "Length2": 25,
+    "Length3": 26.5
+  },
+  {
+    "Weight": 197,
+    "Length1": 23.5,
+    "Length2": 25.6,
+    "Length3": 27
+  },
+  {
+    "Weight": 218,
+    "Length1": 25,
+    "Length2": 26.5,
+    "Length3": 28
+  },
+  {
+    "Weight": 300,
+    "Length1": 25.2,
+    "Length2": 27.3,
+    "Length3": 28.7
+  },
+  {
+    "Weight": 260,
+    "Length1": 25.4,
+    "Length2": 27.5,
+    "Length3": 28.9
+  },
+  {
+    "Weight": 265,
+    "Length1": 25.4,
+    "Length2": 27.5,
+    "Length3": 28.9
+  },
+  {
+    "Weight": 250,
+    "Length1": 25.4,
+    "Length2": 27.5,
+    "Length3": 28.9
+  },
+  {
+    "Weight": 250,
+    "Length1": 25.9,
+    "Length2": 28,
+    "Length3": 29.4
+  },
+  {
+    "Weight": 300,
+    "Length1": 26.9,
+    "Length2": 28.7,
+    "Length3": 30.1
+  },
+  {
+    "Weight": 320,
+    "Length1": 27.8,
+    "Length2": 30,
+    "Length3": 31.6
+  },
+  {
+    "Weight": 514,
+    "Length1": 30.5,
+    "Length2": 32.8,
+    "Length3": 34
+  },
+  {
+    "Weight": 556,
+    "Length1": 32,
+    "Length2": 34.5,
+    "Length3": 36.5
+  },
+  {
+    "Weight": 840,
+    "Length1": 32.5,
+    "Length2": 35,
+    "Length3": 37.3
+  },
+  {
+    "Weight": 685,
+    "Length1": 34,
+    "Length2": 36.5,
+    "Length3": 39
+  },
+  {
+    "Weight": 700,
+    "Length1": 34,
+    "Length2": 36,
+    "Length3": 38.3
+  },
+  {
+    "Weight": 700,
+    "Length1": 34.5,
+    "Length2": 37,
+    "Length3": 39.4
+  },
+  {
+    "Weight": 690,
+    "Length1": 34.6,
+    "Length2": 37,
+    "Length3": 39.3
+  },
+  {
+    "Weight": 900,
+    "Length1": 36.5,
+    "Length2": 39,
+    "Length3": 41.4
+  },
+  {
+    "Weight": 650,
+    "Length1": 36.5,
+    "Length2": 39,
+    "Length3": 41.4
+  },
+  {
+    "Weight": 820,
+    "Length1": 36.6,
+    "Length2": 39,
+    "Length3": 41.3
+  },
+  {
+    "Weight": 850,
+    "Length1": 36.9,
+    "Length2": 40,
+    "Length3": 42.3
+  },
+  {
+    "Weight": 900,
+    "Length1": 37,
+    "Length2": 40,
+    "Length3": 42.5
+  },
+  {
+    "Weight": 1015,
+    "Length1": 37,
+    "Length2": 40,
+    "Length3": 42.4
+  },
+  {
+    "Weight": 820,
+    "Length1": 37.1,
+    "Length2": 40,
+    "Length3": 42.5
+  },
+  {
+    "Weight": 1100,
+    "Length1": 39,
+    "Length2": 42,
+    "Length3": 44.6
+  },
+  {
+    "Weight": 1000,
+    "Length1": 39.8,
+    "Length2": 43,
+    "Length3": 45.2
+  },
+  {
+    "Weight": 1100,
+    "Length1": 40.1,
+    "Length2": 43,
+    "Length3": 45.5
+  },
+  {
+    "Weight": 1000,
+    "Length1": 40.2,
+    "Length2": 43.5,
+    "Length3": 46
+  },
+  {
+    "Weight": 1000,
+    "Length1": 41.1,
+    "Length2": 44,
+    "Length3": 46.6
+  }
+]

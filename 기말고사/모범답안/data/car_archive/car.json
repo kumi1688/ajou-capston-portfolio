@@ -1,0 +1,4002 @@
+[
+  {
+    "Gender": 0,
+    "Age": 42,
+    "Annual Salary": 62812.09301,
+    "Credit Card Debt": 11609.38091,
+    "Net Worth": 238961.2505,
+    "Car Purchase Amount": 35321.45877
+  },
+  {
+    "Gender": 0,
+    "Age": 41,
+    "Annual Salary": 66646.89292,
+    "Credit Card Debt": 9572.957136,
+    "Net Worth": 530973.9078,
+    "Car Purchase Amount": 45115.52566
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 53798.55112,
+    "Credit Card Debt": 11160.35506,
+    "Net Worth": 638467.1773,
+    "Car Purchase Amount": 42925.70921
+  },
+  {
+    "Gender": 1,
+    "Age": 58,
+    "Annual Salary": 79370.03798,
+    "Credit Card Debt": 14426.16485,
+    "Net Worth": 548599.0524,
+    "Car Purchase Amount": 67422.36313
+  },
+  {
+    "Gender": 1,
+    "Age": 57,
+    "Annual Salary": 59729.1513,
+    "Credit Card Debt": 5358.712177,
+    "Net Worth": 560304.0671,
+    "Car Purchase Amount": 55915.46248
+  },
+  {
+    "Gender": 1,
+    "Age": 57,
+    "Annual Salary": 68499.85162,
+    "Credit Card Debt": 14179.47244,
+    "Net Worth": 428485.3604,
+    "Car Purchase Amount": 56611.99784
+  },
+  {
+    "Gender": 1,
+    "Age": 47,
+    "Annual Salary": 39814.522,
+    "Credit Card Debt": 5958.460188,
+    "Net Worth": 326373.1812,
+    "Car Purchase Amount": 28925.70549
+  },
+  {
+    "Gender": 1,
+    "Age": 50,
+    "Annual Salary": 51752.23445,
+    "Credit Card Debt": 10985.69656,
+    "Net Worth": 629312.4041,
+    "Car Purchase Amount": 47434.98265
+  },
+  {
+    "Gender": 0,
+    "Age": 47,
+    "Annual Salary": 58139.2591,
+    "Credit Card Debt": 3440.823799,
+    "Net Worth": 630059.0274,
+    "Car Purchase Amount": 48013.6141
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 53457.10132,
+    "Credit Card Debt": 12884.07868,
+    "Net Worth": 476643.3544,
+    "Car Purchase Amount": 38189.50601
+  },
+  {
+    "Gender": 1,
+    "Age": 50,
+    "Annual Salary": 73348.70745,
+    "Credit Card Debt": 8270.707359,
+    "Net Worth": 612738.6171,
+    "Car Purchase Amount": 59045.51309
+  },
+  {
+    "Gender": 1,
+    "Age": 53,
+    "Annual Salary": 55421.65733,
+    "Credit Card Debt": 10014.96929,
+    "Net Worth": 293862.5123,
+    "Car Purchase Amount": 42288.81046
+  },
+  {
+    "Gender": 0,
+    "Age": 44,
+    "Annual Salary": 37336.3383,
+    "Credit Card Debt": 10218.32092,
+    "Net Worth": 430907.1673,
+    "Car Purchase Amount": 28700.0334
+  },
+  {
+    "Gender": 0,
+    "Age": 48,
+    "Annual Salary": 68304.47298,
+    "Credit Card Debt": 9466.995128,
+    "Net Worth": 420322.0702,
+    "Car Purchase Amount": 49258.87571
+  },
+  {
+    "Gender": 0,
+    "Age": 55,
+    "Annual Salary": 72776.00382,
+    "Credit Card Debt": 10597.63814,
+    "Net Worth": 146344.8965,
+    "Car Purchase Amount": 49510.03356
+  },
+  {
+    "Gender": 1,
+    "Age": 53,
+    "Annual Salary": 64662.30061,
+    "Credit Card Debt": 11326.03434,
+    "Net Worth": 481433.4324,
+    "Car Purchase Amount": 53017.26723
+  },
+  {
+    "Gender": 0,
+    "Age": 45,
+    "Annual Salary": 63259.87837,
+    "Credit Card Debt": 11495.54999,
+    "Net Worth": 370356.2223,
+    "Car Purchase Amount": 41814.72067
+  },
+  {
+    "Gender": 1,
+    "Age": 48,
+    "Annual Salary": 52682.06401,
+    "Credit Card Debt": 12514.52029,
+    "Net Worth": 549443.5886,
+    "Car Purchase Amount": 43901.71244
+  },
+  {
+    "Gender": 1,
+    "Age": 52,
+    "Annual Salary": 54503.14423,
+    "Credit Card Debt": 7377.820914,
+    "Net Worth": 431098.9998,
+    "Car Purchase Amount": 44633.99241
+  },
+  {
+    "Gender": 0,
+    "Age": 59,
+    "Annual Salary": 55368.23716,
+    "Credit Card Debt": 13272.94647,
+    "Net Worth": 566022.1306,
+    "Car Purchase Amount": 54827.52403
+  },
+  {
+    "Gender": 1,
+    "Age": 52,
+    "Annual Salary": 63435.86304,
+    "Credit Card Debt": 11878.03779,
+    "Net Worth": 480588.2345,
+    "Car Purchase Amount": 51130.95379
+  },
+  {
+    "Gender": 0,
+    "Age": 48,
+    "Annual Salary": 64347.34531,
+    "Credit Card Debt": 10905.36628,
+    "Net Worth": 307226.0977,
+    "Car Purchase Amount": 43402.31525
+  },
+  {
+    "Gender": 1,
+    "Age": 46,
+    "Annual Salary": 65176.69055,
+    "Credit Card Debt": 7698.552234,
+    "Net Worth": 497526.4566,
+    "Car Purchase Amount": 47240.86004
+  },
+  {
+    "Gender": 1,
+    "Age": 47,
+    "Annual Salary": 52027.63837,
+    "Credit Card Debt": 11960.85377,
+    "Net Worth": 688466.0503,
+    "Car Purchase Amount": 46635.49432
+  },
+  {
+    "Gender": 0,
+    "Age": 40,
+    "Annual Salary": 69612.0123,
+    "Credit Card Debt": 8125.598993,
+    "Net Worth": 499086.3442,
+    "Car Purchase Amount": 45078.40193
+  },
+  {
+    "Gender": 0,
+    "Age": 53,
+    "Annual Salary": 53065.57175,
+    "Credit Card Debt": 17805.57607,
+    "Net Worth": 429440.3297,
+    "Car Purchase Amount": 44387.58412
+  },
+  {
+    "Gender": 0,
+    "Age": 28,
+    "Annual Salary": 82842.53385,
+    "Credit Card Debt": 13102.15805,
+    "Net Worth": 315775.3207,
+    "Car Purchase Amount": 37161.55393
+  },
+  {
+    "Gender": 0,
+    "Age": 56,
+    "Annual Salary": 61388.62709,
+    "Credit Card Debt": 14270.00731,
+    "Net Worth": 341691.9337,
+    "Car Purchase Amount": 49091.97185
+  },
+  {
+    "Gender": 1,
+    "Age": 46,
+    "Annual Salary": 100000,
+    "Credit Card Debt": 17452.92179,
+    "Net Worth": 188032.0778,
+    "Car Purchase Amount": 58350.31809
+  },
+  {
+    "Gender": 1,
+    "Age": 40,
+    "Annual Salary": 62891.86556,
+    "Credit Card Debt": 12522.94052,
+    "Net Worth": 583230.976,
+    "Car Purchase Amount": 43994.35972
+  },
+  {
+    "Gender": 1,
+    "Age": 33,
+    "Annual Salary": 39627.1248,
+    "Credit Card Debt": 9371.511071,
+    "Net Worth": 319837.6593,
+    "Car Purchase Amount": 17584.56963
+  },
+  {
+    "Gender": 1,
+    "Age": 40,
+    "Annual Salary": 68859.56489,
+    "Credit Card Debt": 13417.02027,
+    "Net Worth": 486069.073,
+    "Car Purchase Amount": 44650.36073
+  },
+  {
+    "Gender": 1,
+    "Age": 51,
+    "Annual Salary": 82358.22683,
+    "Credit Card Debt": 8092.475103,
+    "Net Worth": 655934.4666,
+    "Car Purchase Amount": 66363.89316
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 67904.39895,
+    "Credit Card Debt": 11417.30952,
+    "Net Worth": 487435.964,
+    "Car Purchase Amount": 53489.46214
+  },
+  {
+    "Gender": 0,
+    "Age": 46,
+    "Annual Salary": 65311.68225,
+    "Credit Card Debt": 7988.753685,
+    "Net Worth": 215673.5384,
+    "Car Purchase Amount": 39810.34817
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 59593.2624,
+    "Credit Card Debt": 12252.73058,
+    "Net Worth": 612242.7755,
+    "Car Purchase Amount": 51612.14311
+  },
+  {
+    "Gender": 1,
+    "Age": 50,
+    "Annual Salary": 47460.54809,
+    "Credit Card Debt": 7405.534271,
+    "Net Worth": 430624.8142,
+    "Car Purchase Amount": 38978.67458
+  },
+  {
+    "Gender": 1,
+    "Age": 22,
+    "Annual Salary": 43131.78411,
+    "Credit Card Debt": 10917.14094,
+    "Net Worth": 326742.7352,
+    "Car Purchase Amount": 10092.22509
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 52263.69806,
+    "Credit Card Debt": 8838.759509,
+    "Net Worth": 213040.9606,
+    "Car Purchase Amount": 35928.52404
+  },
+  {
+    "Gender": 1,
+    "Age": 48,
+    "Annual Salary": 80959.5331,
+    "Credit Card Debt": 4499.921096,
+    "Net Worth": 379749.9152,
+    "Car Purchase Amount": 54823.19221
+  },
+  {
+    "Gender": 0,
+    "Age": 42,
+    "Annual Salary": 66417.66597,
+    "Credit Card Debt": 9183.327621,
+    "Net Worth": 513340.0097,
+    "Car Purchase Amount": 45805.67186
+  },
+  {
+    "Gender": 1,
+    "Age": 46,
+    "Annual Salary": 58457.41492,
+    "Credit Card Debt": 12491.01273,
+    "Net Worth": 410655.9947,
+    "Car Purchase Amount": 41567.47033
+  },
+  {
+    "Gender": 0,
+    "Age": 38,
+    "Annual Salary": 50571.45969,
+    "Credit Card Debt": 13338.32852,
+    "Net Worth": 348833.8403,
+    "Car Purchase Amount": 28031.20985
+  },
+  {
+    "Gender": 1,
+    "Age": 39,
+    "Annual Salary": 50943.16256,
+    "Credit Card Debt": 10816.8855,
+    "Net Worth": 299734.1278,
+    "Car Purchase Amount": 27815.73813
+  },
+  {
+    "Gender": 1,
+    "Age": 61,
+    "Annual Salary": 79792.13096,
+    "Credit Card Debt": 14245.53319,
+    "Net Worth": 497950.2933,
+    "Car Purchase Amount": 68678.4352
+  },
+  {
+    "Gender": 0,
+    "Age": 55,
+    "Annual Salary": 70787.27764,
+    "Credit Card Debt": 10155.34095,
+    "Net Worth": 853913.8532,
+    "Car Purchase Amount": 68925.09447
+  },
+  {
+    "Gender": 1,
+    "Age": 42,
+    "Annual Salary": 56098.50773,
+    "Credit Card Debt": 11675.28496,
+    "Net Worth": 320228.6451,
+    "Car Purchase Amount": 34215.7615
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 57478.37922,
+    "Credit Card Debt": 2230.096344,
+    "Net Worth": 158979.7102,
+    "Car Purchase Amount": 37843.46619
+  },
+  {
+    "Gender": 1,
+    "Age": 41,
+    "Annual Salary": 60181.40633,
+    "Credit Card Debt": 7094.896557,
+    "Net Worth": 390312.1715,
+    "Car Purchase Amount": 37883.24231
+  },
+  {
+    "Gender": 0,
+    "Age": 40,
+    "Annual Salary": 74445.08168,
+    "Credit Card Debt": 7915.758178,
+    "Net Worth": 527420.7269,
+    "Car Purchase Amount": 48734.35708
+  },
+  {
+    "Gender": 1,
+    "Age": 41,
+    "Annual Salary": 38406.7789,
+    "Credit Card Debt": 11023.00268,
+    "Net Worth": 451846.1995,
+    "Car Purchase Amount": 27187.23914
+  },
+  {
+    "Gender": 0,
+    "Age": 56,
+    "Annual Salary": 64616.6881,
+    "Credit Card Debt": 12378.54089,
+    "Net Worth": 779925.7892,
+    "Car Purchase Amount": 63738.39065
+  },
+  {
+    "Gender": 0,
+    "Age": 46,
+    "Annual Salary": 68107.93144,
+    "Credit Card Debt": 7813.602657,
+    "Net Worth": 455609.1429,
+    "Car Purchase Amount": 48266.75516
+  },
+  {
+    "Gender": 1,
+    "Age": 37,
+    "Annual Salary": 72471.81532,
+    "Credit Card Debt": 11216.88676,
+    "Net Worth": 583523.0762,
+    "Car Purchase Amount": 46381.13111
+  },
+  {
+    "Gender": 1,
+    "Age": 52,
+    "Annual Salary": 35069.41886,
+    "Credit Card Debt": 1851.979839,
+    "Net Worth": 353757.5057,
+    "Car Purchase Amount": 31978.9799
+  },
+  {
+    "Gender": 0,
+    "Age": 57,
+    "Annual Salary": 52422.94691,
+    "Credit Card Debt": 6998.46562,
+    "Net Worth": 438067.7506,
+    "Car Purchase Amount": 48100.29052
+  },
+  {
+    "Gender": 1,
+    "Age": 34,
+    "Annual Salary": 84467.78988,
+    "Credit Card Debt": 7772.444847,
+    "Net Worth": 468238.7915,
+    "Car Purchase Amount": 47380.91224
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 51419.50777,
+    "Credit Card Debt": 11331.20447,
+    "Net Worth": 636407.1148,
+    "Car Purchase Amount": 41425.00116
+  },
+  {
+    "Gender": 1,
+    "Age": 50,
+    "Annual Salary": 46609.51626,
+    "Credit Card Debt": 7592.019748,
+    "Net Worth": 409419.5797,
+    "Car Purchase Amount": 38147.81018
+  },
+  {
+    "Gender": 1,
+    "Age": 42,
+    "Annual Salary": 55207.45679,
+    "Credit Card Debt": 9976.434857,
+    "Net Worth": 286062.5162,
+    "Car Purchase Amount": 32737.80177
+  },
+  {
+    "Gender": 1,
+    "Age": 42,
+    "Annual Salary": 46689.4159,
+    "Credit Card Debt": 7829.565502,
+    "Net Worth": 615765.9289,
+    "Car Purchase Amount": 37348.13737
+  },
+  {
+    "Gender": 0,
+    "Age": 42,
+    "Annual Salary": 71847.2544,
+    "Credit Card Debt": 4225.328117,
+    "Net Worth": 476088.3996,
+    "Car Purchase Amount": 47483.85316
+  },
+  {
+    "Gender": 0,
+    "Age": 55,
+    "Annual Salary": 69236.68608,
+    "Credit Card Debt": 9842.842611,
+    "Net Worth": 242495.9886,
+    "Car Purchase Amount": 49730.53339
+  },
+  {
+    "Gender": 0,
+    "Age": 53,
+    "Annual Salary": 54006.77851,
+    "Credit Card Debt": 15189.08845,
+    "Net Worth": 246321.8916,
+    "Car Purchase Amount": 40093.61981
+  },
+  {
+    "Gender": 0,
+    "Age": 53,
+    "Annual Salary": 47228.35999,
+    "Credit Card Debt": 9046.182396,
+    "Net Worth": 456634.2073,
+    "Car Purchase Amount": 42297.5062
+  },
+  {
+    "Gender": 0,
+    "Age": 43,
+    "Annual Salary": 70187.50328,
+    "Credit Card Debt": 6841.540577,
+    "Net Worth": 662176.4851,
+    "Car Purchase Amount": 52954.93121
+  },
+  {
+    "Gender": 0,
+    "Age": 55,
+    "Annual Salary": 62262.94845,
+    "Credit Card Debt": 11785.87919,
+    "Net Worth": 301026.2206,
+    "Car Purchase Amount": 48104.11184
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 59195.82899,
+    "Credit Card Debt": 8634.376791,
+    "Net Worth": 573054.3808,
+    "Car Purchase Amount": 43680.91327
+  },
+  {
+    "Gender": 1,
+    "Age": 57,
+    "Annual Salary": 48716.67271,
+    "Credit Card Debt": 10886.91711,
+    "Net Worth": 662382.6623,
+    "Car Purchase Amount": 52707.96816
+  },
+  {
+    "Gender": 1,
+    "Age": 52,
+    "Annual Salary": 66478.00967,
+    "Credit Card Debt": 13685.88702,
+    "Net Worth": 356553.3996,
+    "Car Purchase Amount": 49392.8897
+  },
+  {
+    "Gender": 1,
+    "Age": 45,
+    "Annual Salary": 50280.0045,
+    "Credit Card Debt": 11350.49408,
+    "Net Worth": 230728.3008,
+    "Car Purchase Amount": 30841.00154
+  },
+  {
+    "Gender": 0,
+    "Age": 56,
+    "Annual Salary": 57393.82872,
+    "Credit Card Debt": 5627.803654,
+    "Net Worth": 411831.0371,
+    "Car Purchase Amount": 49373.37555
+  },
+  {
+    "Gender": 0,
+    "Age": 41,
+    "Annual Salary": 63429.93141,
+    "Credit Card Debt": 10676.21884,
+    "Net Worth": 481335.3582,
+    "Car Purchase Amount": 41903.65171
+  },
+  {
+    "Gender": 1,
+    "Age": 48,
+    "Annual Salary": 59139.2108,
+    "Credit Card Debt": 4630.544424,
+    "Net Worth": 473845.8546,
+    "Car Purchase Amount": 45058.8969
+  },
+  {
+    "Gender": 1,
+    "Age": 56,
+    "Annual Salary": 67015.19372,
+    "Credit Card Debt": 13000.41369,
+    "Net Worth": 355157.6417,
+    "Car Purchase Amount": 52991.52667
+  },
+  {
+    "Gender": 0,
+    "Age": 47,
+    "Annual Salary": 69157.4521,
+    "Credit Card Debt": 15791.61176,
+    "Net Worth": 506986.9824,
+    "Car Purchase Amount": 50958.08115
+  },
+  {
+    "Gender": 1,
+    "Age": 53,
+    "Annual Salary": 50867.94007,
+    "Credit Card Debt": 16732.30638,
+    "Net Worth": 344916.1768,
+    "Car Purchase Amount": 41357.17897
+  },
+  {
+    "Gender": 1,
+    "Age": 57,
+    "Annual Salary": 53450.90036,
+    "Credit Card Debt": 8740.723093,
+    "Net Worth": 309113.0627,
+    "Car Purchase Amount": 44434.71917
+  },
+  {
+    "Gender": 0,
+    "Age": 39,
+    "Annual Salary": 70463.99084,
+    "Credit Card Debt": 10059.55406,
+    "Net Worth": 278799.6958,
+    "Car Purchase Amount": 38502.42392
+  },
+  {
+    "Gender": 0,
+    "Age": 45,
+    "Annual Salary": 52697.15192,
+    "Credit Card Debt": 861.8166529,
+    "Net Worth": 540805.494,
+    "Car Purchase Amount": 41221.24918
+  },
+  {
+    "Gender": 1,
+    "Age": 33,
+    "Annual Salary": 71055.41924,
+    "Credit Card Debt": 6147.918843,
+    "Net Worth": 441527.0144,
+    "Car Purchase Amount": 38399.46139
+  },
+  {
+    "Gender": 1,
+    "Age": 44,
+    "Annual Salary": 55406.46215,
+    "Credit Card Debt": 9522.576495,
+    "Net Worth": 523251.2663,
+    "Car Purchase Amount": 41456.68097
+  },
+  {
+    "Gender": 1,
+    "Age": 40,
+    "Annual Salary": 48567.07462,
+    "Credit Card Debt": 9724.031647,
+    "Net Worth": 407401.3776,
+    "Car Purchase Amount": 30394.82494
+  },
+  {
+    "Gender": 0,
+    "Age": 40,
+    "Annual Salary": 69506.62127,
+    "Credit Card Debt": 5449.471997,
+    "Net Worth": 409293.2658,
+    "Car Purchase Amount": 42384.05128
+  },
+  {
+    "Gender": 1,
+    "Age": 37,
+    "Annual Salary": 69453.71659,
+    "Credit Card Debt": 9565.830875,
+    "Net Worth": 386128.1333,
+    "Car Purchase Amount": 39002.0771
+  },
+  {
+    "Gender": 1,
+    "Age": 40,
+    "Annual Salary": 36929.35124,
+    "Credit Card Debt": 9719.192898,
+    "Net Worth": 245664.3652,
+    "Car Purchase Amount": 19553.2739
+  },
+  {
+    "Gender": 1,
+    "Age": 44,
+    "Annual Salary": 63087.95261,
+    "Credit Card Debt": 11024.02643,
+    "Net Worth": 496856.4912,
+    "Car Purchase Amount": 45167.32542
+  },
+  {
+    "Gender": 0,
+    "Age": 43,
+    "Annual Salary": 50889.34054,
+    "Credit Card Debt": 11041.17891,
+    "Net Worth": 448601.9484,
+    "Car Purchase Amount": 36019.9556
+  },
+  {
+    "Gender": 1,
+    "Age": 58,
+    "Annual Salary": 58065.25694,
+    "Credit Card Debt": 4204.920492,
+    "Net Worth": 388498.5102,
+    "Car Purchase Amount": 50937.93844
+  },
+  {
+    "Gender": 1,
+    "Age": 32,
+    "Annual Salary": 20000,
+    "Credit Card Debt": 14261.80773,
+    "Net Worth": 579181.6552,
+    "Car Purchase Amount": 12895.71468
+  },
+  {
+    "Gender": 1,
+    "Age": 50,
+    "Annual Salary": 60536.20406,
+    "Credit Card Debt": 8244.470226,
+    "Net Worth": 173079.1798,
+    "Car Purchase Amount": 38955.21919
+  },
+  {
+    "Gender": 1,
+    "Age": 59,
+    "Annual Salary": 50667.69759,
+    "Credit Card Debt": 9871.403591,
+    "Net Worth": 536665.0464,
+    "Car Purchase Amount": 51221.04249
+  },
+  {
+    "Gender": 1,
+    "Age": 42,
+    "Annual Salary": 44376.62221,
+    "Credit Card Debt": 13865.09055,
+    "Net Worth": 259049.2824,
+    "Car Purchase Amount": 25971.95673
+  },
+  {
+    "Gender": 0,
+    "Age": 50,
+    "Annual Salary": 75958.28349,
+    "Credit Card Debt": 10562.90377,
+    "Net Worth": 635512.3606,
+    "Car Purchase Amount": 60670.33672
+  },
+  {
+    "Gender": 1,
+    "Age": 53,
+    "Annual Salary": 70896.72853,
+    "Credit Card Debt": 11794.73914,
+    "Net Worth": 398746.8458,
+    "Car Purchase Amount": 54075.12064
+  },
+  {
+    "Gender": 1,
+    "Age": 47,
+    "Annual Salary": 56009.73073,
+    "Credit Card Debt": 11030.2654,
+    "Net Worth": 391848.6041,
+    "Car Purchase Amount": 40004.87142
+  },
+  {
+    "Gender": 0,
+    "Age": 46,
+    "Annual Salary": 90556.62686,
+    "Credit Card Debt": 13872.5667,
+    "Net Worth": 479586.9387,
+    "Car Purchase Amount": 61593.52058
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 71716.45662,
+    "Credit Card Debt": 8870.714301,
+    "Net Worth": 165866.2,
+    "Car Purchase Amount": 39503.38829
+  },
+  {
+    "Gender": 0,
+    "Age": 49,
+    "Annual Salary": 68502.10943,
+    "Credit Card Debt": 5831.118245,
+    "Net Worth": 515084.1891,
+    "Car Purchase Amount": 52474.71839
+  },
+  {
+    "Gender": 0,
+    "Age": 43,
+    "Annual Salary": 46261.42666,
+    "Credit Card Debt": 16767.2636,
+    "Net Worth": 759479.4596,
+    "Car Purchase Amount": 42187.6828
+  },
+  {
+    "Gender": 1,
+    "Age": 53,
+    "Annual Salary": 61858.19077,
+    "Credit Card Debt": 5189.083564,
+    "Net Worth": 706977.053,
+    "Car Purchase Amount": 57441.44414
+  },
+  {
+    "Gender": 1,
+    "Age": 36,
+    "Annual Salary": 49483.83262,
+    "Credit Card Debt": 11811.25253,
+    "Net Worth": 242292.92,
+    "Car Purchase Amount": 22681.71667
+  },
+  {
+    "Gender": 1,
+    "Age": 30,
+    "Annual Salary": 68289.18229,
+    "Credit Card Debt": 7357.787011,
+    "Net Worth": 404457.3099,
+    "Car Purchase Amount": 33640.73697
+  },
+  {
+    "Gender": 0,
+    "Age": 37,
+    "Annual Salary": 47399.22827,
+    "Credit Card Debt": 14562.64194,
+    "Net Worth": 537744.1324,
+    "Car Purchase Amount": 31540.77868
+  },
+  {
+    "Gender": 0,
+    "Age": 48,
+    "Annual Salary": 63975.0609,
+    "Credit Card Debt": 10614.85449,
+    "Net Worth": 891439.8761,
+    "Car Purchase Amount": 60461.24268
+  },
+  {
+    "Gender": 0,
+    "Age": 44,
+    "Annual Salary": 75460.52362,
+    "Credit Card Debt": 6280.929547,
+    "Net Worth": 296972.4085,
+    "Car Purchase Amount": 45738.3343
+  },
+  {
+    "Gender": 0,
+    "Age": 42,
+    "Annual Salary": 51075.46118,
+    "Credit Card Debt": 12416.84845,
+    "Net Worth": 450402.2932,
+    "Car Purchase Amount": 34803.82395
+  },
+  {
+    "Gender": 1,
+    "Age": 50,
+    "Annual Salary": 42433.54619,
+    "Credit Card Debt": 7335.524826,
+    "Net Worth": 386057.421,
+    "Car Purchase Amount": 34642.6024
+  },
+  {
+    "Gender": 1,
+    "Age": 30,
+    "Annual Salary": 61922.8971,
+    "Credit Card Debt": 10366.50326,
+    "Net Worth": 323453.2022,
+    "Car Purchase Amount": 27586.71854
+  },
+  {
+    "Gender": 1,
+    "Age": 42,
+    "Annual Salary": 69946.93924,
+    "Credit Card Debt": 9010.648633,
+    "Net Worth": 778537.2095,
+    "Car Purchase Amount": 54973.02495
+  },
+  {
+    "Gender": 1,
+    "Age": 46,
+    "Annual Salary": 73476.42249,
+    "Credit Card Debt": 9656.806156,
+    "Net Worth": 386287.0208,
+    "Car Purchase Amount": 49142.51174
+  },
+  {
+    "Gender": 1,
+    "Age": 55,
+    "Annual Salary": 75571.20188,
+    "Credit Card Debt": 12887.54899,
+    "Net Worth": 416540.299,
+    "Car Purchase Amount": 58840.53964
+  },
+  {
+    "Gender": 0,
+    "Age": 44,
+    "Annual Salary": 82573.01132,
+    "Credit Card Debt": 1696.989764,
+    "Net Worth": 562605.0655,
+    "Car Purchase Amount": 57306.32866
+  },
+  {
+    "Gender": 0,
+    "Age": 58,
+    "Annual Salary": 50649.64492,
+    "Credit Card Debt": 11211.72016,
+    "Net Worth": 565932.1861,
+    "Car Purchase Amount": 51941.6756
+  },
+  {
+    "Gender": 1,
+    "Age": 42,
+    "Annual Salary": 53427.46192,
+    "Credit Card Debt": 7903.103591,
+    "Net Worth": 238529.6336,
+    "Car Purchase Amount": 30240.60975
+  },
+  {
+    "Gender": 1,
+    "Age": 57,
+    "Annual Salary": 75247.18061,
+    "Credit Card Debt": 13258.46631,
+    "Net Worth": 659279.2011,
+    "Car Purchase Amount": 67120.89878
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 69175.19403,
+    "Credit Card Debt": 6039.594519,
+    "Net Worth": 325701.4083,
+    "Car Purchase Amount": 42408.02625
+  },
+  {
+    "Gender": 0,
+    "Age": 35,
+    "Annual Salary": 84171.16719,
+    "Credit Card Debt": 12719.64415,
+    "Net Worth": 244310.5736,
+    "Car Purchase Amount": 41451.71843
+  },
+  {
+    "Gender": 0,
+    "Age": 43,
+    "Annual Salary": 45721.66835,
+    "Credit Card Debt": 14250.52398,
+    "Net Worth": 790526.5507,
+    "Car Purchase Amount": 42592.88647
+  },
+  {
+    "Gender": 0,
+    "Age": 35,
+    "Annual Salary": 54355.7595,
+    "Credit Card Debt": 10008.76797,
+    "Net Worth": 573052.0119,
+    "Car Purchase Amount": 34521.17618
+  },
+  {
+    "Gender": 1,
+    "Age": 34,
+    "Annual Salary": 77206.48386,
+    "Credit Card Debt": 8493.098575,
+    "Net Worth": 411070.4828,
+    "Car Purchase Amount": 42213.69644
+  },
+  {
+    "Gender": 0,
+    "Age": 48,
+    "Annual Salary": 57005.18595,
+    "Credit Card Debt": 12416.79083,
+    "Net Worth": 408147.0405,
+    "Car Purchase Amount": 41913.53713
+  },
+  {
+    "Gender": 1,
+    "Age": 53,
+    "Annual Salary": 65809.10782,
+    "Credit Card Debt": 4820.839445,
+    "Net Worth": 692401.4668,
+    "Car Purchase Amount": 59416.18101
+  },
+  {
+    "Gender": 0,
+    "Age": 47,
+    "Annual Salary": 65468.1442,
+    "Credit Card Debt": 7248.54142,
+    "Net Worth": 588570.8903,
+    "Car Purchase Amount": 51402.61506
+  },
+  {
+    "Gender": 0,
+    "Age": 54,
+    "Annual Salary": 60991.82443,
+    "Credit Card Debt": 7329.22851,
+    "Net Worth": 586368.9293,
+    "Car Purchase Amount": 54755.42038
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 61809.07451,
+    "Credit Card Debt": 2620.079459,
+    "Net Worth": 407733.5229,
+    "Car Purchase Amount": 47143.44008
+  },
+  {
+    "Gender": 0,
+    "Age": 59,
+    "Annual Salary": 66905.47644,
+    "Credit Card Debt": 10077.49592,
+    "Net Worth": 651215.6435,
+    "Car Purchase Amount": 64391.68906
+  },
+  {
+    "Gender": 0,
+    "Age": 49,
+    "Annual Salary": 65131.25015,
+    "Credit Card Debt": 6206.922109,
+    "Net Worth": 53366.13861,
+    "Car Purchase Amount": 37252.55194
+  },
+  {
+    "Gender": 1,
+    "Age": 51,
+    "Annual Salary": 83626.30783,
+    "Credit Card Debt": 8458.749819,
+    "Net Worth": 167031.5554,
+    "Car Purchase Amount": 52665.36511
+  },
+  {
+    "Gender": 0,
+    "Age": 40,
+    "Annual Salary": 64328.27892,
+    "Credit Card Debt": 13860.43821,
+    "Net Worth": 567357.0264,
+    "Car Purchase Amount": 44001.20706
+  },
+  {
+    "Gender": 1,
+    "Age": 53,
+    "Annual Salary": 69255.98753,
+    "Credit Card Debt": 18361.24915,
+    "Net Worth": 339207.2774,
+    "Car Purchase Amount": 51551.67997
+  },
+  {
+    "Gender": 1,
+    "Age": 45,
+    "Annual Salary": 60575.12604,
+    "Credit Card Debt": 8088.344365,
+    "Net Worth": 291360.0291,
+    "Car Purchase Amount": 38243.66481
+  },
+  {
+    "Gender": 0,
+    "Age": 45,
+    "Annual Salary": 63729.12568,
+    "Credit Card Debt": 12507.19736,
+    "Net Worth": 271430.0543,
+    "Car Purchase Amount": 39766.64804
+  },
+  {
+    "Gender": 0,
+    "Age": 37,
+    "Annual Salary": 64315.73671,
+    "Credit Card Debt": 14871.36126,
+    "Net Worth": 502946.8819,
+    "Car Purchase Amount": 40077.57289
+  },
+  {
+    "Gender": 0,
+    "Age": 43,
+    "Annual Salary": 51419.01644,
+    "Credit Card Debt": 9026.061543,
+    "Net Worth": 362564.346,
+    "Car Purchase Amount": 33131.52734
+  },
+  {
+    "Gender": 0,
+    "Age": 48,
+    "Annual Salary": 53870.48483,
+    "Credit Card Debt": 14720.53399,
+    "Net Worth": 701782.528,
+    "Car Purchase Amount": 48622.66097
+  },
+  {
+    "Gender": 0,
+    "Age": 49,
+    "Annual Salary": 56895.23153,
+    "Credit Card Debt": 9851.578109,
+    "Net Worth": 580950.3967,
+    "Car Purchase Amount": 47693.23482
+  },
+  {
+    "Gender": 1,
+    "Age": 48,
+    "Annual Salary": 52534.20778,
+    "Credit Card Debt": 7583.753853,
+    "Net Worth": 401955.501,
+    "Car Purchase Amount": 39410.4616
+  },
+  {
+    "Gender": 1,
+    "Age": 45,
+    "Annual Salary": 52632.97124,
+    "Credit Card Debt": 12348.67783,
+    "Net Worth": 293999.9427,
+    "Car Purchase Amount": 33428.40183
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 42375.21424,
+    "Credit Card Debt": 6062.60136,
+    "Net Worth": 510039.1484,
+    "Car Purchase Amount": 32700.27871
+  },
+  {
+    "Gender": 0,
+    "Age": 62,
+    "Annual Salary": 65617.29175,
+    "Credit Card Debt": 14392.28833,
+    "Net Worth": 560593.416,
+    "Car Purchase Amount": 62864.43011
+  },
+  {
+    "Gender": 1,
+    "Age": 46,
+    "Annual Salary": 49398.74439,
+    "Credit Card Debt": 6994.617316,
+    "Net Worth": 174525.8426,
+    "Car Purchase Amount": 29425.83001
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 63869.64928,
+    "Credit Card Debt": 12860.65824,
+    "Net Worth": 260269.0963,
+    "Car Purchase Amount": 44418.60955
+  },
+  {
+    "Gender": 1,
+    "Age": 44,
+    "Annual Salary": 60871.18248,
+    "Credit Card Debt": 4397.947571,
+    "Net Worth": 262959.2506,
+    "Car Purchase Amount": 36645.5609
+  },
+  {
+    "Gender": 0,
+    "Age": 57,
+    "Annual Salary": 68090.5087,
+    "Credit Card Debt": 6181.970908,
+    "Net Worth": 316064.0338,
+    "Car Purchase Amount": 53655.53859
+  },
+  {
+    "Gender": 0,
+    "Age": 60,
+    "Annual Salary": 54122.87827,
+    "Credit Card Debt": 15164.87506,
+    "Net Worth": 254617.2609,
+    "Car Purchase Amount": 45977.12502
+  },
+  {
+    "Gender": 1,
+    "Age": 39,
+    "Annual Salary": 59316.93704,
+    "Credit Card Debt": 12296.34158,
+    "Net Worth": 510811.3695,
+    "Car Purchase Amount": 38504.39444
+  },
+  {
+    "Gender": 0,
+    "Age": 61,
+    "Annual Salary": 38779.18396,
+    "Credit Card Debt": 12758.89583,
+    "Net Worth": 581497.8874,
+    "Car Purchase Amount": 47935.9394
+  },
+  {
+    "Gender": 1,
+    "Age": 50,
+    "Annual Salary": 88292.73205,
+    "Credit Card Debt": 10799.1381,
+    "Net Worth": 378357.9385,
+    "Car Purchase Amount": 60222.22672
+  },
+  {
+    "Gender": 1,
+    "Age": 37,
+    "Annual Salary": 68688.40199,
+    "Credit Card Debt": 15796.31838,
+    "Net Worth": 375889.6381,
+    "Car Purchase Amount": 38930.55234
+  },
+  {
+    "Gender": 1,
+    "Age": 45,
+    "Annual Salary": 51906.85022,
+    "Credit Card Debt": 13686.96935,
+    "Net Worth": 85520.85055,
+    "Car Purchase Amount": 27810.21814
+  },
+  {
+    "Gender": 1,
+    "Age": 50,
+    "Annual Salary": 52373.79446,
+    "Credit Card Debt": 11347.62967,
+    "Net Worth": 633383.4925,
+    "Car Purchase Amount": 47604.34591
+  },
+  {
+    "Gender": 0,
+    "Age": 32,
+    "Annual Salary": 73768.12453,
+    "Credit Card Debt": 8132.073716,
+    "Net Worth": 562663.8116,
+    "Car Purchase Amount": 42356.6895
+  },
+  {
+    "Gender": 0,
+    "Age": 34,
+    "Annual Salary": 55576.84068,
+    "Credit Card Debt": 9396.008371,
+    "Net Worth": 475126.1252,
+    "Car Purchase Amount": 31300.54347
+  },
+  {
+    "Gender": 1,
+    "Age": 45,
+    "Annual Salary": 59689.81438,
+    "Credit Card Debt": 14862.84011,
+    "Net Worth": 449895.3046,
+    "Car Purchase Amount": 42369.64247
+  },
+  {
+    "Gender": 0,
+    "Age": 50,
+    "Annual Salary": 55381.53225,
+    "Credit Card Debt": 5088.239017,
+    "Net Worth": 20000,
+    "Car Purchase Amount": 31837.22537
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 34154.77654,
+    "Credit Card Debt": 5316.010491,
+    "Net Worth": 216355.3406,
+    "Car Purchase Amount": 26499.31418
+  },
+  {
+    "Gender": 0,
+    "Age": 53,
+    "Annual Salary": 54382.7481,
+    "Credit Card Debt": 6940.056371,
+    "Net Worth": 191168.4476,
+    "Car Purchase Amount": 38172.83602
+  },
+  {
+    "Gender": 0,
+    "Age": 34,
+    "Annual Salary": 65919.59731,
+    "Credit Card Debt": 7594.363993,
+    "Net Worth": 543789.7212,
+    "Car Purchase Amount": 39433.40631
+  },
+  {
+    "Gender": 0,
+    "Age": 56,
+    "Annual Salary": 39488.45582,
+    "Credit Card Debt": 10992.33383,
+    "Net Worth": 363561.1972,
+    "Car Purchase Amount": 37714.31659
+  },
+  {
+    "Gender": 1,
+    "Age": 57,
+    "Annual Salary": 72637.84482,
+    "Credit Card Debt": 14938.50613,
+    "Net Worth": 352507.9012,
+    "Car Purchase Amount": 57125.41541
+  },
+  {
+    "Gender": 1,
+    "Age": 48,
+    "Annual Salary": 67247.07698,
+    "Credit Card Debt": 9851.689538,
+    "Net Worth": 368344.0637,
+    "Car Purchase Amount": 46453.34819
+  },
+  {
+    "Gender": 0,
+    "Age": 40,
+    "Annual Salary": 71271.84407,
+    "Credit Card Debt": 13122.45694,
+    "Net Worth": 411045.8332,
+    "Car Purchase Amount": 43855.06077
+  },
+  {
+    "Gender": 0,
+    "Age": 50,
+    "Annual Salary": 71693.44742,
+    "Credit Card Debt": 14421.48298,
+    "Net Worth": 517480.0937,
+    "Car Purchase Amount": 55592.70383
+  },
+  {
+    "Gender": 0,
+    "Age": 47,
+    "Annual Salary": 57860.53103,
+    "Credit Card Debt": 7146.192574,
+    "Net Worth": 445745.5544,
+    "Car Purchase Amount": 42484.02283
+  },
+  {
+    "Gender": 1,
+    "Age": 39,
+    "Annual Salary": 69142.08412,
+    "Credit Card Debt": 8707.511532,
+    "Net Worth": 399124.4489,
+    "Car Purchase Amount": 40879.19107
+  },
+  {
+    "Gender": 1,
+    "Age": 36,
+    "Annual Salary": 52477.66494,
+    "Credit Card Debt": 12071.41684,
+    "Net Worth": 97706.89181,
+    "Car Purchase Amount": 20653.21409
+  },
+  {
+    "Gender": 1,
+    "Age": 44,
+    "Annual Salary": 47592.04749,
+    "Credit Card Debt": 13167.65763,
+    "Net Worth": 473101.0273,
+    "Car Purchase Amount": 35438.80549
+  },
+  {
+    "Gender": 0,
+    "Age": 47,
+    "Annual Salary": 48123.36983,
+    "Credit Card Debt": 921.5340234,
+    "Net Worth": 405550.1689,
+    "Car Purchase Amount": 36112.79346
+  },
+  {
+    "Gender": 1,
+    "Age": 33,
+    "Annual Salary": 76916.41515,
+    "Credit Card Debt": 13923.96207,
+    "Net Worth": 315183.5688,
+    "Car Purchase Amount": 38182.30465
+  },
+  {
+    "Gender": 1,
+    "Age": 42,
+    "Annual Salary": 65714.46469,
+    "Credit Card Debt": 12557.08133,
+    "Net Worth": 362707.0273,
+    "Car Purchase Amount": 41026.02421
+  },
+  {
+    "Gender": 1,
+    "Age": 47,
+    "Annual Salary": 40346.06491,
+    "Credit Card Debt": 11505.89906,
+    "Net Worth": 255922.473,
+    "Car Purchase Amount": 27889.95197
+  },
+  {
+    "Gender": 0,
+    "Age": 40,
+    "Annual Salary": 71148.20248,
+    "Credit Card Debt": 7917.65097,
+    "Net Worth": 416817.4673,
+    "Car Purchase Amount": 43724.4896
+  },
+  {
+    "Gender": 1,
+    "Age": 54,
+    "Annual Salary": 81757.66856,
+    "Credit Card Debt": 7500.778414,
+    "Net Worth": 278181.8354,
+    "Car Purchase Amount": 57430.76903
+  },
+  {
+    "Gender": 0,
+    "Age": 38,
+    "Annual Salary": 64867.14911,
+    "Credit Card Debt": 13962.95284,
+    "Net Worth": 498441.5687,
+    "Car Purchase Amount": 41104.07108
+  },
+  {
+    "Gender": 0,
+    "Age": 40,
+    "Annual Salary": 70051.94033,
+    "Credit Card Debt": 4701.316175,
+    "Net Worth": 613706.5421,
+    "Car Purchase Amount": 49050.85378
+  },
+  {
+    "Gender": 1,
+    "Age": 45,
+    "Annual Salary": 62043.16623,
+    "Credit Card Debt": 4980.668295,
+    "Net Worth": 357639.0334,
+    "Car Purchase Amount": 41265.52929
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 85186.48921,
+    "Credit Card Debt": 12413.0319,
+    "Net Worth": 546630.5284,
+    "Car Purchase Amount": 64545.16339
+  },
+  {
+    "Gender": 1,
+    "Age": 38,
+    "Annual Salary": 47127.41632,
+    "Credit Card Debt": 10221.15388,
+    "Net Worth": 427011.4954,
+    "Car Purchase Amount": 29052.09521
+  },
+  {
+    "Gender": 1,
+    "Age": 34,
+    "Annual Salary": 61177.08698,
+    "Credit Card Debt": 9837.222432,
+    "Net Worth": 340663.3261,
+    "Car Purchase Amount": 30719.8156
+  },
+  {
+    "Gender": 1,
+    "Age": 50,
+    "Annual Salary": 57770.36488,
+    "Credit Card Debt": 8628.434025,
+    "Net Worth": 211765.2494,
+    "Car Purchase Amount": 38763.11306
+  },
+  {
+    "Gender": 0,
+    "Age": 42,
+    "Annual Salary": 60432.40367,
+    "Credit Card Debt": 11417.46257,
+    "Net Worth": 415005.3584,
+    "Car Purchase Amount": 39331.20127
+  },
+  {
+    "Gender": 1,
+    "Age": 33,
+    "Annual Salary": 58999.88858,
+    "Credit Card Debt": 6904.420412,
+    "Net Worth": 478422.7973,
+    "Car Purchase Amount": 32608.45468
+  },
+  {
+    "Gender": 1,
+    "Age": 56,
+    "Annual Salary": 62645.95516,
+    "Credit Card Debt": 11431.22966,
+    "Net Worth": 613242.1668,
+    "Car Purchase Amount": 58045.56257
+  },
+  {
+    "Gender": 0,
+    "Age": 57,
+    "Annual Salary": 68782.15718,
+    "Credit Card Debt": 9810.75269,
+    "Net Worth": 350157.8394,
+    "Car Purchase Amount": 54387.27727
+  },
+  {
+    "Gender": 1,
+    "Age": 37,
+    "Annual Salary": 67545.96382,
+    "Credit Card Debt": 7171.466112,
+    "Net Worth": 322905.4592,
+    "Car Purchase Amount": 36638.20688
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 42415.48867,
+    "Credit Card Debt": 5205.008323,
+    "Net Worth": 520997.2385,
+    "Car Purchase Amount": 39522.13129
+  },
+  {
+    "Gender": 0,
+    "Age": 63,
+    "Annual Salary": 44617.98314,
+    "Credit Card Debt": 9683.735879,
+    "Net Worth": 251702.1158,
+    "Car Purchase Amount": 42978.34626
+  },
+  {
+    "Gender": 1,
+    "Age": 53,
+    "Annual Salary": 72226.5603,
+    "Credit Card Debt": 5817.153854,
+    "Net Worth": 623033.482,
+    "Car Purchase Amount": 60865.76396
+  },
+  {
+    "Gender": 1,
+    "Age": 51,
+    "Annual Salary": 48958.90535,
+    "Credit Card Debt": 2418.86434,
+    "Net Worth": 615672.4681,
+    "Car Purchase Amount": 46380.44732
+  },
+  {
+    "Gender": 1,
+    "Age": 48,
+    "Annual Salary": 86067.83527,
+    "Credit Card Debt": 9181.06743,
+    "Net Worth": 335652.6234,
+    "Car Purchase Amount": 56579.90338
+  },
+  {
+    "Gender": 1,
+    "Age": 41,
+    "Annual Salary": 65554.4018,
+    "Credit Card Debt": 12026.57975,
+    "Net Worth": 462613.8587,
+    "Car Purchase Amount": 42774.35579
+  },
+  {
+    "Gender": 0,
+    "Age": 39,
+    "Annual Salary": 69248.4953,
+    "Credit Card Debt": 6445.784981,
+    "Net Worth": 298246.0609,
+    "Car Purchase Amount": 37879.65385
+  },
+  {
+    "Gender": 0,
+    "Age": 45,
+    "Annual Salary": 59331.23555,
+    "Credit Card Debt": 10027.53449,
+    "Net Worth": 543313.3454,
+    "Car Purchase Amount": 45208.42539
+  },
+  {
+    "Gender": 0,
+    "Age": 70,
+    "Annual Salary": 52323.2448,
+    "Credit Card Debt": 12438.85648,
+    "Net Worth": 346555.1716,
+    "Car Purchase Amount": 56229.4127
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 63552.85175,
+    "Credit Card Debt": 9347.50353,
+    "Net Worth": 474763.4696,
+    "Car Purchase Amount": 50455.11935
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 75116.10613,
+    "Credit Card Debt": 5969.666602,
+    "Net Worth": 232607.3907,
+    "Car Purchase Amount": 49721.31082
+  },
+  {
+    "Gender": 0,
+    "Age": 42,
+    "Annual Salary": 38284.02013,
+    "Credit Card Debt": 15467.78745,
+    "Net Worth": 587010.5521,
+    "Car Purchase Amount": 31696.99679
+  },
+  {
+    "Gender": 1,
+    "Age": 50,
+    "Annual Salary": 55293.50777,
+    "Credit Card Debt": 9465.090098,
+    "Net Worth": 629764.2743,
+    "Car Purchase Amount": 49220.0218
+  },
+  {
+    "Gender": 1,
+    "Age": 40,
+    "Annual Salary": 63210.76235,
+    "Credit Card Debt": 3657.863218,
+    "Net Worth": 664431.3966,
+    "Car Purchase Amount": 46188.83514
+  },
+  {
+    "Gender": 1,
+    "Age": 44,
+    "Annual Salary": 54918.38749,
+    "Credit Card Debt": 8920.385015,
+    "Net Worth": 347017.8331,
+    "Car Purchase Amount": 36086.93161
+  },
+  {
+    "Gender": 0,
+    "Age": 52,
+    "Annual Salary": 57262.79581,
+    "Credit Card Debt": 7793.073201,
+    "Net Worth": 322150.3542,
+    "Car Purchase Amount": 43264.04965
+  },
+  {
+    "Gender": 1,
+    "Age": 41,
+    "Annual Salary": 72299.9501,
+    "Credit Card Debt": 11544.93385,
+    "Net Worth": 275389.0701,
+    "Car Purchase Amount": 40660.38317
+  },
+  {
+    "Gender": 0,
+    "Age": 57,
+    "Annual Salary": 50241.48985,
+    "Credit Card Debt": 14817.70896,
+    "Net Worth": 607395.0183,
+    "Car Purchase Amount": 51683.60859
+  },
+  {
+    "Gender": 0,
+    "Age": 54,
+    "Annual Salary": 65834.56889,
+    "Credit Card Debt": 15353.25774,
+    "Net Worth": 152012.353,
+    "Car Purchase Amount": 44525.02085
+  },
+  {
+    "Gender": 1,
+    "Age": 50,
+    "Annual Salary": 60382.17885,
+    "Credit Card Debt": 11302.88277,
+    "Net Worth": 490444.4111,
+    "Car Purchase Amount": 48518.90163
+  },
+  {
+    "Gender": 1,
+    "Age": 37,
+    "Annual Salary": 68691.17086,
+    "Credit Card Debt": 16305.78907,
+    "Net Worth": 619707.4203,
+    "Car Purchase Amount": 45805.30588
+  },
+  {
+    "Gender": 0,
+    "Age": 52,
+    "Annual Salary": 65446.65687,
+    "Credit Card Debt": 8491.586154,
+    "Net Worth": 571564.7901,
+    "Car Purchase Amount": 54850.38742
+  },
+  {
+    "Gender": 0,
+    "Age": 43,
+    "Annual Salary": 42978.34284,
+    "Credit Card Debt": 8884.11069,
+    "Net Worth": 491193.3773,
+    "Car Purchase Amount": 32478.44758
+  },
+  {
+    "Gender": 0,
+    "Age": 52,
+    "Annual Salary": 58143.06285,
+    "Credit Card Debt": 9686.119304,
+    "Net Worth": 261152.8211,
+    "Car Purchase Amount": 42209.28948
+  },
+  {
+    "Gender": 0,
+    "Age": 64,
+    "Annual Salary": 61666.2852,
+    "Credit Card Debt": 11672.72382,
+    "Net Worth": 299854.2186,
+    "Car Purchase Amount": 55125.93237
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 64854.33966,
+    "Credit Card Debt": 3247.887523,
+    "Net Worth": 371240.2413,
+    "Car Purchase Amount": 47984.42062
+  },
+  {
+    "Gender": 0,
+    "Age": 55,
+    "Annual Salary": 45757.15568,
+    "Credit Card Debt": 11207.01556,
+    "Net Worth": 465709.8937,
+    "Car Purchase Amount": 43405.89086
+  },
+  {
+    "Gender": 1,
+    "Age": 47,
+    "Annual Salary": 73096.50927,
+    "Credit Card Debt": 10743.793,
+    "Net Worth": 196421.7402,
+    "Car Purchase Amount": 44577.44829
+  },
+  {
+    "Gender": 1,
+    "Age": 36,
+    "Annual Salary": 67249.05932,
+    "Credit Card Debt": 12998.47232,
+    "Net Worth": 396793.4734,
+    "Car Purchase Amount": 37744.54285
+  },
+  {
+    "Gender": 0,
+    "Age": 39,
+    "Annual Salary": 77165.81297,
+    "Credit Card Debt": 8737.20319,
+    "Net Worth": 478853.3217,
+    "Car Purchase Amount": 47805.25605
+  },
+  {
+    "Gender": 1,
+    "Age": 45,
+    "Annual Salary": 72316.18286,
+    "Credit Card Debt": 8728.916803,
+    "Net Worth": 279393.491,
+    "Car Purchase Amount": 44846.68557
+  },
+  {
+    "Gender": 1,
+    "Age": 47,
+    "Annual Salary": 68431.27055,
+    "Credit Card Debt": 14088.90642,
+    "Net Worth": 383693.2041,
+    "Car Purchase Amount": 46643.26581
+  },
+  {
+    "Gender": 0,
+    "Age": 47,
+    "Annual Salary": 62311.11641,
+    "Credit Card Debt": 9832.05731,
+    "Net Worth": 830430.3692,
+    "Car Purchase Amount": 56563.98675
+  },
+  {
+    "Gender": 0,
+    "Age": 60,
+    "Annual Salary": 53229.14547,
+    "Credit Card Debt": 10756.60888,
+    "Net Worth": 112127.2567,
+    "Car Purchase Amount": 41673.44617
+  },
+  {
+    "Gender": 1,
+    "Age": 59,
+    "Annual Salary": 77662.1109,
+    "Credit Card Debt": 13444.89631,
+    "Net Worth": 331460.4727,
+    "Car Purchase Amount": 61118.46947
+  },
+  {
+    "Gender": 1,
+    "Age": 36,
+    "Annual Salary": 69494.69783,
+    "Credit Card Debt": 20000,
+    "Net Worth": 335809.6171,
+    "Car Purchase Amount": 37303.56701
+  },
+  {
+    "Gender": 0,
+    "Age": 47,
+    "Annual Salary": 61063.35631,
+    "Credit Card Debt": 12066.26571,
+    "Net Worth": 509543.0859,
+    "Car Purchase Amount": 46892.26617
+  },
+  {
+    "Gender": 1,
+    "Age": 38,
+    "Annual Salary": 79368.91741,
+    "Credit Card Debt": 13501.92659,
+    "Net Worth": 761935.5177,
+    "Car Purchase Amount": 56457.74038
+  },
+  {
+    "Gender": 1,
+    "Age": 42,
+    "Annual Salary": 61693.44352,
+    "Credit Card Debt": 10835.25736,
+    "Net Worth": 620522.3842,
+    "Car Purchase Amount": 45509.69732
+  },
+  {
+    "Gender": 1,
+    "Age": 33,
+    "Annual Salary": 47211.66812,
+    "Credit Card Debt": 4295.225339,
+    "Net Worth": 539365.9366,
+    "Car Purchase Amount": 27625.44144
+  },
+  {
+    "Gender": 1,
+    "Age": 39,
+    "Annual Salary": 69897.75291,
+    "Credit Card Debt": 9624.908869,
+    "Net Worth": 565814.725,
+    "Car Purchase Amount": 46389.50237
+  },
+  {
+    "Gender": 0,
+    "Age": 39,
+    "Annual Salary": 63675.93263,
+    "Credit Card Debt": 9631.974905,
+    "Net Worth": 74257.82785,
+    "Car Purchase Amount": 29002.05665
+  },
+  {
+    "Gender": 1,
+    "Age": 55,
+    "Annual Salary": 72302.03223,
+    "Credit Card Debt": 10813.75655,
+    "Net Worth": 234159.0793,
+    "Car Purchase Amount": 51355.7106
+  },
+  {
+    "Gender": 0,
+    "Age": 45,
+    "Annual Salary": 63687.4988,
+    "Credit Card Debt": 13421.36821,
+    "Net Worth": 358615.9327,
+    "Car Purchase Amount": 42011.19965
+  },
+  {
+    "Gender": 1,
+    "Age": 51,
+    "Annual Salary": 63678.15468,
+    "Credit Card Debt": 5011.615145,
+    "Net Worth": 563498.6636,
+    "Car Purchase Amount": 52654.40455
+  },
+  {
+    "Gender": 0,
+    "Age": 49,
+    "Annual Salary": 77435.46545,
+    "Credit Card Debt": 6922.152838,
+    "Net Worth": 48620.32123,
+    "Car Purchase Amount": 44432.71747
+  },
+  {
+    "Gender": 1,
+    "Age": 46,
+    "Annual Salary": 62721.40514,
+    "Credit Card Debt": 16127.56619,
+    "Net Worth": 494985.5363,
+    "Car Purchase Amount": 46054.60253
+  },
+  {
+    "Gender": 1,
+    "Age": 53,
+    "Annual Salary": 70842.83518,
+    "Credit Card Debt": 9536.899689,
+    "Net Worth": 545946.9996,
+    "Car Purchase Amount": 58235.41454
+  },
+  {
+    "Gender": 1,
+    "Age": 39,
+    "Annual Salary": 55285.98625,
+    "Credit Card Debt": 17462.07506,
+    "Net Worth": 734443.6969,
+    "Car Purchase Amount": 42990.29255
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 72002.0552,
+    "Credit Card Debt": 14709.65824,
+    "Net Worth": 568947.7487,
+    "Car Purchase Amount": 50702.18103
+  },
+  {
+    "Gender": 1,
+    "Age": 70,
+    "Annual Salary": 41434.51258,
+    "Credit Card Debt": 6810.555606,
+    "Net Worth": 252220.2937,
+    "Car Purchase Amount": 47009.57741
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 60404.38394,
+    "Credit Card Debt": 4198.839128,
+    "Net Worth": 513974.6812,
+    "Car Purchase Amount": 49399.97041
+  },
+  {
+    "Gender": 0,
+    "Age": 52,
+    "Annual Salary": 65239.06468,
+    "Credit Card Debt": 7437.211028,
+    "Net Worth": 168703.3385,
+    "Car Purchase Amount": 42997.16761
+  },
+  {
+    "Gender": 1,
+    "Age": 45,
+    "Annual Salary": 62939.12851,
+    "Credit Card Debt": 632.0528524,
+    "Net Worth": 455589.7973,
+    "Car Purchase Amount": 44434.98419
+  },
+  {
+    "Gender": 0,
+    "Age": 48,
+    "Annual Salary": 60608.40313,
+    "Credit Card Debt": 8233.280719,
+    "Net Worth": 492113.0067,
+    "Car Purchase Amount": 46325.50959
+  },
+  {
+    "Gender": 1,
+    "Age": 48,
+    "Annual Salary": 56118.39601,
+    "Credit Card Debt": 9242.775995,
+    "Net Worth": 586717.4715,
+    "Car Purchase Amount": 46846.7305
+  },
+  {
+    "Gender": 0,
+    "Age": 48,
+    "Annual Salary": 86706.33333,
+    "Credit Card Debt": 9653.26498,
+    "Net Worth": 333543.693,
+    "Car Purchase Amount": 56499.10202
+  },
+  {
+    "Gender": 1,
+    "Age": 57,
+    "Annual Salary": 41236.36497,
+    "Credit Card Debt": 9399.342975,
+    "Net Worth": 466988.2602,
+    "Car Purchase Amount": 42773.75905
+  },
+  {
+    "Gender": 1,
+    "Age": 46,
+    "Annual Salary": 77146.27598,
+    "Credit Card Debt": 7903.33495,
+    "Net Worth": 418764.5061,
+    "Car Purchase Amount": 52313.98392
+  },
+  {
+    "Gender": 0,
+    "Age": 44,
+    "Annual Salary": 56437.30404,
+    "Credit Card Debt": 10461.98276,
+    "Net Worth": 249182.7848,
+    "Car Purchase Amount": 34139.6373
+  },
+  {
+    "Gender": 1,
+    "Age": 65,
+    "Annual Salary": 70703.85013,
+    "Credit Card Debt": 5025.365518,
+    "Net Worth": 284991.7415,
+    "Car Purchase Amount": 60763.24731
+  },
+  {
+    "Gender": 0,
+    "Age": 57,
+    "Annual Salary": 69810.46265,
+    "Credit Card Debt": 4684.556433,
+    "Net Worth": 720423.8157,
+    "Car Purchase Amount": 66158.69494
+  },
+  {
+    "Gender": 1,
+    "Age": 47,
+    "Annual Salary": 54279.39597,
+    "Credit Card Debt": 5699.184814,
+    "Net Worth": 124979.0501,
+    "Car Purchase Amount": 31215.6421
+  },
+  {
+    "Gender": 0,
+    "Age": 36,
+    "Annual Salary": 70334.42787,
+    "Credit Card Debt": 9823.218967,
+    "Net Worth": 632600.4718,
+    "Car Purchase Amount": 46135.27233
+  },
+  {
+    "Gender": 0,
+    "Age": 57,
+    "Annual Salary": 59168.00751,
+    "Credit Card Debt": 10474.44187,
+    "Net Worth": 623487.5952,
+    "Car Purchase Amount": 56973.18105
+  },
+  {
+    "Gender": 0,
+    "Age": 33,
+    "Annual Salary": 61889.61618,
+    "Credit Card Debt": 12024.48457,
+    "Net Worth": 133226.0617,
+    "Car Purchase Amount": 24184.07443
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 66013.95174,
+    "Credit Card Debt": 7039.540023,
+    "Net Worth": 610942.1408,
+    "Car Purchase Amount": 49079.61942
+  },
+  {
+    "Gender": 1,
+    "Age": 46,
+    "Annual Salary": 55434.04046,
+    "Credit Card Debt": 18693.14652,
+    "Net Worth": 316906.6441,
+    "Car Purchase Amount": 37093.92033
+  },
+  {
+    "Gender": 0,
+    "Age": 45,
+    "Annual Salary": 68499.69447,
+    "Credit Card Debt": 15436.79968,
+    "Net Worth": 308445.8598,
+    "Car Purchase Amount": 43401.56612
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 54749.88645,
+    "Credit Card Debt": 7631.687821,
+    "Net Worth": 152883.3519,
+    "Car Purchase Amount": 29092.1311
+  },
+  {
+    "Gender": 1,
+    "Age": 38,
+    "Annual Salary": 74590.25495,
+    "Credit Card Debt": 5614.004976,
+    "Net Worth": 573441.9724,
+    "Car Purchase Amount": 48349.16457
+  },
+  {
+    "Gender": 1,
+    "Age": 40,
+    "Annual Salary": 67772.66646,
+    "Credit Card Debt": 6887.248301,
+    "Net Worth": 134188.4492,
+    "Car Purchase Amount": 33261.00057
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 62563.57825,
+    "Credit Card Debt": 6130.305181,
+    "Net Worth": 426488.7459,
+    "Car Purchase Amount": 41327.16554
+  },
+  {
+    "Gender": 0,
+    "Age": 42,
+    "Annual Salary": 70361.01504,
+    "Credit Card Debt": 12024.72511,
+    "Net Worth": 575500.7687,
+    "Car Purchase Amount": 49336.11628
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 74810.89471,
+    "Credit Card Debt": 13658.34201,
+    "Net Worth": 286849.7875,
+    "Car Purchase Amount": 51405.55229
+  },
+  {
+    "Gender": 0,
+    "Age": 38,
+    "Annual Salary": 49346.405,
+    "Credit Card Debt": 5827.820346,
+    "Net Worth": 479685.9824,
+    "Car Purchase Amount": 31249.98803
+  },
+  {
+    "Gender": 1,
+    "Age": 41,
+    "Annual Salary": 73426.08521,
+    "Credit Card Debt": 14822.79645,
+    "Net Worth": 336867.7147,
+    "Car Purchase Amount": 43598.96993
+  },
+  {
+    "Gender": 1,
+    "Age": 54,
+    "Annual Salary": 47684.46306,
+    "Credit Card Debt": 10128.76114,
+    "Net Worth": 613372.8917,
+    "Car Purchase Amount": 48300.02057
+  },
+  {
+    "Gender": 0,
+    "Age": 45,
+    "Annual Salary": 72939.83195,
+    "Credit Card Debt": 7787.204492,
+    "Net Worth": 589669.6573,
+    "Car Purchase Amount": 54013.47595
+  },
+  {
+    "Gender": 0,
+    "Age": 41,
+    "Annual Salary": 72277.82609,
+    "Credit Card Debt": 13580.87747,
+    "Net Worth": 202710.1294,
+    "Car Purchase Amount": 38674.66038
+  },
+  {
+    "Gender": 1,
+    "Age": 40,
+    "Annual Salary": 53921.33351,
+    "Credit Card Debt": 9046.18109,
+    "Net Worth": 515305.4841,
+    "Car Purchase Amount": 37076.82508
+  },
+  {
+    "Gender": 0,
+    "Age": 32,
+    "Annual Salary": 65312.96755,
+    "Credit Card Debt": 11398.82486,
+    "Net Worth": 572037.8859,
+    "Car Purchase Amount": 37947.85125
+  },
+  {
+    "Gender": 0,
+    "Age": 54,
+    "Annual Salary": 55619.34152,
+    "Credit Card Debt": 11212.43791,
+    "Net Worth": 229070.5491,
+    "Car Purchase Amount": 41320.07256
+  },
+  {
+    "Gender": 0,
+    "Age": 55,
+    "Annual Salary": 70914.59993,
+    "Credit Card Debt": 9644.41026,
+    "Net Worth": 779143.6005,
+    "Car Purchase Amount": 66888.93694
+  },
+  {
+    "Gender": 0,
+    "Age": 35,
+    "Annual Salary": 33422.99683,
+    "Credit Card Debt": 8570.611562,
+    "Net Worth": 211168.6293,
+    "Car Purchase Amount": 12536.93842
+  },
+  {
+    "Gender": 0,
+    "Age": 46,
+    "Annual Salary": 53382.42693,
+    "Credit Card Debt": 5055.43571,
+    "Net Worth": 438491.876,
+    "Car Purchase Amount": 39549.13039
+  },
+  {
+    "Gender": 1,
+    "Age": 45,
+    "Annual Salary": 74173.39239,
+    "Credit Card Debt": 11315.59626,
+    "Net Worth": 521404.2386,
+    "Car Purchase Amount": 52709.08196
+  },
+  {
+    "Gender": 0,
+    "Age": 50,
+    "Annual Salary": 53587.12801,
+    "Credit Card Debt": 8501.49728,
+    "Net Worth": 811594.0392,
+    "Car Purchase Amount": 53502.97742
+  },
+  {
+    "Gender": 1,
+    "Age": 54,
+    "Annual Salary": 58011.6339,
+    "Credit Card Debt": 9822.426192,
+    "Net Worth": 552454.0263,
+    "Car Purchase Amount": 52116.90791
+  },
+  {
+    "Gender": 1,
+    "Age": 29,
+    "Annual Salary": 69171.95281,
+    "Credit Card Debt": 6354.833826,
+    "Net Worth": 613104.784,
+    "Car Purchase Amount": 38705.65839
+  },
+  {
+    "Gender": 1,
+    "Age": 56,
+    "Annual Salary": 66779.91374,
+    "Credit Card Debt": 14300.12614,
+    "Net Worth": 202576.6196,
+    "Car Purchase Amount": 48025.02542
+  },
+  {
+    "Gender": 0,
+    "Age": 54,
+    "Annual Salary": 79173.0767,
+    "Credit Card Debt": 6913.05683,
+    "Net Worth": 397700.1404,
+    "Car Purchase Amount": 59483.91183
+  },
+  {
+    "Gender": 0,
+    "Age": 33,
+    "Annual Salary": 63065.12164,
+    "Credit Card Debt": 8907.661779,
+    "Net Worth": 505897.3041,
+    "Car Purchase Amount": 35911.64559
+  },
+  {
+    "Gender": 0,
+    "Age": 48,
+    "Annual Salary": 65530.36401,
+    "Credit Card Debt": 8774.069514,
+    "Net Worth": 210573.7042,
+    "Car Purchase Amount": 41034.28343
+  },
+  {
+    "Gender": 0,
+    "Age": 49,
+    "Annual Salary": 63732.3931,
+    "Credit Card Debt": 12848.20061,
+    "Net Worth": 581620.4824,
+    "Car Purchase Amount": 51730.17434
+  },
+  {
+    "Gender": 0,
+    "Age": 55,
+    "Annual Salary": 62689.53964,
+    "Credit Card Debt": 8732.143355,
+    "Net Worth": 481513.5074,
+    "Car Purchase Amount": 53021.86074
+  },
+  {
+    "Gender": 0,
+    "Age": 42,
+    "Annual Salary": 51539.93045,
+    "Credit Card Debt": 6932.950306,
+    "Net Worth": 371355.6935,
+    "Car Purchase Amount": 32828.03477
+  },
+  {
+    "Gender": 1,
+    "Age": 41,
+    "Annual Salary": 59060.08664,
+    "Credit Card Debt": 5841.612044,
+    "Net Worth": 136346.3069,
+    "Car Purchase Amount": 29417.64694
+  },
+  {
+    "Gender": 1,
+    "Age": 53,
+    "Annual Salary": 62713.78149,
+    "Credit Card Debt": 11498.03993,
+    "Net Worth": 679435.1745,
+    "Car Purchase Amount": 57461.51158
+  },
+  {
+    "Gender": 1,
+    "Age": 53,
+    "Annual Salary": 44747.66132,
+    "Credit Card Debt": 4975.144559,
+    "Net Worth": 793986.6155,
+    "Car Purchase Amount": 50441.62427
+  },
+  {
+    "Gender": 0,
+    "Age": 44,
+    "Annual Salary": 65529.70333,
+    "Credit Card Debt": 3932.838165,
+    "Net Worth": 353929.5495,
+    "Car Purchase Amount": 41575.34739
+  },
+  {
+    "Gender": 0,
+    "Age": 42,
+    "Annual Salary": 62426.52379,
+    "Credit Card Debt": 6619.929677,
+    "Net Worth": 630411.2698,
+    "Car Purchase Amount": 46412.47781
+  },
+  {
+    "Gender": 0,
+    "Age": 41,
+    "Annual Salary": 73498.30715,
+    "Credit Card Debt": 3066.939924,
+    "Net Worth": 491904.1899,
+    "Car Purchase Amount": 47610.11718
+  },
+  {
+    "Gender": 0,
+    "Age": 48,
+    "Annual Salary": 86565.15641,
+    "Credit Card Debt": 13701.79986,
+    "Net Worth": 819002.1748,
+    "Car Purchase Amount": 70878.29664
+  },
+  {
+    "Gender": 0,
+    "Age": 63,
+    "Annual Salary": 46549.16329,
+    "Credit Card Debt": 640.045378,
+    "Net Worth": 626163.832,
+    "Car Purchase Amount": 55543.38497
+  },
+  {
+    "Gender": 1,
+    "Age": 59,
+    "Annual Salary": 70111.5398,
+    "Credit Card Debt": 7949.463649,
+    "Net Worth": 239217.6732,
+    "Car Purchase Amount": 53848.7555
+  },
+  {
+    "Gender": 1,
+    "Age": 45,
+    "Annual Salary": 66747.66857,
+    "Credit Card Debt": 9691.23462,
+    "Net Worth": 221290.9818,
+    "Car Purchase Amount": 39904.81613
+  },
+  {
+    "Gender": 1,
+    "Age": 47,
+    "Annual Salary": 72025.6768,
+    "Credit Card Debt": 6988.652757,
+    "Net Worth": 222341.0342,
+    "Car Purchase Amount": 44736.41097
+  },
+  {
+    "Gender": 1,
+    "Age": 49,
+    "Annual Salary": 70737.29383,
+    "Credit Card Debt": 13851.11162,
+    "Net Worth": 266765.477,
+    "Car Purchase Amount": 46937.17422
+  },
+  {
+    "Gender": 1,
+    "Age": 40,
+    "Annual Salary": 57455.7609,
+    "Credit Card Debt": 12186.02793,
+    "Net Worth": 159727.8753,
+    "Car Purchase Amount": 28440.81268
+  },
+  {
+    "Gender": 1,
+    "Age": 41,
+    "Annual Salary": 60657.59355,
+    "Credit Card Debt": 3331.304747,
+    "Net Worth": 392177.789,
+    "Car Purchase Amount": 38148.00163
+  },
+  {
+    "Gender": 0,
+    "Age": 47,
+    "Annual Salary": 50694.42707,
+    "Credit Card Debt": 10881.90102,
+    "Net Worth": 587858.6295,
+    "Car Purchase Amount": 42747.53925
+  },
+  {
+    "Gender": 0,
+    "Age": 27,
+    "Annual Salary": 55369.72784,
+    "Credit Card Debt": 10888.93494,
+    "Net Worth": 606851.1696,
+    "Car Purchase Amount": 29670.83337
+  },
+  {
+    "Gender": 1,
+    "Age": 46,
+    "Annual Salary": 82425.64679,
+    "Credit Card Debt": 7525.252104,
+    "Net Worth": 684273.5913,
+    "Car Purchase Amount": 63038.20422
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 82094.10712,
+    "Credit Card Debt": 1065.607589,
+    "Net Worth": 577272.6805,
+    "Car Purchase Amount": 63248.76188
+  },
+  {
+    "Gender": 0,
+    "Age": 43,
+    "Annual Salary": 74090.51299,
+    "Credit Card Debt": 10877.69223,
+    "Net Worth": 225670.1288,
+    "Car Purchase Amount": 42321.56548
+  },
+  {
+    "Gender": 0,
+    "Age": 32,
+    "Annual Salary": 73935.74201,
+    "Credit Card Debt": 8253.583457,
+    "Net Worth": 625484.0917,
+    "Car Purchase Amount": 44463.30502
+  },
+  {
+    "Gender": 1,
+    "Age": 63,
+    "Annual Salary": 75719.22986,
+    "Credit Card Debt": 10515.28135,
+    "Net Worth": 474485.6659,
+    "Car Purchase Amount": 67092.23276
+  },
+  {
+    "Gender": 1,
+    "Age": 35,
+    "Annual Salary": 47054.14246,
+    "Credit Card Debt": 7234.672092,
+    "Net Worth": 275762.4836,
+    "Car Purchase Amount": 22091.11839
+  },
+  {
+    "Gender": 1,
+    "Age": 50,
+    "Annual Salary": 42003.01617,
+    "Credit Card Debt": 6052.844775,
+    "Net Worth": 579220.0393,
+    "Car Purchase Amount": 40022.17406
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 74418.55717,
+    "Credit Card Debt": 8632.699007,
+    "Net Worth": 472761.6208,
+    "Car Purchase Amount": 56071.61377
+  },
+  {
+    "Gender": 1,
+    "Age": 54,
+    "Annual Salary": 52786.1971,
+    "Credit Card Debt": 9246.813159,
+    "Net Worth": 556014.9704,
+    "Car Purchase Amount": 49442.12107
+  },
+  {
+    "Gender": 0,
+    "Age": 37,
+    "Annual Salary": 78804.99824,
+    "Credit Card Debt": 12710.00309,
+    "Net Worth": 315058.7167,
+    "Car Purchase Amount": 42497.72862
+  },
+  {
+    "Gender": 0,
+    "Age": 44,
+    "Annual Salary": 66932.47176,
+    "Credit Card Debt": 11033.16277,
+    "Net Worth": 149761.1281,
+    "Car Purchase Amount": 37084.77621
+  },
+  {
+    "Gender": 1,
+    "Age": 57,
+    "Annual Salary": 56066.07685,
+    "Credit Card Debt": 5235.7599,
+    "Net Worth": 497876.2478,
+    "Car Purchase Amount": 51866.48719
+  },
+  {
+    "Gender": 0,
+    "Age": 47,
+    "Annual Salary": 48591.57177,
+    "Credit Card Debt": 14309.21115,
+    "Net Worth": 364858.7148,
+    "Car Purchase Amount": 35716.31133
+  },
+  {
+    "Gender": 0,
+    "Age": 52,
+    "Annual Salary": 38213.88844,
+    "Credit Card Debt": 11492.74174,
+    "Net Worth": 579059.3132,
+    "Car Purchase Amount": 39892.93343
+  },
+  {
+    "Gender": 1,
+    "Age": 52,
+    "Annual Salary": 56444.76848,
+    "Credit Card Debt": 11932.73881,
+    "Net Worth": 69821.6376,
+    "Car Purchase Amount": 35781.16156
+  },
+  {
+    "Gender": 0,
+    "Age": 48,
+    "Annual Salary": 67080.6142,
+    "Credit Card Debt": 7880.423663,
+    "Net Worth": 244188.0008,
+    "Car Purchase Amount": 42866.21274
+  },
+  {
+    "Gender": 1,
+    "Age": 55,
+    "Annual Salary": 83333.81054,
+    "Credit Card Debt": 9874.075327,
+    "Net Worth": 1000000,
+    "Car Purchase Amount": 80000
+  },
+  {
+    "Gender": 0,
+    "Age": 47,
+    "Annual Salary": 73502.12458,
+    "Credit Card Debt": 11132.39299,
+    "Net Worth": 765711.6025,
+    "Car Purchase Amount": 60526.97788
+  },
+  {
+    "Gender": 1,
+    "Age": 45,
+    "Annual Salary": 88816.02695,
+    "Credit Card Debt": 9317.22195,
+    "Net Worth": 493592.1764,
+    "Car Purchase Amount": 59758.73247
+  },
+  {
+    "Gender": 1,
+    "Age": 40,
+    "Annual Salary": 70381.37499,
+    "Credit Card Debt": 6718.857016,
+    "Net Worth": 305253.2658,
+    "Car Purchase Amount": 39606.24598
+  },
+  {
+    "Gender": 1,
+    "Age": 47,
+    "Annual Salary": 67647.74764,
+    "Credit Card Debt": 8767.783547,
+    "Net Worth": 787984.2882,
+    "Car Purchase Amount": 58641.71051
+  },
+  {
+    "Gender": 0,
+    "Age": 45,
+    "Annual Salary": 79781.90126,
+    "Credit Card Debt": 11148.10325,
+    "Net Worth": 427287.6277,
+    "Car Purchase Amount": 52983.89411
+  },
+  {
+    "Gender": 1,
+    "Age": 49,
+    "Annual Salary": 64665.39122,
+    "Credit Card Debt": 7404.080751,
+    "Net Worth": 521815.7353,
+    "Car Purchase Amount": 50666.88173
+  },
+  {
+    "Gender": 0,
+    "Age": 60,
+    "Annual Salary": 58837.97088,
+    "Credit Card Debt": 12788.81573,
+    "Net Worth": 622324.7499,
+    "Car Purchase Amount": 59625.02618
+  },
+  {
+    "Gender": 0,
+    "Age": 34,
+    "Annual Salary": 49607.23466,
+    "Credit Card Debt": 9344.32377,
+    "Net Worth": 290711.867,
+    "Car Purchase Amount": 22630.25982
+  },
+  {
+    "Gender": 0,
+    "Age": 36,
+    "Annual Salary": 67032.16445,
+    "Credit Card Debt": 7666.5303,
+    "Net Worth": 516738.1724,
+    "Car Purchase Amount": 41137.89459
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 65245.57379,
+    "Credit Card Debt": 11554.2723,
+    "Net Worth": 542777.4892,
+    "Car Purchase Amount": 53496.48183
+  },
+  {
+    "Gender": 0,
+    "Age": 42,
+    "Annual Salary": 56174.3433,
+    "Credit Card Debt": 10394.57246,
+    "Net Worth": 398011.5804,
+    "Car Purchase Amount": 36543.93642
+  },
+  {
+    "Gender": 0,
+    "Age": 48,
+    "Annual Salary": 47227.01542,
+    "Credit Card Debt": 11312.51035,
+    "Net Worth": 642335.1021,
+    "Car Purchase Amount": 43503.97349
+  },
+  {
+    "Gender": 1,
+    "Age": 35,
+    "Annual Salary": 40300.49467,
+    "Credit Card Debt": 8828.164449,
+    "Net Worth": 719846.9824,
+    "Car Purchase Amount": 31146.71078
+  },
+  {
+    "Gender": 1,
+    "Age": 44,
+    "Annual Salary": 45504.74866,
+    "Credit Card Debt": 9245.466786,
+    "Net Worth": 374777.6929,
+    "Car Purchase Amount": 31526.04931
+  },
+  {
+    "Gender": 0,
+    "Age": 48,
+    "Annual Salary": 50017.38154,
+    "Credit Card Debt": 7514.393035,
+    "Net Worth": 160487.0006,
+    "Car Purchase Amount": 31083.70271
+  },
+  {
+    "Gender": 1,
+    "Age": 47,
+    "Annual Salary": 66226.72902,
+    "Credit Card Debt": 8511.814921,
+    "Net Worth": 356213.0776,
+    "Car Purchase Amount": 45366.35963
+  },
+  {
+    "Gender": 0,
+    "Age": 31,
+    "Annual Salary": 41361.95045,
+    "Credit Card Debt": 10755.50842,
+    "Net Worth": 615720.0425,
+    "Car Purchase Amount": 25252.93221
+  },
+  {
+    "Gender": 1,
+    "Age": 45,
+    "Annual Salary": 56687.41273,
+    "Credit Card Debt": 9050.284083,
+    "Net Worth": 414034.6096,
+    "Car Purchase Amount": 39888.59789
+  },
+  {
+    "Gender": 0,
+    "Age": 49,
+    "Annual Salary": 68114.60169,
+    "Credit Card Debt": 11633.95265,
+    "Net Worth": 521061.1115,
+    "Car Purchase Amount": 52240.72866
+  },
+  {
+    "Gender": 0,
+    "Age": 61,
+    "Annual Salary": 51086.88482,
+    "Credit Card Debt": 12254.53943,
+    "Net Worth": 59630.07789,
+    "Car Purchase Amount": 39911.6116
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 71921.45038,
+    "Credit Card Debt": 6354.372629,
+    "Net Worth": 169714.2655,
+    "Car Purchase Amount": 45857.75365
+  },
+  {
+    "Gender": 1,
+    "Age": 35,
+    "Annual Salary": 56807.01728,
+    "Credit Card Debt": 8851.564939,
+    "Net Worth": 385250.7163,
+    "Car Purchase Amount": 30826.10903
+  },
+  {
+    "Gender": 0,
+    "Age": 53,
+    "Annual Salary": 43019.8475,
+    "Credit Card Debt": 8527.034281,
+    "Net Worth": 454791.7251,
+    "Car Purchase Amount": 39422.79389
+  },
+  {
+    "Gender": 1,
+    "Age": 42,
+    "Annual Salary": 63875.20999,
+    "Credit Card Debt": 11397.68601,
+    "Net Worth": 188327.5831,
+    "Car Purchase Amount": 34678.83226
+  },
+  {
+    "Gender": 1,
+    "Age": 39,
+    "Annual Salary": 41587.39238,
+    "Credit Card Debt": 5397.031602,
+    "Net Worth": 322891.7787,
+    "Car Purchase Amount": 23517.91983
+  },
+  {
+    "Gender": 1,
+    "Age": 38,
+    "Annual Salary": 49661.96712,
+    "Credit Card Debt": 4679.441732,
+    "Net Worth": 375654.1472,
+    "Car Purchase Amount": 28733.68779
+  },
+  {
+    "Gender": 0,
+    "Age": 41,
+    "Annual Salary": 92471.17612,
+    "Credit Card Debt": 5404.397644,
+    "Net Worth": 515717.7476,
+    "Car Purchase Amount": 59096.26978
+  },
+  {
+    "Gender": 0,
+    "Age": 44,
+    "Annual Salary": 70136.82862,
+    "Credit Card Debt": 7765.975483,
+    "Net Worth": 555993.1081,
+    "Car Purchase Amount": 50188.86612
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 52664.71719,
+    "Credit Card Debt": 14435.74305,
+    "Net Worth": 411932.8191,
+    "Car Purchase Amount": 35659.12237
+  },
+  {
+    "Gender": 1,
+    "Age": 39,
+    "Annual Salary": 55618.06942,
+    "Credit Card Debt": 7557.657205,
+    "Net Worth": 854283.5574,
+    "Car Purchase Amount": 46398.35204
+  },
+  {
+    "Gender": 0,
+    "Age": 33,
+    "Annual Salary": 54912.44043,
+    "Credit Card Debt": 8203.56263,
+    "Net Worth": 537572.1338,
+    "Car Purchase Amount": 32291.18978
+  },
+  {
+    "Gender": 0,
+    "Age": 47,
+    "Annual Salary": 56692.78044,
+    "Credit Card Debt": 7946.435929,
+    "Net Worth": 685541.6501,
+    "Car Purchase Amount": 49079.29461
+  },
+  {
+    "Gender": 0,
+    "Age": 45,
+    "Annual Salary": 63561.04525,
+    "Credit Card Debt": 3730.11972,
+    "Net Worth": 608019.6308,
+    "Car Purchase Amount": 49348.88394
+  },
+  {
+    "Gender": 1,
+    "Age": 51,
+    "Annual Salary": 62788.93529,
+    "Credit Card Debt": 13224.45167,
+    "Net Worth": 192514.6431,
+    "Car Purchase Amount": 41427.59797
+  },
+  {
+    "Gender": 0,
+    "Age": 42,
+    "Annual Salary": 38453.86033,
+    "Credit Card Debt": 15283.41752,
+    "Net Worth": 320834.0102,
+    "Car Purchase Amount": 24221.99937
+  },
+  {
+    "Gender": 0,
+    "Age": 55,
+    "Annual Salary": 59486.27073,
+    "Credit Card Debt": 6515.336778,
+    "Net Worth": 228434.0508,
+    "Car Purchase Amount": 44424.07681
+  },
+  {
+    "Gender": 1,
+    "Age": 62,
+    "Annual Salary": 68149.63056,
+    "Credit Card Debt": 9560.448204,
+    "Net Worth": 401916.0981,
+    "Car Purchase Amount": 60390.06616
+  },
+  {
+    "Gender": 0,
+    "Age": 52,
+    "Annual Salary": 49393.46784,
+    "Credit Card Debt": 11521.6189,
+    "Net Worth": 475263.2759,
+    "Car Purchase Amount": 42793.9932
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 72262.20245,
+    "Credit Card Debt": 12124.82386,
+    "Net Worth": 187821.0958,
+    "Car Purchase Amount": 46935.72774
+  },
+  {
+    "Gender": 1,
+    "Age": 63,
+    "Annual Salary": 64494.39535,
+    "Credit Card Debt": 8765.624109,
+    "Net Worth": 408679.8596,
+    "Car Purchase Amount": 58667.06865
+  },
+  {
+    "Gender": 1,
+    "Age": 46,
+    "Annual Salary": 54362.70307,
+    "Credit Card Debt": 15647.35449,
+    "Net Worth": 388898.069,
+    "Car Purchase Amount": 38042.80065
+  },
+  {
+    "Gender": 1,
+    "Age": 47,
+    "Annual Salary": 55657.65681,
+    "Credit Card Debt": 9625.399586,
+    "Net Worth": 377424.6157,
+    "Car Purchase Amount": 39270.57909
+  },
+  {
+    "Gender": 0,
+    "Age": 58,
+    "Annual Salary": 73512.41269,
+    "Credit Card Debt": 11054.27478,
+    "Net Worth": 236420.9695,
+    "Car Purchase Amount": 54606.18769
+  },
+  {
+    "Gender": 1,
+    "Age": 37,
+    "Annual Salary": 70621.52393,
+    "Credit Card Debt": 9384.067625,
+    "Net Worth": 366327.7432,
+    "Car Purchase Amount": 39083.94268
+  },
+  {
+    "Gender": 1,
+    "Age": 51,
+    "Annual Salary": 70275.68706,
+    "Credit Card Debt": 10359.17579,
+    "Net Worth": 253181.9789,
+    "Car Purchase Amount": 47984.12043
+  },
+  {
+    "Gender": 0,
+    "Age": 36,
+    "Annual Salary": 74420.10254,
+    "Credit Card Debt": 10274.13558,
+    "Net Worth": 551344.3365,
+    "Car Purchase Amount": 46082.80993
+  },
+  {
+    "Gender": 1,
+    "Age": 32,
+    "Annual Salary": 54395.05356,
+    "Credit Card Debt": 10693.88704,
+    "Net Worth": 549212.4268,
+    "Car Purchase Amount": 30964.07804
+  },
+  {
+    "Gender": 1,
+    "Age": 32,
+    "Annual Salary": 60384.34541,
+    "Credit Card Debt": 11518.29175,
+    "Net Worth": 589180.4485,
+    "Car Purchase Amount": 35726.95299
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 66813.664,
+    "Credit Card Debt": 15458.68867,
+    "Net Worth": 600685.1915,
+    "Car Purchase Amount": 49065.1634
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 84120.95497,
+    "Credit Card Debt": 9596.513091,
+    "Net Worth": 27888.74525,
+    "Car Purchase Amount": 48955.85816
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 54236.62092,
+    "Credit Card Debt": 7275.314728,
+    "Net Worth": 432447.5324,
+    "Car Purchase Amount": 37183.10293
+  },
+  {
+    "Gender": 1,
+    "Age": 58,
+    "Annual Salary": 64426.59613,
+    "Credit Card Debt": 9514.645028,
+    "Net Worth": 137601.844,
+    "Car Purchase Amount": 46710.52519
+  },
+  {
+    "Gender": 1,
+    "Age": 49,
+    "Annual Salary": 71150.19894,
+    "Credit Card Debt": 9848.997857,
+    "Net Worth": 480468.247,
+    "Car Purchase Amount": 52889.56257
+  },
+  {
+    "Gender": 0,
+    "Age": 43,
+    "Annual Salary": 60325.20676,
+    "Credit Card Debt": 10128.1151,
+    "Net Worth": 62149.94034,
+    "Car Purchase Amount": 29754.66271
+  },
+  {
+    "Gender": 1,
+    "Age": 48,
+    "Annual Salary": 91083.73918,
+    "Credit Card Debt": 13148.85597,
+    "Net Worth": 387538.2487,
+    "Car Purchase Amount": 60960.83428
+  },
+  {
+    "Gender": 0,
+    "Age": 40,
+    "Annual Salary": 60380.22868,
+    "Credit Card Debt": 2799.719601,
+    "Net Worth": 508962.4874,
+    "Car Purchase Amount": 39975.43302
+  },
+  {
+    "Gender": 1,
+    "Age": 35,
+    "Annual Salary": 72948.11812,
+    "Credit Card Debt": 12664.32052,
+    "Net Worth": 360457.0496,
+    "Car Purchase Amount": 38545.80328
+  },
+  {
+    "Gender": 0,
+    "Age": 43,
+    "Annual Salary": 74834.57117,
+    "Credit Card Debt": 9366.027561,
+    "Net Worth": 712233.8241,
+    "Car Purchase Amount": 56764.44728
+  },
+  {
+    "Gender": 1,
+    "Age": 57,
+    "Annual Salary": 67752.38329,
+    "Credit Card Debt": 13851.92122,
+    "Net Worth": 657178.4135,
+    "Car Purchase Amount": 63079.84329
+  },
+  {
+    "Gender": 1,
+    "Age": 47,
+    "Annual Salary": 59205.89035,
+    "Credit Card Debt": 2689.317953,
+    "Net Worth": 856287.1522,
+    "Car Purchase Amount": 55700.83389
+  },
+  {
+    "Gender": 0,
+    "Age": 32,
+    "Annual Salary": 64874.03368,
+    "Credit Card Debt": 8511.835275,
+    "Net Worth": 528087.5277,
+    "Car Purchase Amount": 36367.18452
+  },
+  {
+    "Gender": 0,
+    "Age": 44,
+    "Annual Salary": 63305.84963,
+    "Credit Card Debt": 16146.77016,
+    "Net Worth": 749016.565,
+    "Car Purchase Amount": 52477.83479
+  },
+  {
+    "Gender": 0,
+    "Age": 50,
+    "Annual Salary": 74176.2079,
+    "Credit Card Debt": 11894.4244,
+    "Net Worth": 290608.3977,
+    "Car Purchase Amount": 50296.67496
+  },
+  {
+    "Gender": 1,
+    "Age": 44,
+    "Annual Salary": 47230.92278,
+    "Credit Card Debt": 4421.153379,
+    "Net Worth": 558001.0241,
+    "Car Purchase Amount": 37259.84386
+  },
+  {
+    "Gender": 0,
+    "Age": 57,
+    "Annual Salary": 65980.95617,
+    "Credit Card Debt": 7009.186038,
+    "Net Worth": 173272.8954,
+    "Car Purchase Amount": 47715.96049
+  },
+  {
+    "Gender": 0,
+    "Age": 35,
+    "Annual Salary": 51428.66337,
+    "Credit Card Debt": 9221.265417,
+    "Net Worth": 457116.1945,
+    "Car Purchase Amount": 29540.87013
+  },
+  {
+    "Gender": 1,
+    "Age": 53,
+    "Annual Salary": 75381.07571,
+    "Credit Card Debt": 7925.059589,
+    "Net Worth": 545125.9592,
+    "Car Purchase Amount": 60567.18837
+  },
+  {
+    "Gender": 1,
+    "Age": 41,
+    "Annual Salary": 54742.3946,
+    "Credit Card Debt": 10342.60917,
+    "Net Worth": 447393.4883,
+    "Car Purchase Amount": 36125.48846
+  },
+  {
+    "Gender": 0,
+    "Age": 44,
+    "Annual Salary": 76245.2434,
+    "Credit Card Debt": 6139.387823,
+    "Net Worth": 674190.6949,
+    "Car Purchase Amount": 57303.87131
+  },
+  {
+    "Gender": 1,
+    "Age": 63,
+    "Annual Salary": 60409.75787,
+    "Credit Card Debt": 9611.317626,
+    "Net Worth": 255285.4063,
+    "Car Purchase Amount": 51922.07691
+  },
+  {
+    "Gender": 0,
+    "Age": 50,
+    "Annual Salary": 57600.59673,
+    "Credit Card Debt": 10340.30041,
+    "Net Worth": 128387.9293,
+    "Car Purchase Amount": 35848.82935
+  },
+  {
+    "Gender": 1,
+    "Age": 42,
+    "Annual Salary": 71371.92544,
+    "Credit Card Debt": 7094.827,
+    "Net Worth": 321431.279,
+    "Car Purchase Amount": 42704.3221
+  },
+  {
+    "Gender": 1,
+    "Age": 41,
+    "Annual Salary": 79444.01301,
+    "Credit Card Debt": 11620.1079,
+    "Net Worth": 627086.6563,
+    "Car Purchase Amount": 55174.98946
+  },
+  {
+    "Gender": 0,
+    "Age": 40,
+    "Annual Salary": 47569.44212,
+    "Credit Card Debt": 7840.293189,
+    "Net Worth": 281690.8431,
+    "Car Purchase Amount": 26599.90843
+  },
+  {
+    "Gender": 1,
+    "Age": 40,
+    "Annual Salary": 71193.72803,
+    "Credit Card Debt": 3854.733177,
+    "Net Worth": 762832.2606,
+    "Car Purchase Amount": 53993.44322
+  },
+  {
+    "Gender": 1,
+    "Age": 56,
+    "Annual Salary": 46412.82136,
+    "Credit Card Debt": 11652.2729,
+    "Net Worth": 595028.8431,
+    "Car Purchase Amount": 47970.76767
+  },
+  {
+    "Gender": 1,
+    "Age": 48,
+    "Annual Salary": 57368.05622,
+    "Credit Card Debt": 10175.74457,
+    "Net Worth": 466128.9118,
+    "Car Purchase Amount": 43641.65727
+  },
+  {
+    "Gender": 1,
+    "Age": 41,
+    "Annual Salary": 65826.12291,
+    "Credit Card Debt": 11715.3714,
+    "Net Worth": 416748.7309,
+    "Car Purchase Amount": 41679.7929
+  },
+  {
+    "Gender": 0,
+    "Age": 61,
+    "Annual Salary": 61824.8798,
+    "Credit Card Debt": 11211.99502,
+    "Net Worth": 660897.0146,
+    "Car Purchase Amount": 63140.05082
+  },
+  {
+    "Gender": 1,
+    "Age": 35,
+    "Annual Salary": 61723.00613,
+    "Credit Card Debt": 9913.194941,
+    "Net Worth": 291897.4057,
+    "Car Purchase Amount": 30757.65726
+  },
+  {
+    "Gender": 0,
+    "Age": 55,
+    "Annual Salary": 72310.39623,
+    "Credit Card Debt": 3093.707686,
+    "Net Worth": 724025.4097,
+    "Car Purchase Amount": 65592.22012
+  },
+  {
+    "Gender": 0,
+    "Age": 37,
+    "Annual Salary": 67548.77415,
+    "Credit Card Debt": 10462.35581,
+    "Net Worth": 388284.2974,
+    "Car Purchase Amount": 37871.7082
+  },
+  {
+    "Gender": 0,
+    "Age": 48,
+    "Annual Salary": 62175.68945,
+    "Credit Card Debt": 12967.284,
+    "Net Worth": 343290.677,
+    "Car Purchase Amount": 42919.5196
+  },
+  {
+    "Gender": 0,
+    "Age": 32,
+    "Annual Salary": 60584.85458,
+    "Credit Card Debt": 8133.45931,
+    "Net Worth": 129635.6343,
+    "Car Purchase Amount": 22599.45863
+  },
+  {
+    "Gender": 1,
+    "Age": 62,
+    "Annual Salary": 66655.4142,
+    "Credit Card Debt": 8001.644302,
+    "Net Worth": 805075.5197,
+    "Car Purchase Amount": 70598.96768
+  },
+  {
+    "Gender": 0,
+    "Age": 49,
+    "Annual Salary": 63718.8812,
+    "Credit Card Debt": 11863.06428,
+    "Net Worth": 298920.0067,
+    "Car Purchase Amount": 43242.58224
+  },
+  {
+    "Gender": 0,
+    "Age": 43,
+    "Annual Salary": 60862.97749,
+    "Credit Card Debt": 8033.550461,
+    "Net Worth": 344060.1754,
+    "Car Purchase Amount": 38138.57511
+  },
+  {
+    "Gender": 1,
+    "Age": 36,
+    "Annual Salary": 67508.12293,
+    "Credit Card Debt": 10188.68685,
+    "Net Worth": 141587.6498,
+    "Car Purchase Amount": 30419.8
+  },
+  {
+    "Gender": 0,
+    "Age": 61,
+    "Annual Salary": 61639.76386,
+    "Credit Card Debt": 17870.63765,
+    "Net Worth": 684209.551,
+    "Car Purchase Amount": 63868.94051
+  },
+  {
+    "Gender": 0,
+    "Age": 46,
+    "Annual Salary": 63172.95729,
+    "Credit Card Debt": 6332.2019,
+    "Net Worth": 456524.7944,
+    "Car Purchase Amount": 45112.94547
+  },
+  {
+    "Gender": 0,
+    "Age": 57,
+    "Annual Salary": 58653.6591,
+    "Credit Card Debt": 17142.41332,
+    "Net Worth": 201228.0206,
+    "Car Purchase Amount": 44361.87507
+  },
+  {
+    "Gender": 1,
+    "Age": 36,
+    "Annual Salary": 40558.75456,
+    "Credit Card Debt": 4981.269146,
+    "Net Worth": 283241.2769,
+    "Car Purchase Amount": 19525.29827
+  },
+  {
+    "Gender": 0,
+    "Age": 49,
+    "Annual Salary": 76870.00765,
+    "Credit Card Debt": 5575.323416,
+    "Net Worth": 266531.2969,
+    "Car Purchase Amount": 49991.60697
+  },
+  {
+    "Gender": 1,
+    "Age": 63,
+    "Annual Salary": 71948.80529,
+    "Credit Card Debt": 8061.968487,
+    "Net Worth": 365862.7818,
+    "Car Purchase Amount": 61731.71426
+  },
+  {
+    "Gender": 0,
+    "Age": 49,
+    "Annual Salary": 67629.84819,
+    "Credit Card Debt": 10916.85532,
+    "Net Worth": 151946.3089,
+    "Car Purchase Amount": 41769.38288
+  },
+  {
+    "Gender": 1,
+    "Age": 44,
+    "Annual Salary": 67121.32166,
+    "Credit Card Debt": 12087.38116,
+    "Net Worth": 472403.1231,
+    "Car Purchase Amount": 46402.53583
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 57376.4803,
+    "Credit Card Debt": 12878.54582,
+    "Net Worth": 376886.359,
+    "Car Purchase Amount": 37376.63439
+  },
+  {
+    "Gender": 0,
+    "Age": 48,
+    "Annual Salary": 56944.87077,
+    "Credit Card Debt": 16449.0665,
+    "Net Worth": 116407.5289,
+    "Car Purchase Amount": 33766.6413
+  },
+  {
+    "Gender": 0,
+    "Age": 37,
+    "Annual Salary": 60174.05765,
+    "Credit Card Debt": 15666.43155,
+    "Net Worth": 271414.7592,
+    "Car Purchase Amount": 30667.60927
+  },
+  {
+    "Gender": 1,
+    "Age": 49,
+    "Annual Salary": 81997.33071,
+    "Credit Card Debt": 12616.45622,
+    "Net Worth": 237185.1714,
+    "Car Purchase Amount": 52056.41478
+  },
+  {
+    "Gender": 1,
+    "Age": 40,
+    "Annual Salary": 36960.76994,
+    "Credit Card Debt": 1768.874438,
+    "Net Worth": 630120.001,
+    "Car Purchase Amount": 30736.5798
+  },
+  {
+    "Gender": 0,
+    "Age": 42,
+    "Annual Salary": 64412.43101,
+    "Credit Card Debt": 10449.61818,
+    "Net Worth": 355175.3677,
+    "Car Purchase Amount": 39439.45349
+  },
+  {
+    "Gender": 1,
+    "Age": 30,
+    "Annual Salary": 70076.22764,
+    "Credit Card Debt": 1726.809885,
+    "Net Worth": 552267.6361,
+    "Car Purchase Amount": 38174.87433
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 72016.92459,
+    "Credit Card Debt": 11602.74297,
+    "Net Worth": 205006.2161,
+    "Car Purchase Amount": 40589.8625
+  },
+  {
+    "Gender": 0,
+    "Age": 55,
+    "Annual Salary": 63186.12783,
+    "Credit Card Debt": 7122.163863,
+    "Net Worth": 762601.0836,
+    "Car Purchase Amount": 62028.71192
+  },
+  {
+    "Gender": 0,
+    "Age": 40,
+    "Annual Salary": 76086.84122,
+    "Credit Card Debt": 9258.181529,
+    "Net Worth": 482866.5457,
+    "Car Purchase Amount": 48465.27211
+  },
+  {
+    "Gender": 1,
+    "Age": 38,
+    "Annual Salary": 74445.72702,
+    "Credit Card Debt": 7515.152476,
+    "Net Worth": 297964.2638,
+    "Car Purchase Amount": 40095.0498
+  },
+  {
+    "Gender": 0,
+    "Age": 43,
+    "Annual Salary": 85475.64202,
+    "Credit Card Debt": 13786.14942,
+    "Net Worth": 267555.1178,
+    "Car Purchase Amount": 49568.47685
+  },
+  {
+    "Gender": 1,
+    "Age": 37,
+    "Annual Salary": 51111.76605,
+    "Credit Card Debt": 9057.600508,
+    "Net Worth": 461366.7829,
+    "Car Purchase Amount": 31408.62631
+  },
+  {
+    "Gender": 0,
+    "Age": 41,
+    "Annual Salary": 79064.9559,
+    "Credit Card Debt": 7221.667169,
+    "Net Worth": 365871.4992,
+    "Car Purchase Amount": 47719.47741
+  },
+  {
+    "Gender": 1,
+    "Age": 42,
+    "Annual Salary": 55514.9934,
+    "Credit Card Debt": 8009.719809,
+    "Net Worth": 394229.8972,
+    "Car Purchase Amount": 35784.42411
+  },
+  {
+    "Gender": 0,
+    "Age": 38,
+    "Annual Salary": 75901.81829,
+    "Credit Card Debt": 6512.71102,
+    "Net Worth": 357468.1866,
+    "Car Purchase Amount": 42905.53815
+  },
+  {
+    "Gender": 0,
+    "Age": 43,
+    "Annual Salary": 56687.93949,
+    "Credit Card Debt": 10827.1614,
+    "Net Worth": 790116.4252,
+    "Car Purchase Amount": 48516.84335
+  },
+  {
+    "Gender": 0,
+    "Age": 44,
+    "Annual Salary": 59801.06311,
+    "Credit Card Debt": 8042.386734,
+    "Net Worth": 601744.9607,
+    "Car Purchase Amount": 45593.6849
+  },
+  {
+    "Gender": 0,
+    "Age": 41,
+    "Annual Salary": 57303.83325,
+    "Credit Card Debt": 10836.41709,
+    "Net Worth": 258194.8443,
+    "Car Purchase Amount": 32061.6467
+  },
+  {
+    "Gender": 0,
+    "Age": 46,
+    "Annual Salary": 43412.86301,
+    "Credit Card Debt": 7843.402994,
+    "Net Worth": 392003.2864,
+    "Car Purchase Amount": 32208.37522
+  },
+  {
+    "Gender": 1,
+    "Age": 46,
+    "Annual Salary": 58948.93261,
+    "Credit Card Debt": 8282.075073,
+    "Net Worth": 205439.3663,
+    "Car Purchase Amount": 35475.00344
+  },
+  {
+    "Gender": 1,
+    "Age": 40,
+    "Annual Salary": 56086.45033,
+    "Credit Card Debt": 6588.606462,
+    "Net Worth": 228388.5491,
+    "Car Purchase Amount": 29519.56184
+  },
+  {
+    "Gender": 1,
+    "Age": 45,
+    "Annual Salary": 80015.83115,
+    "Credit Card Debt": 9064.618618,
+    "Net Worth": 508555.1592,
+    "Car Purchase Amount": 55420.56668
+  },
+  {
+    "Gender": 1,
+    "Age": 58,
+    "Annual Salary": 41409.2939,
+    "Credit Card Debt": 8211.34092,
+    "Net Worth": 421318.9764,
+    "Car Purchase Amount": 42139.64528
+  },
+  {
+    "Gender": 0,
+    "Age": 62,
+    "Annual Salary": 40387.9207,
+    "Credit Card Debt": 5761.401538,
+    "Net Worth": 622569.5959,
+    "Car Purchase Amount": 50539.90169
+  },
+  {
+    "Gender": 0,
+    "Age": 52,
+    "Annual Salary": 48746.71666,
+    "Credit Card Debt": 3923.407178,
+    "Net Worth": 217188.4056,
+    "Car Purchase Amount": 34922.42846
+  },
+  {
+    "Gender": 0,
+    "Age": 44,
+    "Annual Salary": 70230.15498,
+    "Credit Card Debt": 8542.019129,
+    "Net Worth": 320525.7282,
+    "Car Purchase Amount": 43898.2733
+  },
+  {
+    "Gender": 0,
+    "Age": 44,
+    "Annual Salary": 64961.39305,
+    "Credit Card Debt": 6885.723977,
+    "Net Worth": 265717.2542,
+    "Car Purchase Amount": 39135.03023
+  },
+  {
+    "Gender": 1,
+    "Age": 40,
+    "Annual Salary": 57777.15558,
+    "Credit Card Debt": 19692.91262,
+    "Net Worth": 601210.2803,
+    "Car Purchase Amount": 41147.46679
+  },
+  {
+    "Gender": 0,
+    "Age": 33,
+    "Annual Salary": 54447.15275,
+    "Credit Card Debt": 13141.31969,
+    "Net Worth": 284155.4155,
+    "Car Purchase Amount": 24134.59205
+  },
+  {
+    "Gender": 1,
+    "Age": 44,
+    "Annual Salary": 59712.31101,
+    "Credit Card Debt": 7135.98755,
+    "Net Worth": 487564.5541,
+    "Car Purchase Amount": 42705.11311
+  },
+  {
+    "Gender": 0,
+    "Age": 42,
+    "Annual Salary": 65605.41798,
+    "Credit Card Debt": 13629.1104,
+    "Net Worth": 297540.8814,
+    "Car Purchase Amount": 38901.60925
+  },
+  {
+    "Gender": 1,
+    "Age": 20,
+    "Annual Salary": 70467.29492,
+    "Credit Card Debt": 100,
+    "Net Worth": 494606.6334,
+    "Car Purchase Amount": 28645.39425
+  },
+  {
+    "Gender": 0,
+    "Age": 53,
+    "Annual Salary": 76318.87883,
+    "Credit Card Debt": 6392.211408,
+    "Net Worth": 245216.1691,
+    "Car Purchase Amount": 52150.41786
+  },
+  {
+    "Gender": 1,
+    "Age": 56,
+    "Annual Salary": 77657.56243,
+    "Credit Card Debt": 14438.24233,
+    "Net Worth": 622831.922,
+    "Car Purchase Amount": 66648.25077
+  },
+  {
+    "Gender": 1,
+    "Age": 44,
+    "Annual Salary": 60487.90116,
+    "Credit Card Debt": 9911.037592,
+    "Net Worth": 478428.7174,
+    "Car Purchase Amount": 42909.27129
+  },
+  {
+    "Gender": 1,
+    "Age": 52,
+    "Annual Salary": 67729.9725,
+    "Credit Card Debt": 10279.91264,
+    "Net Worth": 314885.1345,
+    "Car Purchase Amount": 49248.10595
+  },
+  {
+    "Gender": 0,
+    "Age": 43,
+    "Annual Salary": 49463.0635,
+    "Credit Card Debt": 6478.156506,
+    "Net Worth": 201636.866,
+    "Car Purchase Amount": 27303.17104
+  },
+  {
+    "Gender": 1,
+    "Age": 49,
+    "Annual Salary": 65850.47688,
+    "Credit Card Debt": 3912.385616,
+    "Net Worth": 419556.6198,
+    "Car Purchase Amount": 47869.82593
+  },
+  {
+    "Gender": 1,
+    "Age": 56,
+    "Annual Salary": 66505.38124,
+    "Credit Card Debt": 3942.76762,
+    "Net Worth": 621309.5863,
+    "Car Purchase Amount": 59984.16361
+  },
+  {
+    "Gender": 0,
+    "Age": 47,
+    "Annual Salary": 58260.57232,
+    "Credit Card Debt": 4658.41454,
+    "Net Worth": 507572.635,
+    "Car Purchase Amount": 45271.46081
+  },
+  {
+    "Gender": 0,
+    "Age": 25,
+    "Annual Salary": 45092.74073,
+    "Credit Card Debt": 11380.09288,
+    "Net Worth": 158758.3577,
+    "Car Purchase Amount": 9000
+  },
+  {
+    "Gender": 1,
+    "Age": 45,
+    "Annual Salary": 63845.77186,
+    "Credit Card Debt": 7761.848528,
+    "Net Worth": 505048.7599,
+    "Car Purchase Amount": 46012.10616
+  },
+  {
+    "Gender": 1,
+    "Age": 46,
+    "Annual Salary": 55293.575,
+    "Credit Card Debt": 8276.644566,
+    "Net Worth": 169475.9968,
+    "Car Purchase Amount": 32967.20191
+  },
+  {
+    "Gender": 0,
+    "Age": 33,
+    "Annual Salary": 87598.01501,
+    "Credit Card Debt": 10814.57915,
+    "Net Worth": 485563.7363,
+    "Car Purchase Amount": 48785.15839
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 71753.30877,
+    "Credit Card Debt": 9119.791422,
+    "Net Worth": 400703.2655,
+    "Car Purchase Amount": 45824.5656
+  },
+  {
+    "Gender": 1,
+    "Age": 48,
+    "Annual Salary": 45368.15561,
+    "Credit Card Debt": 12203.48778,
+    "Net Worth": 577058.1773,
+    "Car Purchase Amount": 40102.11417
+  },
+  {
+    "Gender": 0,
+    "Age": 48,
+    "Annual Salary": 45362.66982,
+    "Credit Card Debt": 2524.992105,
+    "Net Worth": 399437.5235,
+    "Car Purchase Amount": 35457.1486
+  },
+  {
+    "Gender": 0,
+    "Age": 40,
+    "Annual Salary": 40727.39196,
+    "Credit Card Debt": 9725.549901,
+    "Net Worth": 508528.9957,
+    "Car Purchase Amount": 29556.7932
+  },
+  {
+    "Gender": 1,
+    "Age": 39,
+    "Annual Salary": 58632.58875,
+    "Credit Card Debt": 12035.37079,
+    "Net Worth": 516817.3173,
+    "Car Purchase Amount": 38243.06228
+  },
+  {
+    "Gender": 0,
+    "Age": 39,
+    "Annual Salary": 66680.2741,
+    "Credit Card Debt": 10263.14899,
+    "Net Worth": 556945.8742,
+    "Car Purchase Amount": 44430.63323
+  },
+  {
+    "Gender": 1,
+    "Age": 54,
+    "Annual Salary": 75892.3053,
+    "Credit Card Debt": 8110.946984,
+    "Net Worth": 177878.1758,
+    "Car Purchase Amount": 51046.42226
+  },
+  {
+    "Gender": 0,
+    "Age": 53,
+    "Annual Salary": 59297.41631,
+    "Credit Card Debt": 9592.433147,
+    "Net Worth": 567842.1267,
+    "Car Purchase Amount": 52570.36517
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 92455.72807,
+    "Credit Card Debt": 9877.169366,
+    "Net Worth": 285326.3544,
+    "Car Purchase Amount": 61404.22578
+  },
+  {
+    "Gender": 0,
+    "Age": 55,
+    "Annual Salary": 32697.98161,
+    "Credit Card Debt": 10858.02526,
+    "Net Worth": 218808.7553,
+    "Car Purchase Amount": 28463.64326
+  },
+  {
+    "Gender": 1,
+    "Age": 35,
+    "Annual Salary": 55418.75606,
+    "Credit Card Debt": 8837.654857,
+    "Net Worth": 312927.9187,
+    "Car Purchase Amount": 27586.20078
+  },
+  {
+    "Gender": 0,
+    "Age": 43,
+    "Annual Salary": 68921.40213,
+    "Credit Card Debt": 8120.204455,
+    "Net Worth": 515012.2804,
+    "Car Purchase Amount": 47979.48549
+  },
+  {
+    "Gender": 0,
+    "Age": 37,
+    "Annual Salary": 43739.97829,
+    "Credit Card Debt": 5933.177726,
+    "Net Worth": 517110.9454,
+    "Car Purchase Amount": 28164.86039
+  },
+  {
+    "Gender": 0,
+    "Age": 60,
+    "Annual Salary": 81565.95967,
+    "Credit Card Debt": 9072.063059,
+    "Net Worth": 544291.9504,
+    "Car Purchase Amount": 69669.47402
+  },
+  {
+    "Gender": 0,
+    "Age": 44,
+    "Annual Salary": 65364.06334,
+    "Credit Card Debt": 7839.414396,
+    "Net Worth": 579640.7982,
+    "Car Purchase Amount": 48052.65091
+  },
+  {
+    "Gender": 1,
+    "Age": 39,
+    "Annual Salary": 65019.15701,
+    "Credit Card Debt": 4931.56016,
+    "Net Worth": 341330.7344,
+    "Car Purchase Amount": 37364.23474
+  },
+  {
+    "Gender": 1,
+    "Age": 42,
+    "Annual Salary": 58243.17992,
+    "Credit Card Debt": 15149.03426,
+    "Net Worth": 649323.7878,
+    "Car Purchase Amount": 44500.81936
+  },
+  {
+    "Gender": 0,
+    "Age": 32,
+    "Annual Salary": 73558.87334,
+    "Credit Card Debt": 11164.52652,
+    "Net Worth": 301245.7708,
+    "Car Purchase Amount": 35139.24793
+  },
+  {
+    "Gender": 1,
+    "Age": 52,
+    "Annual Salary": 66088.02369,
+    "Credit Card Debt": 6769.181833,
+    "Net Worth": 557098.9636,
+    "Car Purchase Amount": 55167.37361
+  },
+  {
+    "Gender": 0,
+    "Age": 56,
+    "Annual Salary": 54441.72437,
+    "Credit Card Debt": 4362.720324,
+    "Net Worth": 432850.4157,
+    "Car Purchase Amount": 48383.69071
+  },
+  {
+    "Gender": 1,
+    "Age": 41,
+    "Annual Salary": 60101.79725,
+    "Credit Card Debt": 12989.36784,
+    "Net Worth": 340720.5185,
+    "Car Purchase Amount": 35823.55471
+  },
+  {
+    "Gender": 1,
+    "Age": 51,
+    "Annual Salary": 50153.43545,
+    "Credit Card Debt": 6596.01369,
+    "Net Worth": 266939.1746,
+    "Car Purchase Amount": 36517.70996
+  },
+  {
+    "Gender": 0,
+    "Age": 58,
+    "Annual Salary": 61430.93415,
+    "Credit Card Debt": 11561.07365,
+    "Net Worth": 421891.846,
+    "Car Purchase Amount": 53110.88052
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 65846.5096,
+    "Credit Card Debt": 9141.668545,
+    "Net Worth": 531840.3342,
+    "Car Purchase Amount": 53049.44567
+  },
+  {
+    "Gender": 1,
+    "Age": 29,
+    "Annual Salary": 55433.61187,
+    "Credit Card Debt": 10769.75059,
+    "Net Worth": 276466.6203,
+    "Car Purchase Amount": 21471.11367
+  },
+  {
+    "Gender": 1,
+    "Age": 53,
+    "Annual Salary": 62979.60196,
+    "Credit Card Debt": 14297.25366,
+    "Net Worth": 247421.9185,
+    "Car Purchase Amount": 45015.67953
+  },
+  {
+    "Gender": 0,
+    "Age": 43,
+    "Annual Salary": 76523.33258,
+    "Credit Card Debt": 10373.00856,
+    "Net Worth": 620355.2658,
+    "Car Purchase Amount": 55377.87697
+  },
+  {
+    "Gender": 0,
+    "Age": 62,
+    "Annual Salary": 63956.1618,
+    "Credit Card Debt": 16978.52745,
+    "Net Worth": 360787.6401,
+    "Car Purchase Amount": 56510.13294
+  },
+  {
+    "Gender": 1,
+    "Age": 60,
+    "Annual Salary": 39460.00348,
+    "Credit Card Debt": 8769.290288,
+    "Net Worth": 571245.3714,
+    "Car Purchase Amount": 47443.74443
+  },
+  {
+    "Gender": 1,
+    "Age": 37,
+    "Annual Salary": 66923.43536,
+    "Credit Card Debt": 8611.468093,
+    "Net Worth": 522814.817,
+    "Car Purchase Amount": 41489.64123
+  },
+  {
+    "Gender": 0,
+    "Age": 43,
+    "Annual Salary": 50051.14039,
+    "Credit Card Debt": 893.2353408,
+    "Net Worth": 347177.8367,
+    "Car Purchase Amount": 32553.53423
+  },
+  {
+    "Gender": 0,
+    "Age": 42,
+    "Annual Salary": 61575.9502,
+    "Credit Card Debt": 594.8049491,
+    "Net Worth": 497197.264,
+    "Car Purchase Amount": 41984.62412
+  },
+  {
+    "Gender": 0,
+    "Age": 55,
+    "Annual Salary": 64430.07398,
+    "Credit Card Debt": 6924.106833,
+    "Net Worth": 664862.0102,
+    "Car Purchase Amount": 59538.40327
+  },
+  {
+    "Gender": 1,
+    "Age": 46,
+    "Annual Salary": 63722.00164,
+    "Credit Card Debt": 10711.44472,
+    "Net Worth": 316128.4002,
+    "Car Purchase Amount": 41352.47071
+  },
+  {
+    "Gender": 1,
+    "Age": 50,
+    "Annual Salary": 78518.21527,
+    "Credit Card Debt": 10072.48298,
+    "Net Worth": 294506.0844,
+    "Car Purchase Amount": 52785.16947
+  },
+  {
+    "Gender": 0,
+    "Age": 55,
+    "Annual Salary": 72424.80112,
+    "Credit Card Debt": 9831.184792,
+    "Net Worth": 523680.7699,
+    "Car Purchase Amount": 60117.67886
+  },
+  {
+    "Gender": 0,
+    "Age": 43,
+    "Annual Salary": 77665.17195,
+    "Credit Card Debt": 13308.87932,
+    "Net Worth": 349588.5608,
+    "Car Purchase Amount": 47760.66427
+  },
+  {
+    "Gender": 0,
+    "Age": 52,
+    "Annual Salary": 77345.61633,
+    "Credit Card Debt": 6736.75168,
+    "Net Worth": 665099.139,
+    "Car Purchase Amount": 64188.26862
+  },
+  {
+    "Gender": 0,
+    "Age": 41,
+    "Annual Salary": 71942.40291,
+    "Credit Card Debt": 6995.902524,
+    "Net Worth": 541670.1016,
+    "Car Purchase Amount": 48901.44342
+  },
+  {
+    "Gender": 1,
+    "Age": 38,
+    "Annual Salary": 56039.49793,
+    "Credit Card Debt": 12301.45679,
+    "Net Worth": 360419.0988,
+    "Car Purchase Amount": 31491.41457
+  },
+  {
+    "Gender": 1,
+    "Age": 54,
+    "Annual Salary": 68888.77805,
+    "Credit Card Debt": 10611.60686,
+    "Net Worth": 764531.3203,
+    "Car Purchase Amount": 64147.28888
+  },
+  {
+    "Gender": 1,
+    "Age": 59,
+    "Annual Salary": 49811.99062,
+    "Credit Card Debt": 14013.03451,
+    "Net Worth": 337826.6382,
+    "Car Purchase Amount": 45442.15353
+  },
+  {
+    "Gender": 1,
+    "Age": 47,
+    "Annual Salary": 61370.67766,
+    "Credit Card Debt": 9391.341628,
+    "Net Worth": 462946.4924,
+    "Car Purchase Amount": 45107.22566
+  }
+]

@@ -1,0 +1,48 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  background-color: gray;
+  height: 90vh;
+}
+.container {
+  display: grid;
+  grid-template-rows: 1fr 10fr;
+  width: 100vw;
+  height: 80vh;
+  border: 2px solid black;
+}
+
+.boxes {
+  display: grid;
+  grid-template-columns: 2fr 3fr 2fr;
+
+  border: 5px solid yellow;
+}
+
+.box1 {
+  background-color: red;
+}
+
+.box2 {
+  background-color: skyblue;
+  font-family: "Nanum Brush Script", cursive;
+  font-size: 20px;
+}
+
+.box3 {
+  background-color: white;
+  text-align: center;
+}
+
+.header {
+  background-color: green;
+  font-size: 50px;
+  text-align: center;
+  font-family: "East Sea Dokdo", cursive;
+}
+
+img {
+  width: 200px;
+  height: 300px;
+}

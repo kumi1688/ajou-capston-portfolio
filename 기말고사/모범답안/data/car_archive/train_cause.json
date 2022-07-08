@@ -1,0 +1,2998 @@
+[
+  {
+    "Gender": 0,
+    "Age": 42,
+    "Annual Salary": 62812.09301,
+    "Credit Card Debt": 11609.38091,
+    "Net Worth": 238961.2505
+  },
+  {
+    "Gender": 0,
+    "Age": 41,
+    "Annual Salary": 66646.89292,
+    "Credit Card Debt": 9572.957136,
+    "Net Worth": 530973.9078
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 53798.55112,
+    "Credit Card Debt": 11160.35506,
+    "Net Worth": 638467.1773
+  },
+  {
+    "Gender": 1,
+    "Age": 58,
+    "Annual Salary": 79370.03798,
+    "Credit Card Debt": 14426.16485,
+    "Net Worth": 548599.0524
+  },
+  {
+    "Gender": 1,
+    "Age": 57,
+    "Annual Salary": 59729.1513,
+    "Credit Card Debt": 5358.712177,
+    "Net Worth": 560304.0671
+  },
+  {
+    "Gender": 1,
+    "Age": 57,
+    "Annual Salary": 68499.85162,
+    "Credit Card Debt": 14179.47244,
+    "Net Worth": 428485.3604
+  },
+  {
+    "Gender": 1,
+    "Age": 47,
+    "Annual Salary": 39814.522,
+    "Credit Card Debt": 5958.460188,
+    "Net Worth": 326373.1812
+  },
+  {
+    "Gender": 1,
+    "Age": 50,
+    "Annual Salary": 51752.23445,
+    "Credit Card Debt": 10985.69656,
+    "Net Worth": 629312.4041
+  },
+  {
+    "Gender": 0,
+    "Age": 47,
+    "Annual Salary": 58139.2591,
+    "Credit Card Debt": 3440.823799,
+    "Net Worth": 630059.0274
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 53457.10132,
+    "Credit Card Debt": 12884.07868,
+    "Net Worth": 476643.3544
+  },
+  {
+    "Gender": 1,
+    "Age": 50,
+    "Annual Salary": 73348.70745,
+    "Credit Card Debt": 8270.707359,
+    "Net Worth": 612738.6171
+  },
+  {
+    "Gender": 1,
+    "Age": 53,
+    "Annual Salary": 55421.65733,
+    "Credit Card Debt": 10014.96929,
+    "Net Worth": 293862.5123
+  },
+  {
+    "Gender": 0,
+    "Age": 44,
+    "Annual Salary": 37336.3383,
+    "Credit Card Debt": 10218.32092,
+    "Net Worth": 430907.1673
+  },
+  {
+    "Gender": 0,
+    "Age": 48,
+    "Annual Salary": 68304.47298,
+    "Credit Card Debt": 9466.995128,
+    "Net Worth": 420322.0702
+  },
+  {
+    "Gender": 0,
+    "Age": 55,
+    "Annual Salary": 72776.00382,
+    "Credit Card Debt": 10597.63814,
+    "Net Worth": 146344.8965
+  },
+  {
+    "Gender": 1,
+    "Age": 53,
+    "Annual Salary": 64662.30061,
+    "Credit Card Debt": 11326.03434,
+    "Net Worth": 481433.4324
+  },
+  {
+    "Gender": 0,
+    "Age": 45,
+    "Annual Salary": 63259.87837,
+    "Credit Card Debt": 11495.54999,
+    "Net Worth": 370356.2223
+  },
+  {
+    "Gender": 1,
+    "Age": 48,
+    "Annual Salary": 52682.06401,
+    "Credit Card Debt": 12514.52029,
+    "Net Worth": 549443.5886
+  },
+  {
+    "Gender": 1,
+    "Age": 52,
+    "Annual Salary": 54503.14423,
+    "Credit Card Debt": 7377.820914,
+    "Net Worth": 431098.9998
+  },
+  {
+    "Gender": 0,
+    "Age": 59,
+    "Annual Salary": 55368.23716,
+    "Credit Card Debt": 13272.94647,
+    "Net Worth": 566022.1306
+  },
+  {
+    "Gender": 1,
+    "Age": 52,
+    "Annual Salary": 63435.86304,
+    "Credit Card Debt": 11878.03779,
+    "Net Worth": 480588.2345
+  },
+  {
+    "Gender": 0,
+    "Age": 48,
+    "Annual Salary": 64347.34531,
+    "Credit Card Debt": 10905.36628,
+    "Net Worth": 307226.0977
+  },
+  {
+    "Gender": 1,
+    "Age": 46,
+    "Annual Salary": 65176.69055,
+    "Credit Card Debt": 7698.552234,
+    "Net Worth": 497526.4566
+  },
+  {
+    "Gender": 1,
+    "Age": 47,
+    "Annual Salary": 52027.63837,
+    "Credit Card Debt": 11960.85377,
+    "Net Worth": 688466.0503
+  },
+  {
+    "Gender": 0,
+    "Age": 40,
+    "Annual Salary": 69612.0123,
+    "Credit Card Debt": 8125.598993,
+    "Net Worth": 499086.3442
+  },
+  {
+    "Gender": 0,
+    "Age": 53,
+    "Annual Salary": 53065.57175,
+    "Credit Card Debt": 17805.57607,
+    "Net Worth": 429440.3297
+  },
+  {
+    "Gender": 0,
+    "Age": 28,
+    "Annual Salary": 82842.53385,
+    "Credit Card Debt": 13102.15805,
+    "Net Worth": 315775.3207
+  },
+  {
+    "Gender": 0,
+    "Age": 56,
+    "Annual Salary": 61388.62709,
+    "Credit Card Debt": 14270.00731,
+    "Net Worth": 341691.9337
+  },
+  {
+    "Gender": 1,
+    "Age": 46,
+    "Annual Salary": 100000,
+    "Credit Card Debt": 17452.92179,
+    "Net Worth": 188032.0778
+  },
+  {
+    "Gender": 1,
+    "Age": 40,
+    "Annual Salary": 62891.86556,
+    "Credit Card Debt": 12522.94052,
+    "Net Worth": 583230.976
+  },
+  {
+    "Gender": 1,
+    "Age": 33,
+    "Annual Salary": 39627.1248,
+    "Credit Card Debt": 9371.511071,
+    "Net Worth": 319837.6593
+  },
+  {
+    "Gender": 1,
+    "Age": 40,
+    "Annual Salary": 68859.56489,
+    "Credit Card Debt": 13417.02027,
+    "Net Worth": 486069.073
+  },
+  {
+    "Gender": 1,
+    "Age": 51,
+    "Annual Salary": 82358.22683,
+    "Credit Card Debt": 8092.475103,
+    "Net Worth": 655934.4666
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 67904.39895,
+    "Credit Card Debt": 11417.30952,
+    "Net Worth": 487435.964
+  },
+  {
+    "Gender": 0,
+    "Age": 46,
+    "Annual Salary": 65311.68225,
+    "Credit Card Debt": 7988.753685,
+    "Net Worth": 215673.5384
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 59593.2624,
+    "Credit Card Debt": 12252.73058,
+    "Net Worth": 612242.7755
+  },
+  {
+    "Gender": 1,
+    "Age": 50,
+    "Annual Salary": 47460.54809,
+    "Credit Card Debt": 7405.534271,
+    "Net Worth": 430624.8142
+  },
+  {
+    "Gender": 1,
+    "Age": 22,
+    "Annual Salary": 43131.78411,
+    "Credit Card Debt": 10917.14094,
+    "Net Worth": 326742.7352
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 52263.69806,
+    "Credit Card Debt": 8838.759509,
+    "Net Worth": 213040.9606
+  },
+  {
+    "Gender": 1,
+    "Age": 48,
+    "Annual Salary": 80959.5331,
+    "Credit Card Debt": 4499.921096,
+    "Net Worth": 379749.9152
+  },
+  {
+    "Gender": 0,
+    "Age": 42,
+    "Annual Salary": 66417.66597,
+    "Credit Card Debt": 9183.327621,
+    "Net Worth": 513340.0097
+  },
+  {
+    "Gender": 1,
+    "Age": 46,
+    "Annual Salary": 58457.41492,
+    "Credit Card Debt": 12491.01273,
+    "Net Worth": 410655.9947
+  },
+  {
+    "Gender": 0,
+    "Age": 38,
+    "Annual Salary": 50571.45969,
+    "Credit Card Debt": 13338.32852,
+    "Net Worth": 348833.8403
+  },
+  {
+    "Gender": 1,
+    "Age": 39,
+    "Annual Salary": 50943.16256,
+    "Credit Card Debt": 10816.8855,
+    "Net Worth": 299734.1278
+  },
+  {
+    "Gender": 1,
+    "Age": 61,
+    "Annual Salary": 79792.13096,
+    "Credit Card Debt": 14245.53319,
+    "Net Worth": 497950.2933
+  },
+  {
+    "Gender": 0,
+    "Age": 55,
+    "Annual Salary": 70787.27764,
+    "Credit Card Debt": 10155.34095,
+    "Net Worth": 853913.8532
+  },
+  {
+    "Gender": 1,
+    "Age": 42,
+    "Annual Salary": 56098.50773,
+    "Credit Card Debt": 11675.28496,
+    "Net Worth": 320228.6451
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 57478.37922,
+    "Credit Card Debt": 2230.096344,
+    "Net Worth": 158979.7102
+  },
+  {
+    "Gender": 1,
+    "Age": 41,
+    "Annual Salary": 60181.40633,
+    "Credit Card Debt": 7094.896557,
+    "Net Worth": 390312.1715
+  },
+  {
+    "Gender": 0,
+    "Age": 40,
+    "Annual Salary": 74445.08168,
+    "Credit Card Debt": 7915.758178,
+    "Net Worth": 527420.7269
+  },
+  {
+    "Gender": 1,
+    "Age": 41,
+    "Annual Salary": 38406.7789,
+    "Credit Card Debt": 11023.00268,
+    "Net Worth": 451846.1995
+  },
+  {
+    "Gender": 0,
+    "Age": 56,
+    "Annual Salary": 64616.6881,
+    "Credit Card Debt": 12378.54089,
+    "Net Worth": 779925.7892
+  },
+  {
+    "Gender": 0,
+    "Age": 46,
+    "Annual Salary": 68107.93144,
+    "Credit Card Debt": 7813.602657,
+    "Net Worth": 455609.1429
+  },
+  {
+    "Gender": 1,
+    "Age": 37,
+    "Annual Salary": 72471.81532,
+    "Credit Card Debt": 11216.88676,
+    "Net Worth": 583523.0762
+  },
+  {
+    "Gender": 1,
+    "Age": 52,
+    "Annual Salary": 35069.41886,
+    "Credit Card Debt": 1851.979839,
+    "Net Worth": 353757.5057
+  },
+  {
+    "Gender": 0,
+    "Age": 57,
+    "Annual Salary": 52422.94691,
+    "Credit Card Debt": 6998.46562,
+    "Net Worth": 438067.7506
+  },
+  {
+    "Gender": 1,
+    "Age": 34,
+    "Annual Salary": 84467.78988,
+    "Credit Card Debt": 7772.444847,
+    "Net Worth": 468238.7915
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 51419.50777,
+    "Credit Card Debt": 11331.20447,
+    "Net Worth": 636407.1148
+  },
+  {
+    "Gender": 1,
+    "Age": 50,
+    "Annual Salary": 46609.51626,
+    "Credit Card Debt": 7592.019748,
+    "Net Worth": 409419.5797
+  },
+  {
+    "Gender": 1,
+    "Age": 42,
+    "Annual Salary": 55207.45679,
+    "Credit Card Debt": 9976.434857,
+    "Net Worth": 286062.5162
+  },
+  {
+    "Gender": 1,
+    "Age": 42,
+    "Annual Salary": 46689.4159,
+    "Credit Card Debt": 7829.565502,
+    "Net Worth": 615765.9289
+  },
+  {
+    "Gender": 0,
+    "Age": 42,
+    "Annual Salary": 71847.2544,
+    "Credit Card Debt": 4225.328117,
+    "Net Worth": 476088.3996
+  },
+  {
+    "Gender": 0,
+    "Age": 55,
+    "Annual Salary": 69236.68608,
+    "Credit Card Debt": 9842.842611,
+    "Net Worth": 242495.9886
+  },
+  {
+    "Gender": 0,
+    "Age": 53,
+    "Annual Salary": 54006.77851,
+    "Credit Card Debt": 15189.08845,
+    "Net Worth": 246321.8916
+  },
+  {
+    "Gender": 0,
+    "Age": 53,
+    "Annual Salary": 47228.35999,
+    "Credit Card Debt": 9046.182396,
+    "Net Worth": 456634.2073
+  },
+  {
+    "Gender": 0,
+    "Age": 43,
+    "Annual Salary": 70187.50328,
+    "Credit Card Debt": 6841.540577,
+    "Net Worth": 662176.4851
+  },
+  {
+    "Gender": 0,
+    "Age": 55,
+    "Annual Salary": 62262.94845,
+    "Credit Card Debt": 11785.87919,
+    "Net Worth": 301026.2206
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 59195.82899,
+    "Credit Card Debt": 8634.376791,
+    "Net Worth": 573054.3808
+  },
+  {
+    "Gender": 1,
+    "Age": 57,
+    "Annual Salary": 48716.67271,
+    "Credit Card Debt": 10886.91711,
+    "Net Worth": 662382.6623
+  },
+  {
+    "Gender": 1,
+    "Age": 52,
+    "Annual Salary": 66478.00967,
+    "Credit Card Debt": 13685.88702,
+    "Net Worth": 356553.3996
+  },
+  {
+    "Gender": 1,
+    "Age": 45,
+    "Annual Salary": 50280.0045,
+    "Credit Card Debt": 11350.49408,
+    "Net Worth": 230728.3008
+  },
+  {
+    "Gender": 0,
+    "Age": 56,
+    "Annual Salary": 57393.82872,
+    "Credit Card Debt": 5627.803654,
+    "Net Worth": 411831.0371
+  },
+  {
+    "Gender": 0,
+    "Age": 41,
+    "Annual Salary": 63429.93141,
+    "Credit Card Debt": 10676.21884,
+    "Net Worth": 481335.3582
+  },
+  {
+    "Gender": 1,
+    "Age": 48,
+    "Annual Salary": 59139.2108,
+    "Credit Card Debt": 4630.544424,
+    "Net Worth": 473845.8546
+  },
+  {
+    "Gender": 1,
+    "Age": 56,
+    "Annual Salary": 67015.19372,
+    "Credit Card Debt": 13000.41369,
+    "Net Worth": 355157.6417
+  },
+  {
+    "Gender": 0,
+    "Age": 47,
+    "Annual Salary": 69157.4521,
+    "Credit Card Debt": 15791.61176,
+    "Net Worth": 506986.9824
+  },
+  {
+    "Gender": 1,
+    "Age": 53,
+    "Annual Salary": 50867.94007,
+    "Credit Card Debt": 16732.30638,
+    "Net Worth": 344916.1768
+  },
+  {
+    "Gender": 1,
+    "Age": 57,
+    "Annual Salary": 53450.90036,
+    "Credit Card Debt": 8740.723093,
+    "Net Worth": 309113.0627
+  },
+  {
+    "Gender": 0,
+    "Age": 39,
+    "Annual Salary": 70463.99084,
+    "Credit Card Debt": 10059.55406,
+    "Net Worth": 278799.6958
+  },
+  {
+    "Gender": 0,
+    "Age": 45,
+    "Annual Salary": 52697.15192,
+    "Credit Card Debt": 861.8166529,
+    "Net Worth": 540805.494
+  },
+  {
+    "Gender": 1,
+    "Age": 33,
+    "Annual Salary": 71055.41924,
+    "Credit Card Debt": 6147.918843,
+    "Net Worth": 441527.0144
+  },
+  {
+    "Gender": 1,
+    "Age": 44,
+    "Annual Salary": 55406.46215,
+    "Credit Card Debt": 9522.576495,
+    "Net Worth": 523251.2663
+  },
+  {
+    "Gender": 1,
+    "Age": 40,
+    "Annual Salary": 48567.07462,
+    "Credit Card Debt": 9724.031647,
+    "Net Worth": 407401.3776
+  },
+  {
+    "Gender": 0,
+    "Age": 40,
+    "Annual Salary": 69506.62127,
+    "Credit Card Debt": 5449.471997,
+    "Net Worth": 409293.2658
+  },
+  {
+    "Gender": 1,
+    "Age": 37,
+    "Annual Salary": 69453.71659,
+    "Credit Card Debt": 9565.830875,
+    "Net Worth": 386128.1333
+  },
+  {
+    "Gender": 1,
+    "Age": 40,
+    "Annual Salary": 36929.35124,
+    "Credit Card Debt": 9719.192898,
+    "Net Worth": 245664.3652
+  },
+  {
+    "Gender": 1,
+    "Age": 44,
+    "Annual Salary": 63087.95261,
+    "Credit Card Debt": 11024.02643,
+    "Net Worth": 496856.4912
+  },
+  {
+    "Gender": 0,
+    "Age": 43,
+    "Annual Salary": 50889.34054,
+    "Credit Card Debt": 11041.17891,
+    "Net Worth": 448601.9484
+  },
+  {
+    "Gender": 1,
+    "Age": 58,
+    "Annual Salary": 58065.25694,
+    "Credit Card Debt": 4204.920492,
+    "Net Worth": 388498.5102
+  },
+  {
+    "Gender": 1,
+    "Age": 32,
+    "Annual Salary": 20000,
+    "Credit Card Debt": 14261.80773,
+    "Net Worth": 579181.6552
+  },
+  {
+    "Gender": 1,
+    "Age": 50,
+    "Annual Salary": 60536.20406,
+    "Credit Card Debt": 8244.470226,
+    "Net Worth": 173079.1798
+  },
+  {
+    "Gender": 1,
+    "Age": 59,
+    "Annual Salary": 50667.69759,
+    "Credit Card Debt": 9871.403591,
+    "Net Worth": 536665.0464
+  },
+  {
+    "Gender": 1,
+    "Age": 42,
+    "Annual Salary": 44376.62221,
+    "Credit Card Debt": 13865.09055,
+    "Net Worth": 259049.2824
+  },
+  {
+    "Gender": 0,
+    "Age": 50,
+    "Annual Salary": 75958.28349,
+    "Credit Card Debt": 10562.90377,
+    "Net Worth": 635512.3606
+  },
+  {
+    "Gender": 1,
+    "Age": 53,
+    "Annual Salary": 70896.72853,
+    "Credit Card Debt": 11794.73914,
+    "Net Worth": 398746.8458
+  },
+  {
+    "Gender": 1,
+    "Age": 47,
+    "Annual Salary": 56009.73073,
+    "Credit Card Debt": 11030.2654,
+    "Net Worth": 391848.6041
+  },
+  {
+    "Gender": 0,
+    "Age": 46,
+    "Annual Salary": 90556.62686,
+    "Credit Card Debt": 13872.5667,
+    "Net Worth": 479586.9387
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 71716.45662,
+    "Credit Card Debt": 8870.714301,
+    "Net Worth": 165866.2
+  },
+  {
+    "Gender": 0,
+    "Age": 49,
+    "Annual Salary": 68502.10943,
+    "Credit Card Debt": 5831.118245,
+    "Net Worth": 515084.1891
+  },
+  {
+    "Gender": 0,
+    "Age": 43,
+    "Annual Salary": 46261.42666,
+    "Credit Card Debt": 16767.2636,
+    "Net Worth": 759479.4596
+  },
+  {
+    "Gender": 1,
+    "Age": 53,
+    "Annual Salary": 61858.19077,
+    "Credit Card Debt": 5189.083564,
+    "Net Worth": 706977.053
+  },
+  {
+    "Gender": 1,
+    "Age": 36,
+    "Annual Salary": 49483.83262,
+    "Credit Card Debt": 11811.25253,
+    "Net Worth": 242292.92
+  },
+  {
+    "Gender": 1,
+    "Age": 30,
+    "Annual Salary": 68289.18229,
+    "Credit Card Debt": 7357.787011,
+    "Net Worth": 404457.3099
+  },
+  {
+    "Gender": 0,
+    "Age": 37,
+    "Annual Salary": 47399.22827,
+    "Credit Card Debt": 14562.64194,
+    "Net Worth": 537744.1324
+  },
+  {
+    "Gender": 0,
+    "Age": 48,
+    "Annual Salary": 63975.0609,
+    "Credit Card Debt": 10614.85449,
+    "Net Worth": 891439.8761
+  },
+  {
+    "Gender": 0,
+    "Age": 44,
+    "Annual Salary": 75460.52362,
+    "Credit Card Debt": 6280.929547,
+    "Net Worth": 296972.4085
+  },
+  {
+    "Gender": 0,
+    "Age": 42,
+    "Annual Salary": 51075.46118,
+    "Credit Card Debt": 12416.84845,
+    "Net Worth": 450402.2932
+  },
+  {
+    "Gender": 1,
+    "Age": 50,
+    "Annual Salary": 42433.54619,
+    "Credit Card Debt": 7335.524826,
+    "Net Worth": 386057.421
+  },
+  {
+    "Gender": 1,
+    "Age": 30,
+    "Annual Salary": 61922.8971,
+    "Credit Card Debt": 10366.50326,
+    "Net Worth": 323453.2022
+  },
+  {
+    "Gender": 1,
+    "Age": 42,
+    "Annual Salary": 69946.93924,
+    "Credit Card Debt": 9010.648633,
+    "Net Worth": 778537.2095
+  },
+  {
+    "Gender": 1,
+    "Age": 46,
+    "Annual Salary": 73476.42249,
+    "Credit Card Debt": 9656.806156,
+    "Net Worth": 386287.0208
+  },
+  {
+    "Gender": 1,
+    "Age": 55,
+    "Annual Salary": 75571.20188,
+    "Credit Card Debt": 12887.54899,
+    "Net Worth": 416540.299
+  },
+  {
+    "Gender": 0,
+    "Age": 44,
+    "Annual Salary": 82573.01132,
+    "Credit Card Debt": 1696.989764,
+    "Net Worth": 562605.0655
+  },
+  {
+    "Gender": 0,
+    "Age": 58,
+    "Annual Salary": 50649.64492,
+    "Credit Card Debt": 11211.72016,
+    "Net Worth": 565932.1861
+  },
+  {
+    "Gender": 1,
+    "Age": 42,
+    "Annual Salary": 53427.46192,
+    "Credit Card Debt": 7903.103591,
+    "Net Worth": 238529.6336
+  },
+  {
+    "Gender": 1,
+    "Age": 57,
+    "Annual Salary": 75247.18061,
+    "Credit Card Debt": 13258.46631,
+    "Net Worth": 659279.2011
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 69175.19403,
+    "Credit Card Debt": 6039.594519,
+    "Net Worth": 325701.4083
+  },
+  {
+    "Gender": 0,
+    "Age": 35,
+    "Annual Salary": 84171.16719,
+    "Credit Card Debt": 12719.64415,
+    "Net Worth": 244310.5736
+  },
+  {
+    "Gender": 0,
+    "Age": 43,
+    "Annual Salary": 45721.66835,
+    "Credit Card Debt": 14250.52398,
+    "Net Worth": 790526.5507
+  },
+  {
+    "Gender": 0,
+    "Age": 35,
+    "Annual Salary": 54355.7595,
+    "Credit Card Debt": 10008.76797,
+    "Net Worth": 573052.0119
+  },
+  {
+    "Gender": 1,
+    "Age": 34,
+    "Annual Salary": 77206.48386,
+    "Credit Card Debt": 8493.098575,
+    "Net Worth": 411070.4828
+  },
+  {
+    "Gender": 0,
+    "Age": 48,
+    "Annual Salary": 57005.18595,
+    "Credit Card Debt": 12416.79083,
+    "Net Worth": 408147.0405
+  },
+  {
+    "Gender": 1,
+    "Age": 53,
+    "Annual Salary": 65809.10782,
+    "Credit Card Debt": 4820.839445,
+    "Net Worth": 692401.4668
+  },
+  {
+    "Gender": 0,
+    "Age": 47,
+    "Annual Salary": 65468.1442,
+    "Credit Card Debt": 7248.54142,
+    "Net Worth": 588570.8903
+  },
+  {
+    "Gender": 0,
+    "Age": 54,
+    "Annual Salary": 60991.82443,
+    "Credit Card Debt": 7329.22851,
+    "Net Worth": 586368.9293
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 61809.07451,
+    "Credit Card Debt": 2620.079459,
+    "Net Worth": 407733.5229
+  },
+  {
+    "Gender": 0,
+    "Age": 59,
+    "Annual Salary": 66905.47644,
+    "Credit Card Debt": 10077.49592,
+    "Net Worth": 651215.6435
+  },
+  {
+    "Gender": 0,
+    "Age": 49,
+    "Annual Salary": 65131.25015,
+    "Credit Card Debt": 6206.922109,
+    "Net Worth": 53366.13861
+  },
+  {
+    "Gender": 1,
+    "Age": 51,
+    "Annual Salary": 83626.30783,
+    "Credit Card Debt": 8458.749819,
+    "Net Worth": 167031.5554
+  },
+  {
+    "Gender": 0,
+    "Age": 40,
+    "Annual Salary": 64328.27892,
+    "Credit Card Debt": 13860.43821,
+    "Net Worth": 567357.0264
+  },
+  {
+    "Gender": 1,
+    "Age": 53,
+    "Annual Salary": 69255.98753,
+    "Credit Card Debt": 18361.24915,
+    "Net Worth": 339207.2774
+  },
+  {
+    "Gender": 1,
+    "Age": 45,
+    "Annual Salary": 60575.12604,
+    "Credit Card Debt": 8088.344365,
+    "Net Worth": 291360.0291
+  },
+  {
+    "Gender": 0,
+    "Age": 45,
+    "Annual Salary": 63729.12568,
+    "Credit Card Debt": 12507.19736,
+    "Net Worth": 271430.0543
+  },
+  {
+    "Gender": 0,
+    "Age": 37,
+    "Annual Salary": 64315.73671,
+    "Credit Card Debt": 14871.36126,
+    "Net Worth": 502946.8819
+  },
+  {
+    "Gender": 0,
+    "Age": 43,
+    "Annual Salary": 51419.01644,
+    "Credit Card Debt": 9026.061543,
+    "Net Worth": 362564.346
+  },
+  {
+    "Gender": 0,
+    "Age": 48,
+    "Annual Salary": 53870.48483,
+    "Credit Card Debt": 14720.53399,
+    "Net Worth": 701782.528
+  },
+  {
+    "Gender": 0,
+    "Age": 49,
+    "Annual Salary": 56895.23153,
+    "Credit Card Debt": 9851.578109,
+    "Net Worth": 580950.3967
+  },
+  {
+    "Gender": 1,
+    "Age": 48,
+    "Annual Salary": 52534.20778,
+    "Credit Card Debt": 7583.753853,
+    "Net Worth": 401955.501
+  },
+  {
+    "Gender": 1,
+    "Age": 45,
+    "Annual Salary": 52632.97124,
+    "Credit Card Debt": 12348.67783,
+    "Net Worth": 293999.9427
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 42375.21424,
+    "Credit Card Debt": 6062.60136,
+    "Net Worth": 510039.1484
+  },
+  {
+    "Gender": 0,
+    "Age": 62,
+    "Annual Salary": 65617.29175,
+    "Credit Card Debt": 14392.28833,
+    "Net Worth": 560593.416
+  },
+  {
+    "Gender": 1,
+    "Age": 46,
+    "Annual Salary": 49398.74439,
+    "Credit Card Debt": 6994.617316,
+    "Net Worth": 174525.8426
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 63869.64928,
+    "Credit Card Debt": 12860.65824,
+    "Net Worth": 260269.0963
+  },
+  {
+    "Gender": 1,
+    "Age": 44,
+    "Annual Salary": 60871.18248,
+    "Credit Card Debt": 4397.947571,
+    "Net Worth": 262959.2506
+  },
+  {
+    "Gender": 0,
+    "Age": 57,
+    "Annual Salary": 68090.5087,
+    "Credit Card Debt": 6181.970908,
+    "Net Worth": 316064.0338
+  },
+  {
+    "Gender": 0,
+    "Age": 60,
+    "Annual Salary": 54122.87827,
+    "Credit Card Debt": 15164.87506,
+    "Net Worth": 254617.2609
+  },
+  {
+    "Gender": 1,
+    "Age": 39,
+    "Annual Salary": 59316.93704,
+    "Credit Card Debt": 12296.34158,
+    "Net Worth": 510811.3695
+  },
+  {
+    "Gender": 0,
+    "Age": 61,
+    "Annual Salary": 38779.18396,
+    "Credit Card Debt": 12758.89583,
+    "Net Worth": 581497.8874
+  },
+  {
+    "Gender": 1,
+    "Age": 50,
+    "Annual Salary": 88292.73205,
+    "Credit Card Debt": 10799.1381,
+    "Net Worth": 378357.9385
+  },
+  {
+    "Gender": 1,
+    "Age": 37,
+    "Annual Salary": 68688.40199,
+    "Credit Card Debt": 15796.31838,
+    "Net Worth": 375889.6381
+  },
+  {
+    "Gender": 1,
+    "Age": 45,
+    "Annual Salary": 51906.85022,
+    "Credit Card Debt": 13686.96935,
+    "Net Worth": 85520.85055
+  },
+  {
+    "Gender": 1,
+    "Age": 50,
+    "Annual Salary": 52373.79446,
+    "Credit Card Debt": 11347.62967,
+    "Net Worth": 633383.4925
+  },
+  {
+    "Gender": 0,
+    "Age": 32,
+    "Annual Salary": 73768.12453,
+    "Credit Card Debt": 8132.073716,
+    "Net Worth": 562663.8116
+  },
+  {
+    "Gender": 0,
+    "Age": 34,
+    "Annual Salary": 55576.84068,
+    "Credit Card Debt": 9396.008371,
+    "Net Worth": 475126.1252
+  },
+  {
+    "Gender": 1,
+    "Age": 45,
+    "Annual Salary": 59689.81438,
+    "Credit Card Debt": 14862.84011,
+    "Net Worth": 449895.3046
+  },
+  {
+    "Gender": 0,
+    "Age": 50,
+    "Annual Salary": 55381.53225,
+    "Credit Card Debt": 5088.239017,
+    "Net Worth": 20000
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 34154.77654,
+    "Credit Card Debt": 5316.010491,
+    "Net Worth": 216355.3406
+  },
+  {
+    "Gender": 0,
+    "Age": 53,
+    "Annual Salary": 54382.7481,
+    "Credit Card Debt": 6940.056371,
+    "Net Worth": 191168.4476
+  },
+  {
+    "Gender": 0,
+    "Age": 34,
+    "Annual Salary": 65919.59731,
+    "Credit Card Debt": 7594.363993,
+    "Net Worth": 543789.7212
+  },
+  {
+    "Gender": 0,
+    "Age": 56,
+    "Annual Salary": 39488.45582,
+    "Credit Card Debt": 10992.33383,
+    "Net Worth": 363561.1972
+  },
+  {
+    "Gender": 1,
+    "Age": 57,
+    "Annual Salary": 72637.84482,
+    "Credit Card Debt": 14938.50613,
+    "Net Worth": 352507.9012
+  },
+  {
+    "Gender": 1,
+    "Age": 48,
+    "Annual Salary": 67247.07698,
+    "Credit Card Debt": 9851.689538,
+    "Net Worth": 368344.0637
+  },
+  {
+    "Gender": 0,
+    "Age": 40,
+    "Annual Salary": 71271.84407,
+    "Credit Card Debt": 13122.45694,
+    "Net Worth": 411045.8332
+  },
+  {
+    "Gender": 0,
+    "Age": 50,
+    "Annual Salary": 71693.44742,
+    "Credit Card Debt": 14421.48298,
+    "Net Worth": 517480.0937
+  },
+  {
+    "Gender": 0,
+    "Age": 47,
+    "Annual Salary": 57860.53103,
+    "Credit Card Debt": 7146.192574,
+    "Net Worth": 445745.5544
+  },
+  {
+    "Gender": 1,
+    "Age": 39,
+    "Annual Salary": 69142.08412,
+    "Credit Card Debt": 8707.511532,
+    "Net Worth": 399124.4489
+  },
+  {
+    "Gender": 1,
+    "Age": 36,
+    "Annual Salary": 52477.66494,
+    "Credit Card Debt": 12071.41684,
+    "Net Worth": 97706.89181
+  },
+  {
+    "Gender": 1,
+    "Age": 44,
+    "Annual Salary": 47592.04749,
+    "Credit Card Debt": 13167.65763,
+    "Net Worth": 473101.0273
+  },
+  {
+    "Gender": 0,
+    "Age": 47,
+    "Annual Salary": 48123.36983,
+    "Credit Card Debt": 921.5340234,
+    "Net Worth": 405550.1689
+  },
+  {
+    "Gender": 1,
+    "Age": 33,
+    "Annual Salary": 76916.41515,
+    "Credit Card Debt": 13923.96207,
+    "Net Worth": 315183.5688
+  },
+  {
+    "Gender": 1,
+    "Age": 42,
+    "Annual Salary": 65714.46469,
+    "Credit Card Debt": 12557.08133,
+    "Net Worth": 362707.0273
+  },
+  {
+    "Gender": 1,
+    "Age": 47,
+    "Annual Salary": 40346.06491,
+    "Credit Card Debt": 11505.89906,
+    "Net Worth": 255922.473
+  },
+  {
+    "Gender": 0,
+    "Age": 40,
+    "Annual Salary": 71148.20248,
+    "Credit Card Debt": 7917.65097,
+    "Net Worth": 416817.4673
+  },
+  {
+    "Gender": 1,
+    "Age": 54,
+    "Annual Salary": 81757.66856,
+    "Credit Card Debt": 7500.778414,
+    "Net Worth": 278181.8354
+  },
+  {
+    "Gender": 0,
+    "Age": 38,
+    "Annual Salary": 64867.14911,
+    "Credit Card Debt": 13962.95284,
+    "Net Worth": 498441.5687
+  },
+  {
+    "Gender": 0,
+    "Age": 40,
+    "Annual Salary": 70051.94033,
+    "Credit Card Debt": 4701.316175,
+    "Net Worth": 613706.5421
+  },
+  {
+    "Gender": 1,
+    "Age": 45,
+    "Annual Salary": 62043.16623,
+    "Credit Card Debt": 4980.668295,
+    "Net Worth": 357639.0334
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 85186.48921,
+    "Credit Card Debt": 12413.0319,
+    "Net Worth": 546630.5284
+  },
+  {
+    "Gender": 1,
+    "Age": 38,
+    "Annual Salary": 47127.41632,
+    "Credit Card Debt": 10221.15388,
+    "Net Worth": 427011.4954
+  },
+  {
+    "Gender": 1,
+    "Age": 34,
+    "Annual Salary": 61177.08698,
+    "Credit Card Debt": 9837.222432,
+    "Net Worth": 340663.3261
+  },
+  {
+    "Gender": 1,
+    "Age": 50,
+    "Annual Salary": 57770.36488,
+    "Credit Card Debt": 8628.434025,
+    "Net Worth": 211765.2494
+  },
+  {
+    "Gender": 0,
+    "Age": 42,
+    "Annual Salary": 60432.40367,
+    "Credit Card Debt": 11417.46257,
+    "Net Worth": 415005.3584
+  },
+  {
+    "Gender": 1,
+    "Age": 33,
+    "Annual Salary": 58999.88858,
+    "Credit Card Debt": 6904.420412,
+    "Net Worth": 478422.7973
+  },
+  {
+    "Gender": 1,
+    "Age": 56,
+    "Annual Salary": 62645.95516,
+    "Credit Card Debt": 11431.22966,
+    "Net Worth": 613242.1668
+  },
+  {
+    "Gender": 0,
+    "Age": 57,
+    "Annual Salary": 68782.15718,
+    "Credit Card Debt": 9810.75269,
+    "Net Worth": 350157.8394
+  },
+  {
+    "Gender": 1,
+    "Age": 37,
+    "Annual Salary": 67545.96382,
+    "Credit Card Debt": 7171.466112,
+    "Net Worth": 322905.4592
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 42415.48867,
+    "Credit Card Debt": 5205.008323,
+    "Net Worth": 520997.2385
+  },
+  {
+    "Gender": 0,
+    "Age": 63,
+    "Annual Salary": 44617.98314,
+    "Credit Card Debt": 9683.735879,
+    "Net Worth": 251702.1158
+  },
+  {
+    "Gender": 1,
+    "Age": 53,
+    "Annual Salary": 72226.5603,
+    "Credit Card Debt": 5817.153854,
+    "Net Worth": 623033.482
+  },
+  {
+    "Gender": 1,
+    "Age": 51,
+    "Annual Salary": 48958.90535,
+    "Credit Card Debt": 2418.86434,
+    "Net Worth": 615672.4681
+  },
+  {
+    "Gender": 1,
+    "Age": 48,
+    "Annual Salary": 86067.83527,
+    "Credit Card Debt": 9181.06743,
+    "Net Worth": 335652.6234
+  },
+  {
+    "Gender": 1,
+    "Age": 41,
+    "Annual Salary": 65554.4018,
+    "Credit Card Debt": 12026.57975,
+    "Net Worth": 462613.8587
+  },
+  {
+    "Gender": 0,
+    "Age": 39,
+    "Annual Salary": 69248.4953,
+    "Credit Card Debt": 6445.784981,
+    "Net Worth": 298246.0609
+  },
+  {
+    "Gender": 0,
+    "Age": 45,
+    "Annual Salary": 59331.23555,
+    "Credit Card Debt": 10027.53449,
+    "Net Worth": 543313.3454
+  },
+  {
+    "Gender": 0,
+    "Age": 70,
+    "Annual Salary": 52323.2448,
+    "Credit Card Debt": 12438.85648,
+    "Net Worth": 346555.1716
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 63552.85175,
+    "Credit Card Debt": 9347.50353,
+    "Net Worth": 474763.4696
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 75116.10613,
+    "Credit Card Debt": 5969.666602,
+    "Net Worth": 232607.3907
+  },
+  {
+    "Gender": 0,
+    "Age": 42,
+    "Annual Salary": 38284.02013,
+    "Credit Card Debt": 15467.78745,
+    "Net Worth": 587010.5521
+  },
+  {
+    "Gender": 1,
+    "Age": 50,
+    "Annual Salary": 55293.50777,
+    "Credit Card Debt": 9465.090098,
+    "Net Worth": 629764.2743
+  },
+  {
+    "Gender": 1,
+    "Age": 40,
+    "Annual Salary": 63210.76235,
+    "Credit Card Debt": 3657.863218,
+    "Net Worth": 664431.3966
+  },
+  {
+    "Gender": 1,
+    "Age": 44,
+    "Annual Salary": 54918.38749,
+    "Credit Card Debt": 8920.385015,
+    "Net Worth": 347017.8331
+  },
+  {
+    "Gender": 0,
+    "Age": 52,
+    "Annual Salary": 57262.79581,
+    "Credit Card Debt": 7793.073201,
+    "Net Worth": 322150.3542
+  },
+  {
+    "Gender": 1,
+    "Age": 41,
+    "Annual Salary": 72299.9501,
+    "Credit Card Debt": 11544.93385,
+    "Net Worth": 275389.0701
+  },
+  {
+    "Gender": 0,
+    "Age": 57,
+    "Annual Salary": 50241.48985,
+    "Credit Card Debt": 14817.70896,
+    "Net Worth": 607395.0183
+  },
+  {
+    "Gender": 0,
+    "Age": 54,
+    "Annual Salary": 65834.56889,
+    "Credit Card Debt": 15353.25774,
+    "Net Worth": 152012.353
+  },
+  {
+    "Gender": 1,
+    "Age": 50,
+    "Annual Salary": 60382.17885,
+    "Credit Card Debt": 11302.88277,
+    "Net Worth": 490444.4111
+  },
+  {
+    "Gender": 1,
+    "Age": 37,
+    "Annual Salary": 68691.17086,
+    "Credit Card Debt": 16305.78907,
+    "Net Worth": 619707.4203
+  },
+  {
+    "Gender": 0,
+    "Age": 52,
+    "Annual Salary": 65446.65687,
+    "Credit Card Debt": 8491.586154,
+    "Net Worth": 571564.7901
+  },
+  {
+    "Gender": 0,
+    "Age": 43,
+    "Annual Salary": 42978.34284,
+    "Credit Card Debt": 8884.11069,
+    "Net Worth": 491193.3773
+  },
+  {
+    "Gender": 0,
+    "Age": 52,
+    "Annual Salary": 58143.06285,
+    "Credit Card Debt": 9686.119304,
+    "Net Worth": 261152.8211
+  },
+  {
+    "Gender": 0,
+    "Age": 64,
+    "Annual Salary": 61666.2852,
+    "Credit Card Debt": 11672.72382,
+    "Net Worth": 299854.2186
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 64854.33966,
+    "Credit Card Debt": 3247.887523,
+    "Net Worth": 371240.2413
+  },
+  {
+    "Gender": 0,
+    "Age": 55,
+    "Annual Salary": 45757.15568,
+    "Credit Card Debt": 11207.01556,
+    "Net Worth": 465709.8937
+  },
+  {
+    "Gender": 1,
+    "Age": 47,
+    "Annual Salary": 73096.50927,
+    "Credit Card Debt": 10743.793,
+    "Net Worth": 196421.7402
+  },
+  {
+    "Gender": 1,
+    "Age": 36,
+    "Annual Salary": 67249.05932,
+    "Credit Card Debt": 12998.47232,
+    "Net Worth": 396793.4734
+  },
+  {
+    "Gender": 0,
+    "Age": 39,
+    "Annual Salary": 77165.81297,
+    "Credit Card Debt": 8737.20319,
+    "Net Worth": 478853.3217
+  },
+  {
+    "Gender": 1,
+    "Age": 45,
+    "Annual Salary": 72316.18286,
+    "Credit Card Debt": 8728.916803,
+    "Net Worth": 279393.491
+  },
+  {
+    "Gender": 1,
+    "Age": 47,
+    "Annual Salary": 68431.27055,
+    "Credit Card Debt": 14088.90642,
+    "Net Worth": 383693.2041
+  },
+  {
+    "Gender": 0,
+    "Age": 47,
+    "Annual Salary": 62311.11641,
+    "Credit Card Debt": 9832.05731,
+    "Net Worth": 830430.3692
+  },
+  {
+    "Gender": 0,
+    "Age": 60,
+    "Annual Salary": 53229.14547,
+    "Credit Card Debt": 10756.60888,
+    "Net Worth": 112127.2567
+  },
+  {
+    "Gender": 1,
+    "Age": 59,
+    "Annual Salary": 77662.1109,
+    "Credit Card Debt": 13444.89631,
+    "Net Worth": 331460.4727
+  },
+  {
+    "Gender": 1,
+    "Age": 36,
+    "Annual Salary": 69494.69783,
+    "Credit Card Debt": 20000,
+    "Net Worth": 335809.6171
+  },
+  {
+    "Gender": 0,
+    "Age": 47,
+    "Annual Salary": 61063.35631,
+    "Credit Card Debt": 12066.26571,
+    "Net Worth": 509543.0859
+  },
+  {
+    "Gender": 1,
+    "Age": 38,
+    "Annual Salary": 79368.91741,
+    "Credit Card Debt": 13501.92659,
+    "Net Worth": 761935.5177
+  },
+  {
+    "Gender": 1,
+    "Age": 42,
+    "Annual Salary": 61693.44352,
+    "Credit Card Debt": 10835.25736,
+    "Net Worth": 620522.3842
+  },
+  {
+    "Gender": 1,
+    "Age": 33,
+    "Annual Salary": 47211.66812,
+    "Credit Card Debt": 4295.225339,
+    "Net Worth": 539365.9366
+  },
+  {
+    "Gender": 1,
+    "Age": 39,
+    "Annual Salary": 69897.75291,
+    "Credit Card Debt": 9624.908869,
+    "Net Worth": 565814.725
+  },
+  {
+    "Gender": 0,
+    "Age": 39,
+    "Annual Salary": 63675.93263,
+    "Credit Card Debt": 9631.974905,
+    "Net Worth": 74257.82785
+  },
+  {
+    "Gender": 1,
+    "Age": 55,
+    "Annual Salary": 72302.03223,
+    "Credit Card Debt": 10813.75655,
+    "Net Worth": 234159.0793
+  },
+  {
+    "Gender": 0,
+    "Age": 45,
+    "Annual Salary": 63687.4988,
+    "Credit Card Debt": 13421.36821,
+    "Net Worth": 358615.9327
+  },
+  {
+    "Gender": 1,
+    "Age": 51,
+    "Annual Salary": 63678.15468,
+    "Credit Card Debt": 5011.615145,
+    "Net Worth": 563498.6636
+  },
+  {
+    "Gender": 0,
+    "Age": 49,
+    "Annual Salary": 77435.46545,
+    "Credit Card Debt": 6922.152838,
+    "Net Worth": 48620.32123
+  },
+  {
+    "Gender": 1,
+    "Age": 46,
+    "Annual Salary": 62721.40514,
+    "Credit Card Debt": 16127.56619,
+    "Net Worth": 494985.5363
+  },
+  {
+    "Gender": 1,
+    "Age": 53,
+    "Annual Salary": 70842.83518,
+    "Credit Card Debt": 9536.899689,
+    "Net Worth": 545946.9996
+  },
+  {
+    "Gender": 1,
+    "Age": 39,
+    "Annual Salary": 55285.98625,
+    "Credit Card Debt": 17462.07506,
+    "Net Worth": 734443.6969
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 72002.0552,
+    "Credit Card Debt": 14709.65824,
+    "Net Worth": 568947.7487
+  },
+  {
+    "Gender": 1,
+    "Age": 70,
+    "Annual Salary": 41434.51258,
+    "Credit Card Debt": 6810.555606,
+    "Net Worth": 252220.2937
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 60404.38394,
+    "Credit Card Debt": 4198.839128,
+    "Net Worth": 513974.6812
+  },
+  {
+    "Gender": 0,
+    "Age": 52,
+    "Annual Salary": 65239.06468,
+    "Credit Card Debt": 7437.211028,
+    "Net Worth": 168703.3385
+  },
+  {
+    "Gender": 1,
+    "Age": 45,
+    "Annual Salary": 62939.12851,
+    "Credit Card Debt": 632.0528524,
+    "Net Worth": 455589.7973
+  },
+  {
+    "Gender": 0,
+    "Age": 48,
+    "Annual Salary": 60608.40313,
+    "Credit Card Debt": 8233.280719,
+    "Net Worth": 492113.0067
+  },
+  {
+    "Gender": 1,
+    "Age": 48,
+    "Annual Salary": 56118.39601,
+    "Credit Card Debt": 9242.775995,
+    "Net Worth": 586717.4715
+  },
+  {
+    "Gender": 0,
+    "Age": 48,
+    "Annual Salary": 86706.33333,
+    "Credit Card Debt": 9653.26498,
+    "Net Worth": 333543.693
+  },
+  {
+    "Gender": 1,
+    "Age": 57,
+    "Annual Salary": 41236.36497,
+    "Credit Card Debt": 9399.342975,
+    "Net Worth": 466988.2602
+  },
+  {
+    "Gender": 1,
+    "Age": 46,
+    "Annual Salary": 77146.27598,
+    "Credit Card Debt": 7903.33495,
+    "Net Worth": 418764.5061
+  },
+  {
+    "Gender": 0,
+    "Age": 44,
+    "Annual Salary": 56437.30404,
+    "Credit Card Debt": 10461.98276,
+    "Net Worth": 249182.7848
+  },
+  {
+    "Gender": 1,
+    "Age": 65,
+    "Annual Salary": 70703.85013,
+    "Credit Card Debt": 5025.365518,
+    "Net Worth": 284991.7415
+  },
+  {
+    "Gender": 0,
+    "Age": 57,
+    "Annual Salary": 69810.46265,
+    "Credit Card Debt": 4684.556433,
+    "Net Worth": 720423.8157
+  },
+  {
+    "Gender": 1,
+    "Age": 47,
+    "Annual Salary": 54279.39597,
+    "Credit Card Debt": 5699.184814,
+    "Net Worth": 124979.0501
+  },
+  {
+    "Gender": 0,
+    "Age": 36,
+    "Annual Salary": 70334.42787,
+    "Credit Card Debt": 9823.218967,
+    "Net Worth": 632600.4718
+  },
+  {
+    "Gender": 0,
+    "Age": 57,
+    "Annual Salary": 59168.00751,
+    "Credit Card Debt": 10474.44187,
+    "Net Worth": 623487.5952
+  },
+  {
+    "Gender": 0,
+    "Age": 33,
+    "Annual Salary": 61889.61618,
+    "Credit Card Debt": 12024.48457,
+    "Net Worth": 133226.0617
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 66013.95174,
+    "Credit Card Debt": 7039.540023,
+    "Net Worth": 610942.1408
+  },
+  {
+    "Gender": 1,
+    "Age": 46,
+    "Annual Salary": 55434.04046,
+    "Credit Card Debt": 18693.14652,
+    "Net Worth": 316906.6441
+  },
+  {
+    "Gender": 0,
+    "Age": 45,
+    "Annual Salary": 68499.69447,
+    "Credit Card Debt": 15436.79968,
+    "Net Worth": 308445.8598
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 54749.88645,
+    "Credit Card Debt": 7631.687821,
+    "Net Worth": 152883.3519
+  },
+  {
+    "Gender": 1,
+    "Age": 38,
+    "Annual Salary": 74590.25495,
+    "Credit Card Debt": 5614.004976,
+    "Net Worth": 573441.9724
+  },
+  {
+    "Gender": 1,
+    "Age": 40,
+    "Annual Salary": 67772.66646,
+    "Credit Card Debt": 6887.248301,
+    "Net Worth": 134188.4492
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 62563.57825,
+    "Credit Card Debt": 6130.305181,
+    "Net Worth": 426488.7459
+  },
+  {
+    "Gender": 0,
+    "Age": 42,
+    "Annual Salary": 70361.01504,
+    "Credit Card Debt": 12024.72511,
+    "Net Worth": 575500.7687
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 74810.89471,
+    "Credit Card Debt": 13658.34201,
+    "Net Worth": 286849.7875
+  },
+  {
+    "Gender": 0,
+    "Age": 38,
+    "Annual Salary": 49346.405,
+    "Credit Card Debt": 5827.820346,
+    "Net Worth": 479685.9824
+  },
+  {
+    "Gender": 1,
+    "Age": 41,
+    "Annual Salary": 73426.08521,
+    "Credit Card Debt": 14822.79645,
+    "Net Worth": 336867.7147
+  },
+  {
+    "Gender": 1,
+    "Age": 54,
+    "Annual Salary": 47684.46306,
+    "Credit Card Debt": 10128.76114,
+    "Net Worth": 613372.8917
+  },
+  {
+    "Gender": 0,
+    "Age": 45,
+    "Annual Salary": 72939.83195,
+    "Credit Card Debt": 7787.204492,
+    "Net Worth": 589669.6573
+  },
+  {
+    "Gender": 0,
+    "Age": 41,
+    "Annual Salary": 72277.82609,
+    "Credit Card Debt": 13580.87747,
+    "Net Worth": 202710.1294
+  },
+  {
+    "Gender": 1,
+    "Age": 40,
+    "Annual Salary": 53921.33351,
+    "Credit Card Debt": 9046.18109,
+    "Net Worth": 515305.4841
+  },
+  {
+    "Gender": 0,
+    "Age": 32,
+    "Annual Salary": 65312.96755,
+    "Credit Card Debt": 11398.82486,
+    "Net Worth": 572037.8859
+  },
+  {
+    "Gender": 0,
+    "Age": 54,
+    "Annual Salary": 55619.34152,
+    "Credit Card Debt": 11212.43791,
+    "Net Worth": 229070.5491
+  },
+  {
+    "Gender": 0,
+    "Age": 55,
+    "Annual Salary": 70914.59993,
+    "Credit Card Debt": 9644.41026,
+    "Net Worth": 779143.6005
+  },
+  {
+    "Gender": 0,
+    "Age": 35,
+    "Annual Salary": 33422.99683,
+    "Credit Card Debt": 8570.611562,
+    "Net Worth": 211168.6293
+  },
+  {
+    "Gender": 0,
+    "Age": 46,
+    "Annual Salary": 53382.42693,
+    "Credit Card Debt": 5055.43571,
+    "Net Worth": 438491.876
+  },
+  {
+    "Gender": 1,
+    "Age": 45,
+    "Annual Salary": 74173.39239,
+    "Credit Card Debt": 11315.59626,
+    "Net Worth": 521404.2386
+  },
+  {
+    "Gender": 0,
+    "Age": 50,
+    "Annual Salary": 53587.12801,
+    "Credit Card Debt": 8501.49728,
+    "Net Worth": 811594.0392
+  },
+  {
+    "Gender": 1,
+    "Age": 54,
+    "Annual Salary": 58011.6339,
+    "Credit Card Debt": 9822.426192,
+    "Net Worth": 552454.0263
+  },
+  {
+    "Gender": 1,
+    "Age": 29,
+    "Annual Salary": 69171.95281,
+    "Credit Card Debt": 6354.833826,
+    "Net Worth": 613104.784
+  },
+  {
+    "Gender": 1,
+    "Age": 56,
+    "Annual Salary": 66779.91374,
+    "Credit Card Debt": 14300.12614,
+    "Net Worth": 202576.6196
+  },
+  {
+    "Gender": 0,
+    "Age": 54,
+    "Annual Salary": 79173.0767,
+    "Credit Card Debt": 6913.05683,
+    "Net Worth": 397700.1404
+  },
+  {
+    "Gender": 0,
+    "Age": 33,
+    "Annual Salary": 63065.12164,
+    "Credit Card Debt": 8907.661779,
+    "Net Worth": 505897.3041
+  },
+  {
+    "Gender": 0,
+    "Age": 48,
+    "Annual Salary": 65530.36401,
+    "Credit Card Debt": 8774.069514,
+    "Net Worth": 210573.7042
+  },
+  {
+    "Gender": 0,
+    "Age": 49,
+    "Annual Salary": 63732.3931,
+    "Credit Card Debt": 12848.20061,
+    "Net Worth": 581620.4824
+  },
+  {
+    "Gender": 0,
+    "Age": 55,
+    "Annual Salary": 62689.53964,
+    "Credit Card Debt": 8732.143355,
+    "Net Worth": 481513.5074
+  },
+  {
+    "Gender": 0,
+    "Age": 42,
+    "Annual Salary": 51539.93045,
+    "Credit Card Debt": 6932.950306,
+    "Net Worth": 371355.6935
+  },
+  {
+    "Gender": 1,
+    "Age": 41,
+    "Annual Salary": 59060.08664,
+    "Credit Card Debt": 5841.612044,
+    "Net Worth": 136346.3069
+  },
+  {
+    "Gender": 1,
+    "Age": 53,
+    "Annual Salary": 62713.78149,
+    "Credit Card Debt": 11498.03993,
+    "Net Worth": 679435.1745
+  },
+  {
+    "Gender": 1,
+    "Age": 53,
+    "Annual Salary": 44747.66132,
+    "Credit Card Debt": 4975.144559,
+    "Net Worth": 793986.6155
+  },
+  {
+    "Gender": 0,
+    "Age": 44,
+    "Annual Salary": 65529.70333,
+    "Credit Card Debt": 3932.838165,
+    "Net Worth": 353929.5495
+  },
+  {
+    "Gender": 0,
+    "Age": 42,
+    "Annual Salary": 62426.52379,
+    "Credit Card Debt": 6619.929677,
+    "Net Worth": 630411.2698
+  },
+  {
+    "Gender": 0,
+    "Age": 41,
+    "Annual Salary": 73498.30715,
+    "Credit Card Debt": 3066.939924,
+    "Net Worth": 491904.1899
+  },
+  {
+    "Gender": 0,
+    "Age": 48,
+    "Annual Salary": 86565.15641,
+    "Credit Card Debt": 13701.79986,
+    "Net Worth": 819002.1748
+  },
+  {
+    "Gender": 0,
+    "Age": 63,
+    "Annual Salary": 46549.16329,
+    "Credit Card Debt": 640.045378,
+    "Net Worth": 626163.832
+  },
+  {
+    "Gender": 1,
+    "Age": 59,
+    "Annual Salary": 70111.5398,
+    "Credit Card Debt": 7949.463649,
+    "Net Worth": 239217.6732
+  },
+  {
+    "Gender": 1,
+    "Age": 45,
+    "Annual Salary": 66747.66857,
+    "Credit Card Debt": 9691.23462,
+    "Net Worth": 221290.9818
+  },
+  {
+    "Gender": 1,
+    "Age": 47,
+    "Annual Salary": 72025.6768,
+    "Credit Card Debt": 6988.652757,
+    "Net Worth": 222341.0342
+  },
+  {
+    "Gender": 1,
+    "Age": 49,
+    "Annual Salary": 70737.29383,
+    "Credit Card Debt": 13851.11162,
+    "Net Worth": 266765.477
+  },
+  {
+    "Gender": 1,
+    "Age": 40,
+    "Annual Salary": 57455.7609,
+    "Credit Card Debt": 12186.02793,
+    "Net Worth": 159727.8753
+  },
+  {
+    "Gender": 1,
+    "Age": 41,
+    "Annual Salary": 60657.59355,
+    "Credit Card Debt": 3331.304747,
+    "Net Worth": 392177.789
+  },
+  {
+    "Gender": 0,
+    "Age": 47,
+    "Annual Salary": 50694.42707,
+    "Credit Card Debt": 10881.90102,
+    "Net Worth": 587858.6295
+  },
+  {
+    "Gender": 0,
+    "Age": 27,
+    "Annual Salary": 55369.72784,
+    "Credit Card Debt": 10888.93494,
+    "Net Worth": 606851.1696
+  },
+  {
+    "Gender": 1,
+    "Age": 46,
+    "Annual Salary": 82425.64679,
+    "Credit Card Debt": 7525.252104,
+    "Net Worth": 684273.5913
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 82094.10712,
+    "Credit Card Debt": 1065.607589,
+    "Net Worth": 577272.6805
+  },
+  {
+    "Gender": 0,
+    "Age": 43,
+    "Annual Salary": 74090.51299,
+    "Credit Card Debt": 10877.69223,
+    "Net Worth": 225670.1288
+  },
+  {
+    "Gender": 0,
+    "Age": 32,
+    "Annual Salary": 73935.74201,
+    "Credit Card Debt": 8253.583457,
+    "Net Worth": 625484.0917
+  },
+  {
+    "Gender": 1,
+    "Age": 63,
+    "Annual Salary": 75719.22986,
+    "Credit Card Debt": 10515.28135,
+    "Net Worth": 474485.6659
+  },
+  {
+    "Gender": 1,
+    "Age": 35,
+    "Annual Salary": 47054.14246,
+    "Credit Card Debt": 7234.672092,
+    "Net Worth": 275762.4836
+  },
+  {
+    "Gender": 1,
+    "Age": 50,
+    "Annual Salary": 42003.01617,
+    "Credit Card Debt": 6052.844775,
+    "Net Worth": 579220.0393
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 74418.55717,
+    "Credit Card Debt": 8632.699007,
+    "Net Worth": 472761.6208
+  },
+  {
+    "Gender": 1,
+    "Age": 54,
+    "Annual Salary": 52786.1971,
+    "Credit Card Debt": 9246.813159,
+    "Net Worth": 556014.9704
+  },
+  {
+    "Gender": 0,
+    "Age": 37,
+    "Annual Salary": 78804.99824,
+    "Credit Card Debt": 12710.00309,
+    "Net Worth": 315058.7167
+  },
+  {
+    "Gender": 0,
+    "Age": 44,
+    "Annual Salary": 66932.47176,
+    "Credit Card Debt": 11033.16277,
+    "Net Worth": 149761.1281
+  },
+  {
+    "Gender": 1,
+    "Age": 57,
+    "Annual Salary": 56066.07685,
+    "Credit Card Debt": 5235.7599,
+    "Net Worth": 497876.2478
+  },
+  {
+    "Gender": 0,
+    "Age": 47,
+    "Annual Salary": 48591.57177,
+    "Credit Card Debt": 14309.21115,
+    "Net Worth": 364858.7148
+  },
+  {
+    "Gender": 0,
+    "Age": 52,
+    "Annual Salary": 38213.88844,
+    "Credit Card Debt": 11492.74174,
+    "Net Worth": 579059.3132
+  },
+  {
+    "Gender": 1,
+    "Age": 52,
+    "Annual Salary": 56444.76848,
+    "Credit Card Debt": 11932.73881,
+    "Net Worth": 69821.6376
+  },
+  {
+    "Gender": 0,
+    "Age": 48,
+    "Annual Salary": 67080.6142,
+    "Credit Card Debt": 7880.423663,
+    "Net Worth": 244188.0008
+  },
+  {
+    "Gender": 1,
+    "Age": 55,
+    "Annual Salary": 83333.81054,
+    "Credit Card Debt": 9874.075327,
+    "Net Worth": 1000000
+  },
+  {
+    "Gender": 0,
+    "Age": 47,
+    "Annual Salary": 73502.12458,
+    "Credit Card Debt": 11132.39299,
+    "Net Worth": 765711.6025
+  },
+  {
+    "Gender": 1,
+    "Age": 45,
+    "Annual Salary": 88816.02695,
+    "Credit Card Debt": 9317.22195,
+    "Net Worth": 493592.1764
+  },
+  {
+    "Gender": 1,
+    "Age": 40,
+    "Annual Salary": 70381.37499,
+    "Credit Card Debt": 6718.857016,
+    "Net Worth": 305253.2658
+  },
+  {
+    "Gender": 1,
+    "Age": 47,
+    "Annual Salary": 67647.74764,
+    "Credit Card Debt": 8767.783547,
+    "Net Worth": 787984.2882
+  },
+  {
+    "Gender": 0,
+    "Age": 45,
+    "Annual Salary": 79781.90126,
+    "Credit Card Debt": 11148.10325,
+    "Net Worth": 427287.6277
+  },
+  {
+    "Gender": 1,
+    "Age": 49,
+    "Annual Salary": 64665.39122,
+    "Credit Card Debt": 7404.080751,
+    "Net Worth": 521815.7353
+  },
+  {
+    "Gender": 0,
+    "Age": 60,
+    "Annual Salary": 58837.97088,
+    "Credit Card Debt": 12788.81573,
+    "Net Worth": 622324.7499
+  },
+  {
+    "Gender": 0,
+    "Age": 34,
+    "Annual Salary": 49607.23466,
+    "Credit Card Debt": 9344.32377,
+    "Net Worth": 290711.867
+  },
+  {
+    "Gender": 0,
+    "Age": 36,
+    "Annual Salary": 67032.16445,
+    "Credit Card Debt": 7666.5303,
+    "Net Worth": 516738.1724
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 65245.57379,
+    "Credit Card Debt": 11554.2723,
+    "Net Worth": 542777.4892
+  },
+  {
+    "Gender": 0,
+    "Age": 42,
+    "Annual Salary": 56174.3433,
+    "Credit Card Debt": 10394.57246,
+    "Net Worth": 398011.5804
+  },
+  {
+    "Gender": 0,
+    "Age": 48,
+    "Annual Salary": 47227.01542,
+    "Credit Card Debt": 11312.51035,
+    "Net Worth": 642335.1021
+  },
+  {
+    "Gender": 1,
+    "Age": 35,
+    "Annual Salary": 40300.49467,
+    "Credit Card Debt": 8828.164449,
+    "Net Worth": 719846.9824
+  },
+  {
+    "Gender": 1,
+    "Age": 44,
+    "Annual Salary": 45504.74866,
+    "Credit Card Debt": 9245.466786,
+    "Net Worth": 374777.6929
+  },
+  {
+    "Gender": 0,
+    "Age": 48,
+    "Annual Salary": 50017.38154,
+    "Credit Card Debt": 7514.393035,
+    "Net Worth": 160487.0006
+  },
+  {
+    "Gender": 1,
+    "Age": 47,
+    "Annual Salary": 66226.72902,
+    "Credit Card Debt": 8511.814921,
+    "Net Worth": 356213.0776
+  },
+  {
+    "Gender": 0,
+    "Age": 31,
+    "Annual Salary": 41361.95045,
+    "Credit Card Debt": 10755.50842,
+    "Net Worth": 615720.0425
+  },
+  {
+    "Gender": 1,
+    "Age": 45,
+    "Annual Salary": 56687.41273,
+    "Credit Card Debt": 9050.284083,
+    "Net Worth": 414034.6096
+  },
+  {
+    "Gender": 0,
+    "Age": 49,
+    "Annual Salary": 68114.60169,
+    "Credit Card Debt": 11633.95265,
+    "Net Worth": 521061.1115
+  },
+  {
+    "Gender": 0,
+    "Age": 61,
+    "Annual Salary": 51086.88482,
+    "Credit Card Debt": 12254.53943,
+    "Net Worth": 59630.07789
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 71921.45038,
+    "Credit Card Debt": 6354.372629,
+    "Net Worth": 169714.2655
+  },
+  {
+    "Gender": 1,
+    "Age": 35,
+    "Annual Salary": 56807.01728,
+    "Credit Card Debt": 8851.564939,
+    "Net Worth": 385250.7163
+  },
+  {
+    "Gender": 0,
+    "Age": 53,
+    "Annual Salary": 43019.8475,
+    "Credit Card Debt": 8527.034281,
+    "Net Worth": 454791.7251
+  },
+  {
+    "Gender": 1,
+    "Age": 42,
+    "Annual Salary": 63875.20999,
+    "Credit Card Debt": 11397.68601,
+    "Net Worth": 188327.5831
+  },
+  {
+    "Gender": 1,
+    "Age": 39,
+    "Annual Salary": 41587.39238,
+    "Credit Card Debt": 5397.031602,
+    "Net Worth": 322891.7787
+  },
+  {
+    "Gender": 1,
+    "Age": 38,
+    "Annual Salary": 49661.96712,
+    "Credit Card Debt": 4679.441732,
+    "Net Worth": 375654.1472
+  },
+  {
+    "Gender": 0,
+    "Age": 41,
+    "Annual Salary": 92471.17612,
+    "Credit Card Debt": 5404.397644,
+    "Net Worth": 515717.7476
+  },
+  {
+    "Gender": 0,
+    "Age": 44,
+    "Annual Salary": 70136.82862,
+    "Credit Card Debt": 7765.975483,
+    "Net Worth": 555993.1081
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 52664.71719,
+    "Credit Card Debt": 14435.74305,
+    "Net Worth": 411932.8191
+  },
+  {
+    "Gender": 1,
+    "Age": 39,
+    "Annual Salary": 55618.06942,
+    "Credit Card Debt": 7557.657205,
+    "Net Worth": 854283.5574
+  },
+  {
+    "Gender": 0,
+    "Age": 33,
+    "Annual Salary": 54912.44043,
+    "Credit Card Debt": 8203.56263,
+    "Net Worth": 537572.1338
+  },
+  {
+    "Gender": 0,
+    "Age": 47,
+    "Annual Salary": 56692.78044,
+    "Credit Card Debt": 7946.435929,
+    "Net Worth": 685541.6501
+  },
+  {
+    "Gender": 0,
+    "Age": 45,
+    "Annual Salary": 63561.04525,
+    "Credit Card Debt": 3730.11972,
+    "Net Worth": 608019.6308
+  },
+  {
+    "Gender": 1,
+    "Age": 51,
+    "Annual Salary": 62788.93529,
+    "Credit Card Debt": 13224.45167,
+    "Net Worth": 192514.6431
+  },
+  {
+    "Gender": 0,
+    "Age": 42,
+    "Annual Salary": 38453.86033,
+    "Credit Card Debt": 15283.41752,
+    "Net Worth": 320834.0102
+  },
+  {
+    "Gender": 0,
+    "Age": 55,
+    "Annual Salary": 59486.27073,
+    "Credit Card Debt": 6515.336778,
+    "Net Worth": 228434.0508
+  },
+  {
+    "Gender": 1,
+    "Age": 62,
+    "Annual Salary": 68149.63056,
+    "Credit Card Debt": 9560.448204,
+    "Net Worth": 401916.0981
+  },
+  {
+    "Gender": 0,
+    "Age": 52,
+    "Annual Salary": 49393.46784,
+    "Credit Card Debt": 11521.6189,
+    "Net Worth": 475263.2759
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 72262.20245,
+    "Credit Card Debt": 12124.82386,
+    "Net Worth": 187821.0958
+  },
+  {
+    "Gender": 1,
+    "Age": 63,
+    "Annual Salary": 64494.39535,
+    "Credit Card Debt": 8765.624109,
+    "Net Worth": 408679.8596
+  },
+  {
+    "Gender": 1,
+    "Age": 46,
+    "Annual Salary": 54362.70307,
+    "Credit Card Debt": 15647.35449,
+    "Net Worth": 388898.069
+  },
+  {
+    "Gender": 1,
+    "Age": 47,
+    "Annual Salary": 55657.65681,
+    "Credit Card Debt": 9625.399586,
+    "Net Worth": 377424.6157
+  },
+  {
+    "Gender": 0,
+    "Age": 58,
+    "Annual Salary": 73512.41269,
+    "Credit Card Debt": 11054.27478,
+    "Net Worth": 236420.9695
+  },
+  {
+    "Gender": 1,
+    "Age": 37,
+    "Annual Salary": 70621.52393,
+    "Credit Card Debt": 9384.067625,
+    "Net Worth": 366327.7432
+  },
+  {
+    "Gender": 1,
+    "Age": 51,
+    "Annual Salary": 70275.68706,
+    "Credit Card Debt": 10359.17579,
+    "Net Worth": 253181.9789
+  },
+  {
+    "Gender": 0,
+    "Age": 36,
+    "Annual Salary": 74420.10254,
+    "Credit Card Debt": 10274.13558,
+    "Net Worth": 551344.3365
+  },
+  {
+    "Gender": 1,
+    "Age": 32,
+    "Annual Salary": 54395.05356,
+    "Credit Card Debt": 10693.88704,
+    "Net Worth": 549212.4268
+  },
+  {
+    "Gender": 1,
+    "Age": 32,
+    "Annual Salary": 60384.34541,
+    "Credit Card Debt": 11518.29175,
+    "Net Worth": 589180.4485
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 66813.664,
+    "Credit Card Debt": 15458.68867,
+    "Net Worth": 600685.1915
+  },
+  {
+    "Gender": 0,
+    "Age": 51,
+    "Annual Salary": 84120.95497,
+    "Credit Card Debt": 9596.513091,
+    "Net Worth": 27888.74525
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 54236.62092,
+    "Credit Card Debt": 7275.314728,
+    "Net Worth": 432447.5324
+  },
+  {
+    "Gender": 1,
+    "Age": 58,
+    "Annual Salary": 64426.59613,
+    "Credit Card Debt": 9514.645028,
+    "Net Worth": 137601.844
+  },
+  {
+    "Gender": 1,
+    "Age": 49,
+    "Annual Salary": 71150.19894,
+    "Credit Card Debt": 9848.997857,
+    "Net Worth": 480468.247
+  },
+  {
+    "Gender": 0,
+    "Age": 43,
+    "Annual Salary": 60325.20676,
+    "Credit Card Debt": 10128.1151,
+    "Net Worth": 62149.94034
+  },
+  {
+    "Gender": 1,
+    "Age": 48,
+    "Annual Salary": 91083.73918,
+    "Credit Card Debt": 13148.85597,
+    "Net Worth": 387538.2487
+  },
+  {
+    "Gender": 0,
+    "Age": 40,
+    "Annual Salary": 60380.22868,
+    "Credit Card Debt": 2799.719601,
+    "Net Worth": 508962.4874
+  },
+  {
+    "Gender": 1,
+    "Age": 35,
+    "Annual Salary": 72948.11812,
+    "Credit Card Debt": 12664.32052,
+    "Net Worth": 360457.0496
+  },
+  {
+    "Gender": 0,
+    "Age": 43,
+    "Annual Salary": 74834.57117,
+    "Credit Card Debt": 9366.027561,
+    "Net Worth": 712233.8241
+  },
+  {
+    "Gender": 1,
+    "Age": 57,
+    "Annual Salary": 67752.38329,
+    "Credit Card Debt": 13851.92122,
+    "Net Worth": 657178.4135
+  },
+  {
+    "Gender": 1,
+    "Age": 47,
+    "Annual Salary": 59205.89035,
+    "Credit Card Debt": 2689.317953,
+    "Net Worth": 856287.1522
+  },
+  {
+    "Gender": 0,
+    "Age": 32,
+    "Annual Salary": 64874.03368,
+    "Credit Card Debt": 8511.835275,
+    "Net Worth": 528087.5277
+  },
+  {
+    "Gender": 0,
+    "Age": 44,
+    "Annual Salary": 63305.84963,
+    "Credit Card Debt": 16146.77016,
+    "Net Worth": 749016.565
+  },
+  {
+    "Gender": 0,
+    "Age": 50,
+    "Annual Salary": 74176.2079,
+    "Credit Card Debt": 11894.4244,
+    "Net Worth": 290608.3977
+  },
+  {
+    "Gender": 1,
+    "Age": 44,
+    "Annual Salary": 47230.92278,
+    "Credit Card Debt": 4421.153379,
+    "Net Worth": 558001.0241
+  },
+  {
+    "Gender": 0,
+    "Age": 57,
+    "Annual Salary": 65980.95617,
+    "Credit Card Debt": 7009.186038,
+    "Net Worth": 173272.8954
+  },
+  {
+    "Gender": 0,
+    "Age": 35,
+    "Annual Salary": 51428.66337,
+    "Credit Card Debt": 9221.265417,
+    "Net Worth": 457116.1945
+  },
+  {
+    "Gender": 1,
+    "Age": 53,
+    "Annual Salary": 75381.07571,
+    "Credit Card Debt": 7925.059589,
+    "Net Worth": 545125.9592
+  },
+  {
+    "Gender": 1,
+    "Age": 41,
+    "Annual Salary": 54742.3946,
+    "Credit Card Debt": 10342.60917,
+    "Net Worth": 447393.4883
+  },
+  {
+    "Gender": 0,
+    "Age": 44,
+    "Annual Salary": 76245.2434,
+    "Credit Card Debt": 6139.387823,
+    "Net Worth": 674190.6949
+  },
+  {
+    "Gender": 1,
+    "Age": 63,
+    "Annual Salary": 60409.75787,
+    "Credit Card Debt": 9611.317626,
+    "Net Worth": 255285.4063
+  },
+  {
+    "Gender": 0,
+    "Age": 50,
+    "Annual Salary": 57600.59673,
+    "Credit Card Debt": 10340.30041,
+    "Net Worth": 128387.9293
+  },
+  {
+    "Gender": 1,
+    "Age": 42,
+    "Annual Salary": 71371.92544,
+    "Credit Card Debt": 7094.827,
+    "Net Worth": 321431.279
+  },
+  {
+    "Gender": 1,
+    "Age": 41,
+    "Annual Salary": 79444.01301,
+    "Credit Card Debt": 11620.1079,
+    "Net Worth": 627086.6563
+  },
+  {
+    "Gender": 0,
+    "Age": 40,
+    "Annual Salary": 47569.44212,
+    "Credit Card Debt": 7840.293189,
+    "Net Worth": 281690.8431
+  },
+  {
+    "Gender": 1,
+    "Age": 40,
+    "Annual Salary": 71193.72803,
+    "Credit Card Debt": 3854.733177,
+    "Net Worth": 762832.2606
+  },
+  {
+    "Gender": 1,
+    "Age": 56,
+    "Annual Salary": 46412.82136,
+    "Credit Card Debt": 11652.2729,
+    "Net Worth": 595028.8431
+  },
+  {
+    "Gender": 1,
+    "Age": 48,
+    "Annual Salary": 57368.05622,
+    "Credit Card Debt": 10175.74457,
+    "Net Worth": 466128.9118
+  },
+  {
+    "Gender": 1,
+    "Age": 41,
+    "Annual Salary": 65826.12291,
+    "Credit Card Debt": 11715.3714,
+    "Net Worth": 416748.7309
+  },
+  {
+    "Gender": 0,
+    "Age": 61,
+    "Annual Salary": 61824.8798,
+    "Credit Card Debt": 11211.99502,
+    "Net Worth": 660897.0146
+  },
+  {
+    "Gender": 1,
+    "Age": 35,
+    "Annual Salary": 61723.00613,
+    "Credit Card Debt": 9913.194941,
+    "Net Worth": 291897.4057
+  },
+  {
+    "Gender": 0,
+    "Age": 55,
+    "Annual Salary": 72310.39623,
+    "Credit Card Debt": 3093.707686,
+    "Net Worth": 724025.4097
+  },
+  {
+    "Gender": 0,
+    "Age": 37,
+    "Annual Salary": 67548.77415,
+    "Credit Card Debt": 10462.35581,
+    "Net Worth": 388284.2974
+  },
+  {
+    "Gender": 0,
+    "Age": 48,
+    "Annual Salary": 62175.68945,
+    "Credit Card Debt": 12967.284,
+    "Net Worth": 343290.677
+  },
+  {
+    "Gender": 0,
+    "Age": 32,
+    "Annual Salary": 60584.85458,
+    "Credit Card Debt": 8133.45931,
+    "Net Worth": 129635.6343
+  },
+  {
+    "Gender": 1,
+    "Age": 62,
+    "Annual Salary": 66655.4142,
+    "Credit Card Debt": 8001.644302,
+    "Net Worth": 805075.5197
+  },
+  {
+    "Gender": 0,
+    "Age": 49,
+    "Annual Salary": 63718.8812,
+    "Credit Card Debt": 11863.06428,
+    "Net Worth": 298920.0067
+  },
+  {
+    "Gender": 0,
+    "Age": 43,
+    "Annual Salary": 60862.97749,
+    "Credit Card Debt": 8033.550461,
+    "Net Worth": 344060.1754
+  },
+  {
+    "Gender": 1,
+    "Age": 36,
+    "Annual Salary": 67508.12293,
+    "Credit Card Debt": 10188.68685,
+    "Net Worth": 141587.6498
+  },
+  {
+    "Gender": 0,
+    "Age": 61,
+    "Annual Salary": 61639.76386,
+    "Credit Card Debt": 17870.63765,
+    "Net Worth": 684209.551
+  },
+  {
+    "Gender": 0,
+    "Age": 46,
+    "Annual Salary": 63172.95729,
+    "Credit Card Debt": 6332.2019,
+    "Net Worth": 456524.7944
+  },
+  {
+    "Gender": 0,
+    "Age": 57,
+    "Annual Salary": 58653.6591,
+    "Credit Card Debt": 17142.41332,
+    "Net Worth": 201228.0206
+  },
+  {
+    "Gender": 1,
+    "Age": 36,
+    "Annual Salary": 40558.75456,
+    "Credit Card Debt": 4981.269146,
+    "Net Worth": 283241.2769
+  },
+  {
+    "Gender": 0,
+    "Age": 49,
+    "Annual Salary": 76870.00765,
+    "Credit Card Debt": 5575.323416,
+    "Net Worth": 266531.2969
+  },
+  {
+    "Gender": 1,
+    "Age": 63,
+    "Annual Salary": 71948.80529,
+    "Credit Card Debt": 8061.968487,
+    "Net Worth": 365862.7818
+  },
+  {
+    "Gender": 0,
+    "Age": 49,
+    "Annual Salary": 67629.84819,
+    "Credit Card Debt": 10916.85532,
+    "Net Worth": 151946.3089
+  },
+  {
+    "Gender": 1,
+    "Age": 44,
+    "Annual Salary": 67121.32166,
+    "Credit Card Debt": 12087.38116,
+    "Net Worth": 472403.1231
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 57376.4803,
+    "Credit Card Debt": 12878.54582,
+    "Net Worth": 376886.359
+  },
+  {
+    "Gender": 0,
+    "Age": 48,
+    "Annual Salary": 56944.87077,
+    "Credit Card Debt": 16449.0665,
+    "Net Worth": 116407.5289
+  },
+  {
+    "Gender": 0,
+    "Age": 37,
+    "Annual Salary": 60174.05765,
+    "Credit Card Debt": 15666.43155,
+    "Net Worth": 271414.7592
+  },
+  {
+    "Gender": 1,
+    "Age": 49,
+    "Annual Salary": 81997.33071,
+    "Credit Card Debt": 12616.45622,
+    "Net Worth": 237185.1714
+  },
+  {
+    "Gender": 1,
+    "Age": 40,
+    "Annual Salary": 36960.76994,
+    "Credit Card Debt": 1768.874438,
+    "Net Worth": 630120.001
+  },
+  {
+    "Gender": 0,
+    "Age": 42,
+    "Annual Salary": 64412.43101,
+    "Credit Card Debt": 10449.61818,
+    "Net Worth": 355175.3677
+  },
+  {
+    "Gender": 1,
+    "Age": 30,
+    "Annual Salary": 70076.22764,
+    "Credit Card Debt": 1726.809885,
+    "Net Worth": 552267.6361
+  },
+  {
+    "Gender": 1,
+    "Age": 43,
+    "Annual Salary": 72016.92459,
+    "Credit Card Debt": 11602.74297,
+    "Net Worth": 205006.2161
+  },
+  {
+    "Gender": 0,
+    "Age": 55,
+    "Annual Salary": 63186.12783,
+    "Credit Card Debt": 7122.163863,
+    "Net Worth": 762601.0836
+  },
+  {
+    "Gender": 0,
+    "Age": 40,
+    "Annual Salary": 76086.84122,
+    "Credit Card Debt": 9258.181529,
+    "Net Worth": 482866.5457
+  },
+  {
+    "Gender": 1,
+    "Age": 38,
+    "Annual Salary": 74445.72702,
+    "Credit Card Debt": 7515.152476,
+    "Net Worth": 297964.2638
+  },
+  {
+    "Gender": 0,
+    "Age": 43,
+    "Annual Salary": 85475.64202,
+    "Credit Card Debt": 13786.14942,
+    "Net Worth": 267555.1178
+  },
+  {
+    "Gender": 1,
+    "Age": 37,
+    "Annual Salary": 51111.76605,
+    "Credit Card Debt": 9057.600508,
+    "Net Worth": 461366.7829
+  },
+  {
+    "Gender": 0,
+    "Age": 41,
+    "Annual Salary": 79064.9559,
+    "Credit Card Debt": 7221.667169,
+    "Net Worth": 365871.4992
+  },
+  {
+    "Gender": 1,
+    "Age": 42,
+    "Annual Salary": 55514.9934,
+    "Credit Card Debt": 8009.719809,
+    "Net Worth": 394229.8972
+  },
+  {
+    "Gender": 0,
+    "Age": 38,
+    "Annual Salary": 75901.81829,
+    "Credit Card Debt": 6512.71102,
+    "Net Worth": 357468.1866
+  }
+]
